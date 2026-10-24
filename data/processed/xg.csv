@@ -1,0 +1,71 @@
+match_id,season,date,home_team,away_team,home_xg,away_xg,source,retrieved_at
+029edf758c20,2627,2026-08-21,Arsenal,Coventry,1.88,0.2,football_data_official,2026-10-23 20:57:40
+698842ef3e92,2627,2026-08-22,Hull,Man United,1.01,1.83,football_data_official,2026-10-23 20:57:40
+5f0fb2493e74,2627,2026-08-22,Everton,Crystal Palace,1.12,1.96,football_data_official,2026-10-23 20:57:40
+d2d42d58f9ba,2627,2026-08-22,Ipswich,Sunderland,1.8,0.66,football_data_official,2026-10-23 20:57:40
+c441006f6795,2627,2026-08-22,Nott'm Forest,Leeds,0.66,0.47,football_data_official,2026-10-23 20:57:40
+a7f6947b2937,2627,2026-08-22,Brentford,Tottenham,3.88,0.57,football_data_official,2026-10-23 20:57:40
+09a2b01b3cb3,2627,2026-08-23,Brighton,Aston Villa,3.77,0.28,football_data_official,2026-10-23 20:57:40
+5f6d3292c5d1,2627,2026-08-23,Man City,Bournemouth,2.36,0.63,football_data_official,2026-10-23 20:57:40
+28697352a84d,2627,2026-08-23,Newcastle,Liverpool,1.57,2.98,football_data_official,2026-10-23 20:57:40
+66b8c133760b,2627,2026-08-24,Fulham,Chelsea,1.35,1.7,football_data_official,2026-10-23 20:57:40
+8dfda2d4c3de,2627,2026-08-28,Crystal Palace,Man City,0.66,2.21,football_data_official,2026-10-23 20:57:40
+c1a143d42402,2627,2026-08-29,Liverpool,Nott'm Forest,1.75,2.3,football_data_official,2026-10-23 20:57:40
+bc10f1ac5494,2627,2026-08-29,Bournemouth,Everton,2.15,1.84,football_data_official,2026-10-23 20:57:40
+2b772967846b,2627,2026-08-29,Coventry,Hull,1.28,0.73,football_data_official,2026-10-23 20:57:40
+32eb9809dde4,2627,2026-08-29,Tottenham,Newcastle,1.04,0.75,football_data_official,2026-10-23 20:57:40
+cf94701033d5,2627,2026-08-30,Chelsea,Brighton,2.93,1.4,football_data_official,2026-10-23 20:57:40
+dc15d4f70298,2627,2026-08-30,Leeds,Brentford,1.43,1.56,football_data_official,2026-10-23 20:57:40
+7df478c47cf4,2627,2026-08-30,Sunderland,Fulham,2.02,0.95,football_data_official,2026-10-23 20:57:40
+29013df3524d,2627,2026-08-30,Man United,Ipswich,4.56,2.01,football_data_official,2026-10-23 20:57:40
+2e30dfde1e6d,2627,2026-08-31,Aston Villa,Arsenal,0.32,1.05,football_data_official,2026-10-23 20:57:40
+b9db14283a75,2627,2026-09-04,Ipswich,Liverpool,0.76,0.68,football_data_official,2026-10-23 20:57:40
+bd25cbdc0f79,2627,2026-09-05,Newcastle,Bournemouth,0.71,1.37,football_data_official,2026-10-23 20:57:40
+ee2c36f4cef8,2627,2026-09-05,Brentford,Sunderland,1.2,1.71,football_data_official,2026-10-23 20:57:40
+b6d269b16bb3,2627,2026-09-05,Brighton,Leeds,2.2,2.5,football_data_official,2026-10-23 20:57:40
+5670abc639dd,2627,2026-09-05,Fulham,Crystal Palace,3.14,1.97,football_data_official,2026-10-23 20:57:40
+c8b12e7a5e18,2627,2026-09-05,Man City,Coventry,2.12,1.37,football_data_official,2026-10-23 20:57:40
+4a2ca051302f,2627,2026-09-05,Nott'm Forest,Tottenham,0.92,1.07,football_data_official,2026-10-23 20:57:40
+99e7a1214146,2627,2026-09-05,Hull,Aston Villa,0.57,1.93,football_data_official,2026-10-23 20:57:40
+c642e1a14fa1,2627,2026-09-06,Everton,Man United,1.01,0.69,football_data_official,2026-10-23 20:57:40
+b6bd44eefb07,2627,2026-09-06,Arsenal,Chelsea,2.05,0.39,football_data_official,2026-10-23 20:57:40
+462718063017,2627,2026-09-12,Aston Villa,Nott'm Forest,0.82,2.28,football_data_official,2026-10-23 20:57:40
+a97683201663,2627,2026-09-12,Bournemouth,Brentford,1.75,0.5,football_data_official,2026-10-23 20:57:40
+f2e906921dbe,2627,2026-09-12,Chelsea,Hull,0.9,1.38,football_data_official,2026-10-23 20:57:40
+8251af4ba8f9,2627,2026-09-12,Crystal Palace,Ipswich,0.61,1.68,football_data_official,2026-10-23 20:57:40
+be77d57f1a38,2627,2026-09-12,Liverpool,Fulham,1.28,0.68,football_data_official,2026-10-23 20:57:40
+c8db105ffe89,2627,2026-09-12,Tottenham,Everton,0.69,1.11,football_data_official,2026-10-23 20:57:40
+02351c8be269,2627,2026-09-12,Sunderland,Arsenal,1.8,1.88,football_data_official,2026-10-23 20:57:40
+a1c3251546f1,2627,2026-09-13,Coventry,Brighton,1.34,2.8,football_data_official,2026-10-23 20:57:40
+5651612ba963,2627,2026-09-13,Man United,Man City,1.0,1.1,football_data_official,2026-10-23 20:57:40
+79698a50c906,2627,2026-09-14,Leeds,Newcastle,1.91,0.85,football_data_official,2026-10-23 20:57:40
+08046cd419ed,2627,2026-09-18,Brentford,Chelsea,2.65,0.85,football_data_official,2026-10-23 20:57:40
+6bb5dfc90d9e,2627,2026-09-19,Tottenham,Aston Villa,1.56,1.16,football_data_official,2026-10-23 20:57:40
+6dc2707f70ba,2627,2026-09-19,Brighton,Arsenal,1.31,1.63,football_data_official,2026-10-23 20:57:40
+1d924cad0dc9,2627,2026-09-19,Everton,Ipswich,2.24,1.44,football_data_official,2026-10-23 20:57:40
+a7e12f8177d8,2627,2026-09-19,Newcastle,Hull,1.44,1.59,football_data_official,2026-10-23 20:57:40
+f01d464450c3,2627,2026-09-19,Nott'm Forest,Coventry,1.1,0.67,football_data_official,2026-10-23 20:57:40
+1355ae407964,2627,2026-09-20,Bournemouth,Liverpool,0.79,1.65,football_data_official,2026-10-23 20:57:40
+d3eb434dc89e,2627,2026-09-20,Leeds,Crystal Palace,1.31,1.06,football_data_official,2026-10-23 20:57:40
+e3469a91776a,2627,2026-09-20,Man City,Sunderland,2.82,3.57,football_data_official,2026-10-23 20:57:40
+60223a4a98eb,2627,2026-09-20,Fulham,Man United,1.62,1.6,football_data_official,2026-10-23 20:57:40
+b0470a443eaf,2627,2026-10-10,Arsenal,Leeds,2.33,0.62,football_data_official,2026-10-23 20:57:40
+6552e93ec35f,2627,2026-10-10,Aston Villa,Brentford,2.28,1.06,football_data_official,2026-10-23 20:57:40
+29fdaad66e9a,2627,2026-10-10,Chelsea,Bournemouth,1.1,1.38,football_data_official,2026-10-23 20:57:40
+03530bb188ec,2627,2026-10-10,Ipswich,Fulham,1.15,1.81,football_data_official,2026-10-23 20:57:40
+e353f78d956b,2627,2026-10-10,Sunderland,Brighton,0.72,1.41,football_data_official,2026-10-23 20:57:40
+459897a12035,2627,2026-10-10,Man United,Tottenham,0.8,1.62,football_data_official,2026-10-23 20:57:40
+cc0e8be6c805,2627,2026-10-11,Crystal Palace,Nott'm Forest,2.41,3.34,football_data_official,2026-10-23 20:57:40
+f9a1473e49e1,2627,2026-10-11,Hull,Everton,1.33,1.68,football_data_official,2026-10-23 20:57:40
+206e299494c9,2627,2026-10-11,Liverpool,Man City,0.94,1.29,football_data_official,2026-10-23 20:57:40
+e2d924e0bbf0,2627,2026-10-12,Coventry,Newcastle,1.43,1.84,football_data_official,2026-10-23 20:57:40
+f852c52c1b46,2627,2026-10-17,Everton,Chelsea,0.43,1.47,football_data_official,2026-10-23 20:57:40
+0972de221fe9,2627,2026-10-17,Brentford,Liverpool,0.88,1.64,football_data_official,2026-10-23 20:57:40
+215fb98e776a,2627,2026-10-17,Fulham,Hull,1.38,0.16,football_data_official,2026-10-23 20:57:40
+ae3738d429ff,2627,2026-10-17,Man City,Ipswich,3.53,1.66,football_data_official,2026-10-23 20:57:40
+913cad24ed57,2627,2026-10-17,Newcastle,Aston Villa,0.99,1.57,football_data_official,2026-10-23 20:57:40
+f4497c9c81c6,2627,2026-10-18,Bournemouth,Sunderland,4.23,0.07,football_data_official,2026-10-23 20:57:40
+e4abe27bde66,2627,2026-10-18,Brighton,Crystal Palace,2.0,0.77,football_data_official,2026-10-23 20:57:40
+b72ff21260d6,2627,2026-10-18,Leeds,Man United,1.41,0.92,football_data_official,2026-10-23 20:57:40
+b90aa142b7e8,2627,2026-10-18,Nott'm Forest,Arsenal,0.9,1.14,football_data_official,2026-10-23 20:57:40
+aa8844271be4,2627,2026-10-19,Tottenham,Coventry,0.87,0.82,football_data_official,2026-10-23 20:57:40

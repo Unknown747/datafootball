@@ -1,0 +1,1971 @@
+match_id,season,date,home_team,away_team,home_goals,away_goals,result,source,fotmob_match_id,status
+fc106612f1fd,2122,2021-08-13,Brentford,Arsenal,2,0,H,football_data_official,,matched
+56508ab7320d,2122,2021-08-14,Man United,Leeds,5,1,H,football_data_official,,matched
+89c943601e66,2122,2021-08-14,Burnley,Brighton,1,2,A,football_data_official,,matched
+ded1f965e8f9,2122,2021-08-14,Chelsea,Crystal Palace,3,0,H,football_data_official,,matched
+c34c2007d1ea,2122,2021-08-14,Everton,Southampton,3,1,H,football_data_official,,matched
+1a7af786a4ca,2122,2021-08-14,Leicester,Wolves,1,0,H,football_data_official,,matched
+a00f096bf41c,2122,2021-08-14,Watford,Aston Villa,3,2,H,football_data_official,,matched
+603a659bdd84,2122,2021-08-14,Norwich,Liverpool,0,3,A,football_data_official,,matched
+d411a550cb9d,2122,2021-08-15,Newcastle,West Ham,2,4,A,football_data_official,,matched
+4a0a35de23de,2122,2021-08-15,Tottenham,Man City,1,0,H,football_data_official,,matched
+b4c71868c11f,2122,2021-08-21,Liverpool,Burnley,2,0,H,football_data_official,,matched
+b621a649f870,2122,2021-08-21,Aston Villa,Newcastle,2,0,H,football_data_official,,matched
+a0197b49b730,2122,2021-08-21,Crystal Palace,Brentford,0,0,D,football_data_official,,matched
+ac9884e3385f,2122,2021-08-21,Leeds,Everton,2,2,D,football_data_official,,matched
+ad621386c886,2122,2021-08-21,Man City,Norwich,5,0,H,football_data_official,,matched
+8a7170205578,2122,2021-08-21,Brighton,Watford,2,0,H,football_data_official,,matched
+7514f36c321f,2122,2021-08-22,Southampton,Man United,1,1,D,football_data_official,,matched
+b51bc02ccae8,2122,2021-08-22,Wolves,Tottenham,0,1,A,football_data_official,,matched
+398026ed6bb1,2122,2021-08-22,Arsenal,Chelsea,0,2,A,football_data_official,,matched
+10a108b3188d,2122,2021-08-23,West Ham,Leicester,4,1,H,football_data_official,,matched
+5184d58a5fdd,2122,2021-08-28,Man City,Arsenal,5,0,H,football_data_official,,matched
+bb77c0c25d09,2122,2021-08-28,Aston Villa,Brentford,1,1,D,football_data_official,,matched
+a081089cd354,2122,2021-08-28,Brighton,Everton,0,2,A,football_data_official,,matched
+54c8d5447db4,2122,2021-08-28,Newcastle,Southampton,2,2,D,football_data_official,,matched
+de76dd94ee65,2122,2021-08-28,Norwich,Leicester,1,2,A,football_data_official,,matched
+3d4a52cf1fa7,2122,2021-08-28,West Ham,Crystal Palace,2,2,D,football_data_official,,matched
+1e8984aab475,2122,2021-08-28,Liverpool,Chelsea,1,1,D,football_data_official,,matched
+c001de31b7e4,2122,2021-08-29,Burnley,Leeds,1,1,D,football_data_official,,matched
+a03df9b78d52,2122,2021-08-29,Tottenham,Watford,1,0,H,football_data_official,,matched
+b970e10e1131,2122,2021-08-29,Wolves,Man United,0,1,A,football_data_official,,matched
+612a89a5d178,2122,2021-09-11,Crystal Palace,Tottenham,3,0,H,football_data_official,,matched
+3a9f387a3e1c,2122,2021-09-11,Arsenal,Norwich,1,0,H,football_data_official,,matched
+2be436b8da5f,2122,2021-09-11,Brentford,Brighton,0,1,A,football_data_official,,matched
+0742ddfd5232,2122,2021-09-11,Leicester,Man City,0,1,A,football_data_official,,matched
+b47eef94d2b1,2122,2021-09-11,Man United,Newcastle,4,1,H,football_data_official,,matched
+d2162ed716b3,2122,2021-09-11,Southampton,West Ham,0,0,D,football_data_official,,matched
+a25268bff0bd,2122,2021-09-11,Watford,Wolves,0,2,A,football_data_official,,matched
+92953ad22be7,2122,2021-09-11,Chelsea,Aston Villa,3,0,H,football_data_official,,matched
+464fe100a107,2122,2021-09-12,Leeds,Liverpool,0,3,A,football_data_official,,matched
+f2ef62ae9d1c,2122,2021-09-13,Everton,Burnley,3,1,H,football_data_official,,matched
+2b2496aeb936,2122,2021-09-17,Newcastle,Leeds,1,1,D,football_data_official,,matched
+7beb0e326a38,2122,2021-09-18,Wolves,Brentford,0,2,A,football_data_official,,matched
+4893b31c8152,2122,2021-09-18,Burnley,Arsenal,0,1,A,football_data_official,,matched
+e0db99345ebc,2122,2021-09-18,Liverpool,Crystal Palace,3,0,H,football_data_official,,matched
+d5652e8848c6,2122,2021-09-18,Man City,Southampton,0,0,D,football_data_official,,matched
+8d32d9595bb1,2122,2021-09-18,Norwich,Watford,1,3,A,football_data_official,,matched
+b996e989ba22,2122,2021-09-18,Aston Villa,Everton,3,0,H,football_data_official,,matched
+be12501a1216,2122,2021-09-19,Brighton,Leicester,2,1,H,football_data_official,,matched
+6244442f48cd,2122,2021-09-19,West Ham,Man United,1,2,A,football_data_official,,matched
+f29c259d1081,2122,2021-09-19,Tottenham,Chelsea,0,3,A,football_data_official,,matched
+adb9d3cb4c2a,2122,2021-09-25,Chelsea,Man City,0,1,A,football_data_official,,matched
+e00d4cdbf4ad,2122,2021-09-25,Man United,Aston Villa,0,1,A,football_data_official,,matched
+3cf9762ef4f3,2122,2021-09-25,Everton,Norwich,2,0,H,football_data_official,,matched
+3bab8fe4cb9d,2122,2021-09-25,Leeds,West Ham,1,2,A,football_data_official,,matched
+ae5549544260,2122,2021-09-25,Leicester,Burnley,2,2,D,football_data_official,,matched
+e2817dfb6553,2122,2021-09-25,Watford,Newcastle,1,1,D,football_data_official,,matched
+7aba959f06e4,2122,2021-09-25,Brentford,Liverpool,3,3,D,football_data_official,,matched
+24290f4769cf,2122,2021-09-26,Southampton,Wolves,0,1,A,football_data_official,,matched
+012581471912,2122,2021-09-26,Arsenal,Tottenham,3,1,H,football_data_official,,matched
+3e7e9cb866c1,2122,2021-09-27,Crystal Palace,Brighton,1,1,D,football_data_official,,matched
+b27aa05953df,2122,2021-10-02,Man United,Everton,1,1,D,football_data_official,,matched
+4298b67a07cc,2122,2021-10-02,Burnley,Norwich,0,0,D,football_data_official,,matched
+5f9bf850581d,2122,2021-10-02,Chelsea,Southampton,3,1,H,football_data_official,,matched
+a867354dfe42,2122,2021-10-02,Leeds,Watford,1,0,H,football_data_official,,matched
+4a1eef96a9e2,2122,2021-10-02,Wolves,Newcastle,2,1,H,football_data_official,,matched
+de43ae558ca6,2122,2021-10-02,Brighton,Arsenal,0,0,D,football_data_official,,matched
+b2b86ef55321,2122,2021-10-03,Crystal Palace,Leicester,2,2,D,football_data_official,,matched
+580d5b25f0f1,2122,2021-10-03,Tottenham,Aston Villa,2,1,H,football_data_official,,matched
+642612e5d2a1,2122,2021-10-03,West Ham,Brentford,1,2,A,football_data_official,,matched
+96ce137de987,2122,2021-10-03,Liverpool,Man City,2,2,D,football_data_official,,matched
+350157474456,2122,2021-10-16,Watford,Liverpool,0,5,A,football_data_official,,matched
+cfade7a40e29,2122,2021-10-16,Aston Villa,Wolves,2,3,A,football_data_official,,matched
+1887eb2d42ac,2122,2021-10-16,Leicester,Man United,4,2,H,football_data_official,,matched
+716fbe9621f0,2122,2021-10-16,Man City,Burnley,2,0,H,football_data_official,,matched
+d468bf3d0ed4,2122,2021-10-16,Norwich,Brighton,0,0,D,football_data_official,,matched
+038ae9c05d70,2122,2021-10-16,Southampton,Leeds,1,0,H,football_data_official,,matched
+ca71bdfb3ce2,2122,2021-10-16,Brentford,Chelsea,0,1,A,football_data_official,,matched
+9100a9c54ac5,2122,2021-10-17,Everton,West Ham,0,1,A,football_data_official,,matched
+ac446c567042,2122,2021-10-17,Newcastle,Tottenham,2,3,A,football_data_official,,matched
+b59add3a6322,2122,2021-10-18,Arsenal,Crystal Palace,2,2,D,football_data_official,,matched
+ca177cfe037d,2122,2021-10-22,Arsenal,Aston Villa,3,1,H,football_data_official,,matched
+36426079a9f5,2122,2021-10-23,Chelsea,Norwich,7,0,H,football_data_official,,matched
+d85b87326da3,2122,2021-10-23,Crystal Palace,Newcastle,1,1,D,football_data_official,,matched
+0b23acc86c68,2122,2021-10-23,Everton,Watford,2,5,A,football_data_official,,matched
+31d50c0e281d,2122,2021-10-23,Leeds,Wolves,1,1,D,football_data_official,,matched
+13b5334a5071,2122,2021-10-23,Southampton,Burnley,2,2,D,football_data_official,,matched
+dc0d4645171f,2122,2021-10-23,Brighton,Man City,1,4,A,football_data_official,,matched
+625037e39953,2122,2021-10-24,Brentford,Leicester,1,2,A,football_data_official,,matched
+08a9d64e1627,2122,2021-10-24,West Ham,Tottenham,1,0,H,football_data_official,,matched
+6e0dc01d82bc,2122,2021-10-24,Man United,Liverpool,0,5,A,football_data_official,,matched
+fedd95a22e19,2122,2021-10-30,Leicester,Arsenal,0,2,A,football_data_official,,matched
+4b7c8682f34a,2122,2021-10-30,Burnley,Brentford,3,1,H,football_data_official,,matched
+19ba8110e607,2122,2021-10-30,Liverpool,Brighton,2,2,D,football_data_official,,matched
+67bdb0d6c369,2122,2021-10-30,Man City,Crystal Palace,0,2,A,football_data_official,,matched
+8e1fe2a5a56d,2122,2021-10-30,Newcastle,Chelsea,0,3,A,football_data_official,,matched
+7555ca053e79,2122,2021-10-30,Watford,Southampton,0,1,A,football_data_official,,matched
+35a394f92284,2122,2021-10-30,Tottenham,Man United,0,3,A,football_data_official,,matched
+1dfa49a946be,2122,2021-10-31,Norwich,Leeds,1,2,A,football_data_official,,matched
+d1f54acd5050,2122,2021-10-31,Aston Villa,West Ham,1,4,A,football_data_official,,matched
+5bbbbc1ccdc0,2122,2021-11-01,Wolves,Everton,2,1,H,football_data_official,,matched
+5fced5c23427,2122,2021-11-05,Southampton,Aston Villa,1,0,H,football_data_official,,matched
+8b1ff72921bf,2122,2021-11-06,Man United,Man City,0,2,A,football_data_official,,matched
+44489e7a2ad4,2122,2021-11-06,Brentford,Norwich,1,2,A,football_data_official,,matched
+299e8c49ac64,2122,2021-11-06,Chelsea,Burnley,1,1,D,football_data_official,,matched
+c03d4164fca5,2122,2021-11-06,Crystal Palace,Wolves,2,0,H,football_data_official,,matched
+6e9f5bbdc479,2122,2021-11-06,Brighton,Newcastle,1,1,D,football_data_official,,matched
+8de421333fbf,2122,2021-11-07,Arsenal,Watford,1,0,H,football_data_official,,matched
+56a9b34ec62a,2122,2021-11-07,Everton,Tottenham,0,0,D,football_data_official,,matched
+46c81905c9be,2122,2021-11-07,Leeds,Leicester,1,1,D,football_data_official,,matched
+5d6f27cb3ce7,2122,2021-11-07,West Ham,Liverpool,3,2,H,football_data_official,,matched
+e2b606b0b33b,2122,2021-11-20,Leicester,Chelsea,0,3,A,football_data_official,,matched
+8d8ec1ebaab5,2122,2021-11-20,Aston Villa,Brighton,2,0,H,football_data_official,,matched
+38a1712bb303,2122,2021-11-20,Burnley,Crystal Palace,3,3,D,football_data_official,,matched
+78831d1f72a5,2122,2021-11-20,Newcastle,Brentford,3,3,D,football_data_official,,matched
+e4058b2aa7e2,2122,2021-11-20,Norwich,Southampton,2,1,H,football_data_official,,matched
+f7b2fc64bd79,2122,2021-11-20,Watford,Man United,4,1,H,football_data_official,,matched
+b4777a16efd2,2122,2021-11-20,Wolves,West Ham,1,0,H,football_data_official,,matched
+2054f9049037,2122,2021-11-20,Liverpool,Arsenal,4,0,H,football_data_official,,matched
+6f9ba394908b,2122,2021-11-21,Man City,Everton,3,0,H,football_data_official,,matched
+e6eac8942e48,2122,2021-11-21,Tottenham,Leeds,2,1,H,football_data_official,,matched
+7a0e61517fb0,2122,2021-11-27,Arsenal,Newcastle,2,0,H,football_data_official,,matched
+f99e83194c3f,2122,2021-11-27,Crystal Palace,Aston Villa,1,2,A,football_data_official,,matched
+3ebd420bcb24,2122,2021-11-27,Liverpool,Southampton,4,0,H,football_data_official,,matched
+1d9a099511bc,2122,2021-11-27,Norwich,Wolves,0,0,D,football_data_official,,matched
+76f14e2f3ee7,2122,2021-11-27,Brighton,Leeds,0,0,D,football_data_official,,matched
+557bbacfb163,2122,2021-11-28,Brentford,Everton,1,0,H,football_data_official,,matched
+96a2de00cced,2122,2021-11-28,Leicester,Watford,4,2,H,football_data_official,,matched
+8f34fe0145f2,2122,2021-11-28,Man City,West Ham,2,1,H,football_data_official,,matched
+dba29e2b6416,2122,2021-11-28,Chelsea,Man United,1,1,D,football_data_official,,matched
+bcedc17791c8,2122,2021-11-30,Newcastle,Norwich,1,1,D,football_data_official,,matched
+5fcb4117dab7,2122,2021-11-30,Leeds,Crystal Palace,1,0,H,football_data_official,,matched
+2d85589fa21c,2122,2021-12-01,Southampton,Leicester,2,2,D,football_data_official,,matched
+1f9c09de7478,2122,2021-12-01,Watford,Chelsea,1,2,A,football_data_official,,matched
+c28a4aa60177,2122,2021-12-01,West Ham,Brighton,1,1,D,football_data_official,,matched
+63cb3b975271,2122,2021-12-01,Wolves,Burnley,0,0,D,football_data_official,,matched
+40f3006daae8,2122,2021-12-01,Aston Villa,Man City,1,2,A,football_data_official,,matched
+c69f863ba328,2122,2021-12-01,Everton,Liverpool,1,4,A,football_data_official,,matched
+4665b4f2d30f,2122,2021-12-02,Tottenham,Brentford,2,0,H,football_data_official,,matched
+b768864599ff,2122,2021-12-02,Man United,Arsenal,3,2,H,football_data_official,,matched
+38d54b4d0b5a,2122,2021-12-04,West Ham,Chelsea,3,2,H,football_data_official,,matched
+b8684c53a915,2122,2021-12-04,Newcastle,Burnley,1,0,H,football_data_official,,matched
+803fc57715f5,2122,2021-12-04,Southampton,Brighton,1,1,D,football_data_official,,matched
+6391d9e547ec,2122,2021-12-04,Wolves,Liverpool,0,1,A,football_data_official,,matched
+02a7ecc48050,2122,2021-12-04,Watford,Man City,1,3,A,football_data_official,,matched
+7d68f3e999df,2122,2021-12-05,Leeds,Brentford,2,2,D,football_data_official,,matched
+68249468757d,2122,2021-12-05,Man United,Crystal Palace,1,0,H,football_data_official,,matched
+1c5be6dfa250,2122,2021-12-05,Tottenham,Norwich,3,0,H,football_data_official,,matched
+1e76f035fc82,2122,2021-12-05,Aston Villa,Leicester,2,1,H,football_data_official,,matched
+2011ae3be79b,2122,2021-12-06,Everton,Arsenal,2,1,H,football_data_official,,matched
+099f6fc891ed,2122,2021-12-10,Brentford,Watford,2,1,H,football_data_official,,matched
+e85f4f90acb3,2122,2021-12-11,Man City,Wolves,1,0,H,football_data_official,,matched
+ff9be14a2766,2122,2021-12-11,Arsenal,Southampton,3,0,H,football_data_official,,matched
+fcdf79895bb3,2122,2021-12-11,Chelsea,Leeds,3,2,H,football_data_official,,matched
+296ef3d98b7d,2122,2021-12-11,Liverpool,Aston Villa,1,0,H,football_data_official,,matched
+9da8bd920f68,2122,2021-12-11,Norwich,Man United,0,1,A,football_data_official,,matched
+3b37da55a3d7,2122,2021-12-12,Burnley,West Ham,0,0,D,football_data_official,,matched
+f1fafd69a268,2122,2021-12-12,Leicester,Newcastle,4,0,H,football_data_official,,matched
+e819fa8425c3,2122,2021-12-12,Crystal Palace,Everton,3,1,H,football_data_official,,matched
+a41ac9108228,2122,2021-12-14,Norwich,Aston Villa,0,2,A,football_data_official,,matched
+c437b204c329,2122,2021-12-14,Man City,Leeds,7,0,H,football_data_official,,matched
+2e82a5b472bf,2122,2021-12-15,Brighton,Wolves,0,1,A,football_data_official,,matched
+ec57217ca7a8,2122,2021-12-15,Crystal Palace,Southampton,2,2,D,football_data_official,,matched
+02b513afe3a8,2122,2021-12-15,Arsenal,West Ham,2,0,H,football_data_official,,matched
+bebde6c478fd,2122,2021-12-16,Chelsea,Everton,1,1,D,football_data_official,,matched
+5da3ed85b559,2122,2021-12-16,Liverpool,Newcastle,3,1,H,football_data_official,,matched
+63e2c95ef13e,2122,2021-12-18,Leeds,Arsenal,1,4,A,football_data_official,,matched
+613c059cc56a,2122,2021-12-19,Newcastle,Man City,0,4,A,football_data_official,,matched
+1240a40cefcb,2122,2021-12-19,Wolves,Chelsea,0,0,D,football_data_official,,matched
+b295021cdd3a,2122,2021-12-19,Tottenham,Liverpool,2,2,D,football_data_official,,matched
+26185cb41003,2122,2021-12-26,Man City,Leicester,6,3,H,football_data_official,,matched
+947389a9fca0,2122,2021-12-26,Norwich,Arsenal,0,5,A,football_data_official,,matched
+27af2d063443,2122,2021-12-26,Tottenham,Crystal Palace,3,0,H,football_data_official,,matched
+4fd16d77a523,2122,2021-12-26,West Ham,Southampton,2,3,A,football_data_official,,matched
+23b1488827b8,2122,2021-12-26,Aston Villa,Chelsea,1,3,A,football_data_official,,matched
+8da39e6dc970,2122,2021-12-26,Brighton,Brentford,2,0,H,football_data_official,,matched
+c88644875353,2122,2021-12-27,Newcastle,Man United,1,1,D,football_data_official,,matched
+3c5c692953a7,2122,2021-12-28,Crystal Palace,Norwich,3,0,H,football_data_official,,matched
+5e08856c6b46,2122,2021-12-28,Southampton,Tottenham,1,1,D,football_data_official,,matched
+8ec9ebd09022,2122,2021-12-28,Watford,West Ham,1,4,A,football_data_official,,matched
+c287c46df7a4,2122,2021-12-28,Leicester,Liverpool,1,0,H,football_data_official,,matched
+79758f5c096e,2122,2021-12-29,Chelsea,Brighton,1,1,D,football_data_official,,matched
+9e48c779e0c9,2122,2021-12-29,Brentford,Man City,0,1,A,football_data_official,,matched
+bd56001aeb41,2122,2021-12-30,Man United,Burnley,3,1,H,football_data_official,,matched
+be098034ab01,2122,2022-01-01,Arsenal,Man City,1,2,A,football_data_official,,matched
+e621e7d39875,2122,2022-01-01,Watford,Tottenham,0,1,A,football_data_official,,matched
+43d55a98906b,2122,2022-01-01,Crystal Palace,West Ham,2,3,A,football_data_official,,matched
+2e7cb6c03c5f,2122,2022-01-02,Brentford,Aston Villa,2,1,H,football_data_official,,matched
+342f351c6ba4,2122,2022-01-02,Everton,Brighton,2,3,A,football_data_official,,matched
+62b305b42fe1,2122,2022-01-02,Leeds,Burnley,3,1,H,football_data_official,,matched
+76b7728d48a0,2122,2022-01-02,Chelsea,Liverpool,2,2,D,football_data_official,,matched
+2f0b1c184ac4,2122,2022-01-03,Man United,Wolves,0,1,A,football_data_official,,matched
+6e4b07196315,2122,2022-01-11,Southampton,Brentford,4,1,H,football_data_official,,matched
+9a9d8198f6dc,2122,2022-01-12,West Ham,Norwich,2,0,H,football_data_official,,matched
+4a5793d55143,2122,2022-01-14,Brighton,Crystal Palace,1,1,D,football_data_official,,matched
+8b5833451ded,2122,2022-01-15,Man City,Chelsea,1,0,H,football_data_official,,matched
+0e0decec3ed2,2122,2022-01-15,Newcastle,Watford,1,1,D,football_data_official,,matched
+179c34896ba8,2122,2022-01-15,Norwich,Everton,2,1,H,football_data_official,,matched
+012878df1c8f,2122,2022-01-15,Wolves,Southampton,3,1,H,football_data_official,,matched
+4f1196bbd31a,2122,2022-01-15,Aston Villa,Man United,2,2,D,football_data_official,,matched
+1f32e16c013a,2122,2022-01-16,Liverpool,Brentford,3,0,H,football_data_official,,matched
+7bdefa76ad1e,2122,2022-01-16,West Ham,Leeds,2,3,A,football_data_official,,matched
+e8eb2b2ec9eb,2122,2022-01-18,Brighton,Chelsea,1,1,D,football_data_official,,matched
+92802a64a915,2122,2022-01-19,Leicester,Tottenham,2,3,A,football_data_official,,matched
+e8589ee03fc4,2122,2022-01-19,Brentford,Man United,1,3,A,football_data_official,,matched
+fbee81848fe1,2122,2022-01-21,Watford,Norwich,0,3,A,football_data_official,,matched
+761364bda0bb,2122,2022-01-22,Everton,Aston Villa,0,1,A,football_data_official,,matched
+c7b2918ab371,2122,2022-01-22,Brentford,Wolves,1,2,A,football_data_official,,matched
+56cd9ec72e64,2122,2022-01-22,Leeds,Newcastle,0,1,A,football_data_official,,matched
+75f10a9426f2,2122,2022-01-22,Man United,West Ham,1,0,H,football_data_official,,matched
+07827d35d1c6,2122,2022-01-22,Southampton,Man City,1,1,D,football_data_official,,matched
+9ffcca08a6bf,2122,2022-01-23,Arsenal,Burnley,0,0,D,football_data_official,,matched
+07932f4d2aa5,2122,2022-01-23,Crystal Palace,Liverpool,1,3,A,football_data_official,,matched
+c1ca5a10911d,2122,2022-01-23,Leicester,Brighton,1,1,D,football_data_official,,matched
+f34dc080b02c,2122,2022-01-23,Chelsea,Tottenham,2,0,H,football_data_official,,matched
+9f59ec5156ea,2122,2022-02-05,Burnley,Watford,0,0,D,football_data_official,,matched
+02e7425583ae,2122,2022-02-08,Newcastle,Everton,3,1,H,football_data_official,,matched
+5711528c4a2c,2122,2022-02-08,West Ham,Watford,1,0,H,football_data_official,,matched
+6350f9d4b206,2122,2022-02-08,Burnley,Man United,1,1,D,football_data_official,,matched
+3ec9ed1c7fd3,2122,2022-02-09,Man City,Brentford,2,0,H,football_data_official,,matched
+f6c8c85f6413,2122,2022-02-09,Norwich,Crystal Palace,1,1,D,football_data_official,,matched
+eb2c6c6720a3,2122,2022-02-09,Tottenham,Southampton,2,3,A,football_data_official,,matched
+871580783e71,2122,2022-02-09,Aston Villa,Leeds,3,3,D,football_data_official,,matched
+071afd4cf218,2122,2022-02-10,Liverpool,Leicester,2,0,H,football_data_official,,matched
+cf9b4c02a5d5,2122,2022-02-10,Wolves,Arsenal,0,1,A,football_data_official,,matched
+46469395f9aa,2122,2022-02-12,Man United,Southampton,1,1,D,football_data_official,,matched
+6934c48e28ba,2122,2022-02-12,Brentford,Crystal Palace,0,0,D,football_data_official,,matched
+23eb3955c720,2122,2022-02-12,Everton,Leeds,3,0,H,football_data_official,,matched
+6445aa5734cd,2122,2022-02-12,Watford,Brighton,0,2,A,football_data_official,,matched
+678707c7d0cf,2122,2022-02-12,Norwich,Man City,0,4,A,football_data_official,,matched
+f2850a3888cd,2122,2022-02-13,Burnley,Liverpool,0,1,A,football_data_official,,matched
+73b9a0a5b45b,2122,2022-02-13,Newcastle,Aston Villa,1,0,H,football_data_official,,matched
+4c91022049f7,2122,2022-02-13,Tottenham,Wolves,0,2,A,football_data_official,,matched
+c3e863104e31,2122,2022-02-13,Leicester,West Ham,2,2,D,football_data_official,,matched
+c538a30c6e01,2122,2022-02-15,Man United,Brighton,2,0,H,football_data_official,,matched
+6f848346bc3d,2122,2022-02-19,West Ham,Newcastle,1,1,D,football_data_official,,matched
+c84ca06b2e65,2122,2022-02-19,Arsenal,Brentford,2,1,H,football_data_official,,matched
+3c60b246f7e0,2122,2022-02-19,Aston Villa,Watford,0,1,A,football_data_official,,matched
+66fc30d48ddc,2122,2022-02-19,Brighton,Burnley,0,3,A,football_data_official,,matched
+fce4bd1e4cec,2122,2022-02-19,Crystal Palace,Chelsea,0,1,A,football_data_official,,matched
+ef2f3c8c2dee,2122,2022-02-19,Liverpool,Norwich,3,1,H,football_data_official,,matched
+74bf4f1f4e7d,2122,2022-02-19,Southampton,Everton,2,0,H,football_data_official,,matched
+11ee5c3ab152,2122,2022-02-19,Man City,Tottenham,2,3,A,football_data_official,,matched
+eb4af92e5143,2122,2022-02-20,Leeds,Man United,2,4,A,football_data_official,,matched
+70ba824d05f8,2122,2022-02-20,Wolves,Leicester,2,1,H,football_data_official,,matched
+f5d0b11ac55f,2122,2022-02-23,Burnley,Tottenham,1,0,H,football_data_official,,matched
+3889ade4a072,2122,2022-02-23,Watford,Crystal Palace,1,4,A,football_data_official,,matched
+b49801677539,2122,2022-02-23,Liverpool,Leeds,6,0,H,football_data_official,,matched
+03196276df42,2122,2022-02-24,Arsenal,Wolves,2,1,H,football_data_official,,matched
+2b085681abcd,2122,2022-02-25,Southampton,Norwich,2,0,H,football_data_official,,matched
+09c6760afec2,2122,2022-02-26,Leeds,Tottenham,0,4,A,football_data_official,,matched
+eaf1e5e908ec,2122,2022-02-26,Brentford,Newcastle,0,2,A,football_data_official,,matched
+fbbab2339b01,2122,2022-02-26,Crystal Palace,Burnley,1,1,D,football_data_official,,matched
+9287c019ce9f,2122,2022-02-26,Man United,Watford,0,0,D,football_data_official,,matched
+76610c74ac0b,2122,2022-02-26,Brighton,Aston Villa,0,2,A,football_data_official,,matched
+ec85efb19e65,2122,2022-02-26,Everton,Man City,0,1,A,football_data_official,,matched
+569d287cba20,2122,2022-02-27,West Ham,Wolves,1,0,H,football_data_official,,matched
+08a097e672c3,2122,2022-03-01,Burnley,Leicester,0,2,A,football_data_official,,matched
+3363d35698ee,2122,2022-03-05,Leicester,Leeds,1,0,H,football_data_official,,matched
+72104023ab82,2122,2022-03-05,Aston Villa,Southampton,4,0,H,football_data_official,,matched
+c6245b7848ff,2122,2022-03-05,Burnley,Chelsea,0,4,A,football_data_official,,matched
+c6865539314f,2122,2022-03-05,Newcastle,Brighton,2,1,H,football_data_official,,matched
+686d9b3a4d7b,2122,2022-03-05,Norwich,Brentford,1,3,A,football_data_official,,matched
+df9d875e88b2,2122,2022-03-05,Wolves,Crystal Palace,0,2,A,football_data_official,,matched
+fd508642059b,2122,2022-03-05,Liverpool,West Ham,1,0,H,football_data_official,,matched
+590d0afd5dec,2122,2022-03-06,Watford,Arsenal,2,3,A,football_data_official,,matched
+381470f68b77,2122,2022-03-06,Man City,Man United,4,1,H,football_data_official,,matched
+cf4ca616b858,2122,2022-03-07,Tottenham,Everton,5,0,H,football_data_official,,matched
+de2f18b6d9f8,2122,2022-03-10,Norwich,Chelsea,1,3,A,football_data_official,,matched
+3c5d2a1331cb,2122,2022-03-10,Southampton,Newcastle,1,2,A,football_data_official,,matched
+e5091bdc7acb,2122,2022-03-10,Wolves,Watford,4,0,H,football_data_official,,matched
+93c65561bacd,2122,2022-03-10,Leeds,Aston Villa,0,3,A,football_data_official,,matched
+bc9898f7f970,2122,2022-03-12,Brighton,Liverpool,0,2,A,football_data_official,,matched
+c9719c7bfe10,2122,2022-03-12,Brentford,Burnley,2,0,H,football_data_official,,matched
+57b5b3d47a63,2122,2022-03-12,Man United,Tottenham,3,2,H,football_data_official,,matched
+c6d4fcd952b9,2122,2022-03-13,Chelsea,Newcastle,1,0,H,football_data_official,,matched
+5c3024ff3f0c,2122,2022-03-13,Everton,Wolves,0,1,A,football_data_official,,matched
+537384311e5b,2122,2022-03-13,Leeds,Norwich,2,1,H,football_data_official,,matched
+b268a5bdd046,2122,2022-03-13,Southampton,Watford,1,2,A,football_data_official,,matched
+2bc27654a6ef,2122,2022-03-13,West Ham,Aston Villa,2,1,H,football_data_official,,matched
+a66146f32f87,2122,2022-03-13,Arsenal,Leicester,2,0,H,football_data_official,,matched
+cd1763220764,2122,2022-03-14,Crystal Palace,Man City,0,0,D,football_data_official,,matched
+1432ecc05d33,2122,2022-03-16,Brighton,Tottenham,0,2,A,football_data_official,,matched
+a92cd1d1550e,2122,2022-03-16,Arsenal,Liverpool,0,2,A,football_data_official,,matched
+bc78a7fc8abb,2122,2022-03-17,Everton,Newcastle,1,0,H,football_data_official,,matched
+3629693dea4c,2122,2022-03-18,Wolves,Leeds,2,3,A,football_data_official,,matched
+07ebca4bf71d,2122,2022-03-19,Aston Villa,Arsenal,0,1,A,football_data_official,,matched
+b1f930636c31,2122,2022-03-20,Leicester,Brentford,2,1,H,football_data_official,,matched
+ae07e2730d69,2122,2022-03-20,Tottenham,West Ham,3,1,H,football_data_official,,matched
+1623aaa70aea,2122,2022-04-02,Liverpool,Watford,2,0,H,football_data_official,,matched
+78dc2db12a7f,2122,2022-04-02,Brighton,Norwich,0,0,D,football_data_official,,matched
+3baafdb664cd,2122,2022-04-02,Burnley,Man City,0,2,A,football_data_official,,matched
+991d2e539359,2122,2022-04-02,Chelsea,Brentford,1,4,A,football_data_official,,matched
+13a41979daa4,2122,2022-04-02,Leeds,Southampton,1,1,D,football_data_official,,matched
+03f400437b27,2122,2022-04-02,Wolves,Aston Villa,2,1,H,football_data_official,,matched
+f15c59fb23a5,2122,2022-04-02,Man United,Leicester,1,1,D,football_data_official,,matched
+8d3150450414,2122,2022-04-03,West Ham,Everton,2,1,H,football_data_official,,matched
+1300f9d88e26,2122,2022-04-03,Tottenham,Newcastle,5,1,H,football_data_official,,matched
+d008de97be83,2122,2022-04-04,Crystal Palace,Arsenal,3,0,H,football_data_official,,matched
+af02b0569a29,2122,2022-04-06,Burnley,Everton,3,2,H,football_data_official,,matched
+b93aea15fa32,2122,2022-04-08,Newcastle,Wolves,1,0,H,football_data_official,,matched
+93bc4e1626e1,2122,2022-04-09,Everton,Man United,1,0,H,football_data_official,,matched
+303abc1d03df,2122,2022-04-09,Arsenal,Brighton,1,2,A,football_data_official,,matched
+818ec28b7cd4,2122,2022-04-09,Southampton,Chelsea,0,6,A,football_data_official,,matched
+2e533cbadcec,2122,2022-04-09,Watford,Leeds,0,3,A,football_data_official,,matched
+ae28b6456508,2122,2022-04-09,Aston Villa,Tottenham,0,4,A,football_data_official,,matched
+ef32ddfc3c0c,2122,2022-04-10,Brentford,West Ham,2,0,H,football_data_official,,matched
+f03c290df097,2122,2022-04-10,Leicester,Crystal Palace,2,1,H,football_data_official,,matched
+6af63d57803a,2122,2022-04-10,Norwich,Burnley,2,0,H,football_data_official,,matched
+d5fd0fd8d206,2122,2022-04-10,Man City,Liverpool,2,2,D,football_data_official,,matched
+45158837266f,2122,2022-04-16,Tottenham,Brighton,0,1,A,football_data_official,,matched
+45d32cc8e1b7,2122,2022-04-16,Man United,Norwich,3,2,H,football_data_official,,matched
+5aff8895fb5f,2122,2022-04-16,Southampton,Arsenal,1,0,H,football_data_official,,matched
+866e166d078c,2122,2022-04-16,Watford,Brentford,1,2,A,football_data_official,,matched
+3ef69d6451ba,2122,2022-04-17,Newcastle,Leicester,2,1,H,football_data_official,,matched
+0f6562158d32,2122,2022-04-17,West Ham,Burnley,1,1,D,football_data_official,,matched
+15a0627b91f0,2122,2022-04-19,Liverpool,Man United,4,0,H,football_data_official,,matched
+a2f339591793,2122,2022-04-20,Chelsea,Arsenal,2,4,A,football_data_official,,matched
+02cd1225a12d,2122,2022-04-20,Everton,Leicester,1,1,D,football_data_official,,matched
+b70be69fb870,2122,2022-04-20,Newcastle,Crystal Palace,1,0,H,football_data_official,,matched
+46eddabb98a8,2122,2022-04-20,Man City,Brighton,3,0,H,football_data_official,,matched
+f6a61a208b2b,2122,2022-04-21,Burnley,Southampton,2,0,H,football_data_official,,matched
+564e7574a793,2122,2022-04-23,Arsenal,Man United,3,1,H,football_data_official,,matched
+8c904b8a358b,2122,2022-04-23,Leicester,Aston Villa,0,0,D,football_data_official,,matched
+f82afed9e4fc,2122,2022-04-23,Man City,Watford,5,1,H,football_data_official,,matched
+c64f8229182d,2122,2022-04-23,Norwich,Newcastle,0,3,A,football_data_official,,matched
+bd091e216543,2122,2022-04-23,Brentford,Tottenham,0,0,D,football_data_official,,matched
+0fdae79d98a0,2122,2022-04-24,Brighton,Southampton,2,2,D,football_data_official,,matched
+090c3b5be260,2122,2022-04-24,Burnley,Wolves,1,0,H,football_data_official,,matched
+426151867f25,2122,2022-04-24,Chelsea,West Ham,1,0,H,football_data_official,,matched
+ad801c4da7ea,2122,2022-04-24,Liverpool,Everton,2,0,H,football_data_official,,matched
+a3af880187fa,2122,2022-04-25,Crystal Palace,Leeds,0,0,D,football_data_official,,matched
+2a10d4e11050,2122,2022-04-28,Man United,Chelsea,1,1,D,football_data_official,,matched
+f9f21a73fc4d,2122,2022-04-30,Newcastle,Liverpool,0,1,A,football_data_official,,matched
+112804aa7913,2122,2022-04-30,Aston Villa,Norwich,2,0,H,football_data_official,,matched
+ddc5feda86cb,2122,2022-04-30,Southampton,Crystal Palace,1,2,A,football_data_official,,matched
+d7b7065460c0,2122,2022-04-30,Watford,Burnley,1,2,A,football_data_official,,matched
+50413cf21e69,2122,2022-04-30,Wolves,Brighton,0,3,A,football_data_official,,matched
+ffa0abd73756,2122,2022-04-30,Leeds,Man City,0,4,A,football_data_official,,matched
+6b3b36841a25,2122,2022-05-01,Everton,Chelsea,1,0,H,football_data_official,,matched
+e8135471e3a3,2122,2022-05-01,Tottenham,Leicester,3,1,H,football_data_official,,matched
+38491dbcb5eb,2122,2022-05-01,West Ham,Arsenal,1,2,A,football_data_official,,matched
+85e9dbf9ad37,2122,2022-05-02,Man United,Brentford,3,0,H,football_data_official,,matched
+3268ebf03087,2122,2022-05-07,Brentford,Southampton,3,0,H,football_data_official,,matched
+18c673f57966,2122,2022-05-07,Burnley,Aston Villa,1,3,A,football_data_official,,matched
+550f892a7549,2122,2022-05-07,Chelsea,Wolves,2,2,D,football_data_official,,matched
+c6238bbdedf8,2122,2022-05-07,Crystal Palace,Watford,1,0,H,football_data_official,,matched
+026671faf16e,2122,2022-05-07,Brighton,Man United,4,0,H,football_data_official,,matched
+145591572167,2122,2022-05-07,Liverpool,Tottenham,1,1,D,football_data_official,,matched
+838cd68c1ec7,2122,2022-05-08,Arsenal,Leeds,2,1,H,football_data_official,,matched
+956e9a8cd2aa,2122,2022-05-08,Leicester,Everton,1,2,A,football_data_official,,matched
+01308d19bd57,2122,2022-05-08,Norwich,West Ham,0,4,A,football_data_official,,matched
+36acb020ba4c,2122,2022-05-08,Man City,Newcastle,5,0,H,football_data_official,,matched
+d2189d012e86,2122,2022-05-10,Aston Villa,Liverpool,1,2,A,football_data_official,,matched
+250594c5cc1d,2122,2022-05-11,Leeds,Chelsea,0,3,A,football_data_official,,matched
+91cc8a5cdd20,2122,2022-05-11,Leicester,Norwich,3,0,H,football_data_official,,matched
+2a0be6fad629,2122,2022-05-11,Watford,Everton,0,0,D,football_data_official,,matched
+ebd8c0737cdc,2122,2022-05-11,Wolves,Man City,1,5,A,football_data_official,,matched
+967f33102a30,2122,2022-05-12,Tottenham,Arsenal,3,0,H,football_data_official,,matched
+37a8f8f8ebc8,2122,2022-05-15,Tottenham,Burnley,1,0,H,football_data_official,,matched
+3db0d499eaf6,2122,2022-05-15,Aston Villa,Crystal Palace,1,1,D,football_data_official,,matched
+57a404302772,2122,2022-05-15,Leeds,Brighton,1,1,D,football_data_official,,matched
+7bfc679928d8,2122,2022-05-15,Watford,Leicester,1,5,A,football_data_official,,matched
+8ab1a4bfb282,2122,2022-05-15,West Ham,Man City,2,2,D,football_data_official,,matched
+4ed4ad78558f,2122,2022-05-15,Wolves,Norwich,1,1,D,football_data_official,,matched
+cd6c52a6ba27,2122,2022-05-15,Everton,Brentford,2,3,A,football_data_official,,matched
+3b209b472ae0,2122,2022-05-16,Newcastle,Arsenal,2,0,H,football_data_official,,matched
+6e588b8c9f47,2122,2022-05-17,Southampton,Liverpool,1,2,A,football_data_official,,matched
+bad606f5d4f7,2122,2022-05-19,Everton,Crystal Palace,3,2,H,football_data_official,,matched
+0aa1f8859906,2122,2022-05-19,Aston Villa,Burnley,1,1,D,football_data_official,,matched
+319126673b84,2122,2022-05-19,Chelsea,Leicester,1,1,D,football_data_official,,matched
+0ee493b6b7ec,2122,2022-05-22,Arsenal,Everton,5,1,H,football_data_official,,matched
+409e761133ed,2122,2022-05-22,Brentford,Leeds,1,2,A,football_data_official,,matched
+4c685171aaae,2122,2022-05-22,Brighton,West Ham,3,1,H,football_data_official,,matched
+8b0e6b3ee351,2122,2022-05-22,Burnley,Newcastle,1,2,A,football_data_official,,matched
+f3a6c1b4d40d,2122,2022-05-22,Chelsea,Watford,2,1,H,football_data_official,,matched
+4c7169207086,2122,2022-05-22,Crystal Palace,Man United,1,0,H,football_data_official,,matched
+ad2a96ff966f,2122,2022-05-22,Leicester,Southampton,4,1,H,football_data_official,,matched
+d3a0929ae4be,2122,2022-05-22,Liverpool,Wolves,3,1,H,football_data_official,,matched
+4a1b110404a6,2122,2022-05-22,Man City,Aston Villa,3,2,H,football_data_official,,matched
+e0e566faef23,2122,2022-05-22,Norwich,Tottenham,0,5,A,football_data_official,,matched
+f2e06d242261,2223,2022-08-05,Crystal Palace,Arsenal,0,2,A,football_data_official,,matched
+26cb11bda533,2223,2022-08-06,Fulham,Liverpool,2,2,D,football_data_official,,matched
+e4061e66b698,2223,2022-08-06,Bournemouth,Aston Villa,2,0,H,football_data_official,,matched
+c662bb1c10c1,2223,2022-08-06,Leeds,Wolves,2,1,H,football_data_official,,matched
+85a13e3fea8a,2223,2022-08-06,Newcastle,Nott'm Forest,2,0,H,football_data_official,,matched
+6094273bd0e3,2223,2022-08-06,Tottenham,Southampton,4,1,H,football_data_official,,matched
+e47b19cf6a29,2223,2022-08-06,Everton,Chelsea,0,1,A,football_data_official,,matched
+b971ffdbddeb,2223,2022-08-07,Leicester,Brentford,2,2,D,football_data_official,,matched
+e18e4949c407,2223,2022-08-07,Man United,Brighton,1,2,A,football_data_official,,matched
+542511698537,2223,2022-08-07,West Ham,Man City,0,2,A,football_data_official,,matched
+a57eb6f70a25,2223,2022-08-13,Aston Villa,Everton,2,1,H,football_data_official,,matched
+f2d7d1c7c8ed,2223,2022-08-13,Arsenal,Leicester,4,2,H,football_data_official,,matched
+fffd7d091e4b,2223,2022-08-13,Brighton,Newcastle,0,0,D,football_data_official,,matched
+1bc6c711533f,2223,2022-08-13,Man City,Bournemouth,4,0,H,football_data_official,,matched
+447e14ed2c0a,2223,2022-08-13,Southampton,Leeds,2,2,D,football_data_official,,matched
+26dd8b438a22,2223,2022-08-13,Wolves,Fulham,0,0,D,football_data_official,,matched
+324b0af3f6ef,2223,2022-08-13,Brentford,Man United,4,0,H,football_data_official,,matched
+ec1808ed6b3f,2223,2022-08-14,Nott'm Forest,West Ham,1,0,H,football_data_official,,matched
+f4c288954144,2223,2022-08-14,Chelsea,Tottenham,2,2,D,football_data_official,,matched
+1f969dd1dd69,2223,2022-08-15,Liverpool,Crystal Palace,1,1,D,football_data_official,,matched
+3037629f0869,2223,2022-08-20,Tottenham,Wolves,1,0,H,football_data_official,,matched
+671a8dd140c0,2223,2022-08-20,Crystal Palace,Aston Villa,3,1,H,football_data_official,,matched
+d874af362025,2223,2022-08-20,Everton,Nott'm Forest,1,1,D,football_data_official,,matched
+ba223485bb03,2223,2022-08-20,Fulham,Brentford,3,2,H,football_data_official,,matched
+20ceca5c023e,2223,2022-08-20,Leicester,Southampton,1,2,A,football_data_official,,matched
+84ab9de483a8,2223,2022-08-20,Bournemouth,Arsenal,0,3,A,football_data_official,,matched
+6fd1f82161f7,2223,2022-08-21,Leeds,Chelsea,3,0,H,football_data_official,,matched
+705d6d9c8591,2223,2022-08-21,West Ham,Brighton,0,2,A,football_data_official,,matched
+193dddd087f4,2223,2022-08-21,Newcastle,Man City,3,3,D,football_data_official,,matched
+92d7c9a16b6f,2223,2022-08-22,Man United,Liverpool,2,1,H,football_data_official,,matched
+43925c05fdd4,2223,2022-08-27,Southampton,Man United,0,1,A,football_data_official,,matched
+571afe67d2e2,2223,2022-08-27,Brentford,Everton,1,1,D,football_data_official,,matched
+34516d8755c3,2223,2022-08-27,Brighton,Leeds,1,0,H,football_data_official,,matched
+f7eeacd253de,2223,2022-08-27,Chelsea,Leicester,2,1,H,football_data_official,,matched
+baa467f447da,2223,2022-08-27,Liverpool,Bournemouth,9,0,H,football_data_official,,matched
+90933d5fb255,2223,2022-08-27,Man City,Crystal Palace,4,2,H,football_data_official,,matched
+3fe315d823d7,2223,2022-08-27,Arsenal,Fulham,2,1,H,football_data_official,,matched
+e1a0524bd5dc,2223,2022-08-28,Aston Villa,West Ham,0,1,A,football_data_official,,matched
+ba15e5540a85,2223,2022-08-28,Wolves,Newcastle,1,1,D,football_data_official,,matched
+3ec175ef2190,2223,2022-08-28,Nott'm Forest,Tottenham,0,2,A,football_data_official,,matched
+3c91b3ddfedc,2223,2022-08-30,Crystal Palace,Brentford,1,1,D,football_data_official,,matched
+253d4444c874,2223,2022-08-30,Fulham,Brighton,2,1,H,football_data_official,,matched
+e4c647d0b107,2223,2022-08-30,Southampton,Chelsea,2,1,H,football_data_official,,matched
+6273179ffdeb,2223,2022-08-30,Leeds,Everton,1,1,D,football_data_official,,matched
+a6c7cc71cc03,2223,2022-08-31,Arsenal,Aston Villa,2,1,H,football_data_official,,matched
+d046c7f25464,2223,2022-08-31,Bournemouth,Wolves,0,0,D,football_data_official,,matched
+420a81f577b3,2223,2022-08-31,Man City,Nott'm Forest,6,0,H,football_data_official,,matched
+5cf41954248c,2223,2022-08-31,West Ham,Tottenham,1,1,D,football_data_official,,matched
+1e4b4060e78d,2223,2022-08-31,Liverpool,Newcastle,2,1,H,football_data_official,,matched
+b8389083817c,2223,2022-09-01,Leicester,Man United,0,1,A,football_data_official,,matched
+1feb44fd04ff,2223,2022-09-03,Everton,Liverpool,0,0,D,football_data_official,,matched
+5c5b5c807e64,2223,2022-09-03,Brentford,Leeds,5,2,H,football_data_official,,matched
+2f9bec959d5d,2223,2022-09-03,Chelsea,West Ham,2,1,H,football_data_official,,matched
+702e2b99c3a5,2223,2022-09-03,Newcastle,Crystal Palace,0,0,D,football_data_official,,matched
+94bca17cbf42,2223,2022-09-03,Nott'm Forest,Bournemouth,2,3,A,football_data_official,,matched
+6aebd3d0d5f8,2223,2022-09-03,Tottenham,Fulham,2,1,H,football_data_official,,matched
+70d2316f6ead,2223,2022-09-03,Wolves,Southampton,1,0,H,football_data_official,,matched
+a3d230450ccd,2223,2022-09-03,Aston Villa,Man City,1,1,D,football_data_official,,matched
+f7eb7a1ecafc,2223,2022-09-04,Brighton,Leicester,5,2,H,football_data_official,,matched
+88687022e082,2223,2022-09-04,Man United,Arsenal,3,1,H,football_data_official,,matched
+54ea5ed34442,2223,2022-09-16,Aston Villa,Southampton,1,0,H,football_data_official,,matched
+977b6aea1c33,2223,2022-09-16,Nott'm Forest,Fulham,2,3,A,football_data_official,,matched
+b071d01f50fe,2223,2022-09-17,Wolves,Man City,0,3,A,football_data_official,,matched
+de93e3c553f1,2223,2022-09-17,Newcastle,Bournemouth,1,1,D,football_data_official,,matched
+5c4d2ecb521b,2223,2022-09-17,Tottenham,Leicester,6,2,H,football_data_official,,matched
+f0d7ca9c6cb9,2223,2022-09-18,Brentford,Arsenal,0,3,A,football_data_official,,matched
+1d9cebdd425f,2223,2022-09-18,Everton,West Ham,1,0,H,football_data_official,,matched
+8d90c3abc65b,2223,2022-10-01,Arsenal,Tottenham,3,1,H,football_data_official,,matched
+1dfba674c83f,2223,2022-10-01,Bournemouth,Brentford,0,0,D,football_data_official,,matched
+aebcf8126be7,2223,2022-10-01,Crystal Palace,Chelsea,1,2,A,football_data_official,,matched
+8f7b397873e1,2223,2022-10-01,Fulham,Newcastle,1,4,A,football_data_official,,matched
+8d9705e1b020,2223,2022-10-01,Liverpool,Brighton,3,3,D,football_data_official,,matched
+3f12b16fd494,2223,2022-10-01,Southampton,Everton,1,2,A,football_data_official,,matched
+6f034820d19c,2223,2022-10-01,West Ham,Wolves,2,0,H,football_data_official,,matched
+83bcd7f101df,2223,2022-10-02,Man City,Man United,6,3,H,football_data_official,,matched
+56d58b537126,2223,2022-10-02,Leeds,Aston Villa,0,0,D,football_data_official,,matched
+13671939dd24,2223,2022-10-03,Leicester,Nott'm Forest,4,0,H,football_data_official,,matched
+91338bfec3fb,2223,2022-10-08,Bournemouth,Leicester,2,1,H,football_data_official,,matched
+81b4ffb45b76,2223,2022-10-08,Chelsea,Wolves,3,0,H,football_data_official,,matched
+fe051ad0fc4c,2223,2022-10-08,Man City,Southampton,4,0,H,football_data_official,,matched
+dee27a56f581,2223,2022-10-08,Newcastle,Brentford,5,1,H,football_data_official,,matched
+e3a68b42e2b6,2223,2022-10-08,Brighton,Tottenham,0,1,A,football_data_official,,matched
+76855f3f658e,2223,2022-10-09,Crystal Palace,Leeds,2,1,H,football_data_official,,matched
+4b23820ad163,2223,2022-10-09,West Ham,Fulham,3,1,H,football_data_official,,matched
+386f91ac6b8f,2223,2022-10-09,Arsenal,Liverpool,3,2,H,football_data_official,,matched
+d61ac72ca9fa,2223,2022-10-09,Everton,Man United,1,2,A,football_data_official,,matched
+c2cd7b6e46a5,2223,2022-10-10,Nott'm Forest,Aston Villa,1,1,D,football_data_official,,matched
+02985bc668a1,2223,2022-10-14,Brentford,Brighton,2,0,H,football_data_official,,matched
+629e815f0f17,2223,2022-10-15,Leicester,Crystal Palace,0,0,D,football_data_official,,matched
+a9afb049892a,2223,2022-10-15,Fulham,Bournemouth,2,2,D,football_data_official,,matched
+5cb255b79228,2223,2022-10-15,Wolves,Nott'm Forest,1,0,H,football_data_official,,matched
+cdbf90adf75f,2223,2022-10-15,Tottenham,Everton,2,0,H,football_data_official,,matched
+16301e5315e7,2223,2022-10-16,Aston Villa,Chelsea,0,2,A,football_data_official,,matched
+e50077389464,2223,2022-10-16,Leeds,Arsenal,0,1,A,football_data_official,,matched
+b1b532d3c688,2223,2022-10-16,Man United,Newcastle,0,0,D,football_data_official,,matched
+de0c696ea2b0,2223,2022-10-16,Southampton,West Ham,1,1,D,football_data_official,,matched
+6ffc530103ff,2223,2022-10-16,Liverpool,Man City,1,0,H,football_data_official,,matched
+ac9ab00802d7,2223,2022-10-18,Brighton,Nott'm Forest,0,0,D,football_data_official,,matched
+4e3ed42cb0b5,2223,2022-10-18,Crystal Palace,Wolves,2,1,H,football_data_official,,matched
+9eac63ca8073,2223,2022-10-19,Bournemouth,Southampton,0,1,A,football_data_official,,matched
+0393cd2201b1,2223,2022-10-19,Brentford,Chelsea,0,0,D,football_data_official,,matched
+0d4ac08c2f80,2223,2022-10-19,Liverpool,West Ham,1,0,H,football_data_official,,matched
+118b7d9590de,2223,2022-10-19,Newcastle,Everton,1,0,H,football_data_official,,matched
+b8f309b3af5a,2223,2022-10-19,Man United,Tottenham,2,0,H,football_data_official,,matched
+f445f06051c2,2223,2022-10-20,Fulham,Aston Villa,3,0,H,football_data_official,,matched
+f6f946125bd8,2223,2022-10-20,Leicester,Leeds,2,0,H,football_data_official,,matched
+8fecc20453c6,2223,2022-10-22,Nott'm Forest,Liverpool,1,0,H,football_data_official,,matched
+15d154a5e5db,2223,2022-10-22,Everton,Crystal Palace,3,0,H,football_data_official,,matched
+e46c3217f9cc,2223,2022-10-22,Man City,Brighton,3,1,H,football_data_official,,matched
+d4245bc217de,2223,2022-10-22,Chelsea,Man United,1,1,D,football_data_official,,matched
+df2339d02108,2223,2022-10-23,Aston Villa,Brentford,4,0,H,football_data_official,,matched
+ada1ab44a9f1,2223,2022-10-23,Leeds,Fulham,2,3,A,football_data_official,,matched
+b703406baade,2223,2022-10-23,Southampton,Arsenal,1,1,D,football_data_official,,matched
+a77eb5484745,2223,2022-10-23,Wolves,Leicester,0,4,A,football_data_official,,matched
+68602a367669,2223,2022-10-23,Tottenham,Newcastle,1,2,A,football_data_official,,matched
+a8b83c6fc515,2223,2022-10-24,West Ham,Bournemouth,2,0,H,football_data_official,,matched
+af477fa58e6e,2223,2022-10-29,Leicester,Man City,0,1,A,football_data_official,,matched
+250d6af0092f,2223,2022-10-29,Bournemouth,Tottenham,2,3,A,football_data_official,,matched
+92d0fd4435ce,2223,2022-10-29,Brentford,Wolves,1,1,D,football_data_official,,matched
+c31501fcbd6e,2223,2022-10-29,Brighton,Chelsea,4,1,H,football_data_official,,matched
+7a71fa169ada,2223,2022-10-29,Crystal Palace,Southampton,1,0,H,football_data_official,,matched
+00ceb8f4f61d,2223,2022-10-29,Newcastle,Aston Villa,4,0,H,football_data_official,,matched
+94b943408d42,2223,2022-10-29,Fulham,Everton,0,0,D,football_data_official,,matched
+2e0913f581d8,2223,2022-10-29,Liverpool,Leeds,1,2,A,football_data_official,,matched
+0b910443216c,2223,2022-10-30,Arsenal,Nott'm Forest,5,0,H,football_data_official,,matched
+a72d42b0fb89,2223,2022-10-30,Man United,West Ham,1,0,H,football_data_official,,matched
+b6ec85afb21f,2223,2022-11-05,Leeds,Bournemouth,4,3,H,football_data_official,,matched
+9e3fd3070685,2223,2022-11-05,Man City,Fulham,2,1,H,football_data_official,,matched
+500e7a78b012,2223,2022-11-05,Nott'm Forest,Brentford,2,2,D,football_data_official,,matched
+19b8e12bf066,2223,2022-11-05,Wolves,Brighton,2,3,A,football_data_official,,matched
+74ced7578a44,2223,2022-11-05,Everton,Leicester,0,2,A,football_data_official,,matched
+cadecb456149,2223,2022-11-06,Chelsea,Arsenal,0,1,A,football_data_official,,matched
+c6f630a8c703,2223,2022-11-06,Aston Villa,Man United,3,1,H,football_data_official,,matched
+d83ce187e40f,2223,2022-11-06,Southampton,Newcastle,1,4,A,football_data_official,,matched
+e8e916cf2d10,2223,2022-11-06,West Ham,Crystal Palace,1,2,A,football_data_official,,matched
+ead1fd76f812,2223,2022-11-06,Tottenham,Liverpool,1,2,A,football_data_official,,matched
+027b66e02224,2223,2022-11-12,Man City,Brentford,1,2,A,football_data_official,,matched
+b484fe592b42,2223,2022-11-12,Bournemouth,Everton,3,0,H,football_data_official,,matched
+324baa5678a5,2223,2022-11-12,Liverpool,Southampton,3,1,H,football_data_official,,matched
+08c94cbb7f13,2223,2022-11-12,Nott'm Forest,Crystal Palace,1,0,H,football_data_official,,matched
+817cc1fe22b5,2223,2022-11-12,Tottenham,Leeds,4,3,H,football_data_official,,matched
+63c68f510519,2223,2022-11-12,West Ham,Leicester,0,2,A,football_data_official,,matched
+bf75131c0d3b,2223,2022-11-12,Newcastle,Chelsea,1,0,H,football_data_official,,matched
+b5499ed04f56,2223,2022-11-12,Wolves,Arsenal,0,2,A,football_data_official,,matched
+bebec457acd8,2223,2022-11-13,Brighton,Aston Villa,1,2,A,football_data_official,,matched
+0f273a4aba0f,2223,2022-11-13,Fulham,Man United,1,2,A,football_data_official,,matched
+2579bdc3d66e,2223,2022-12-26,Brentford,Tottenham,2,2,D,football_data_official,,matched
+1f7be27e91c3,2223,2022-12-26,Crystal Palace,Fulham,0,3,A,football_data_official,,matched
+f34d346046a5,2223,2022-12-26,Everton,Wolves,1,2,A,football_data_official,,matched
+bb20ffbc22d2,2223,2022-12-26,Leicester,Newcastle,0,3,A,football_data_official,,matched
+77ab6df12c1d,2223,2022-12-26,Southampton,Brighton,1,3,A,football_data_official,,matched
+9aa5e3f0bb44,2223,2022-12-26,Aston Villa,Liverpool,1,3,A,football_data_official,,matched
+b7369d7655e1,2223,2022-12-26,Arsenal,West Ham,3,1,H,football_data_official,,matched
+10a8beedef68,2223,2022-12-27,Chelsea,Bournemouth,2,0,H,football_data_official,,matched
+9808ded744ab,2223,2022-12-27,Man United,Nott'm Forest,3,0,H,football_data_official,,matched
+700547cc122f,2223,2022-12-28,Leeds,Man City,1,3,A,football_data_official,,matched
+5a8cc7fa11ef,2223,2022-12-30,West Ham,Brentford,0,2,A,football_data_official,,matched
+2e54fa5c4dbe,2223,2022-12-30,Liverpool,Leicester,2,1,H,football_data_official,,matched
+9947d75bad2b,2223,2022-12-31,Wolves,Man United,0,1,A,football_data_official,,matched
+7c69551305b2,2223,2022-12-31,Bournemouth,Crystal Palace,0,2,A,football_data_official,,matched
+edacd88dbace,2223,2022-12-31,Fulham,Southampton,2,1,H,football_data_official,,matched
+041f13df4c5e,2223,2022-12-31,Man City,Everton,1,1,D,football_data_official,,matched
+9b760bf55e23,2223,2022-12-31,Newcastle,Leeds,0,0,D,football_data_official,,matched
+31cf02e76638,2223,2022-12-31,Brighton,Arsenal,2,4,A,football_data_official,,matched
+cdb1f0bc3c05,2223,2023-01-01,Tottenham,Aston Villa,0,2,A,football_data_official,,matched
+ed5e9590ba14,2223,2023-01-01,Nott'm Forest,Chelsea,1,1,D,football_data_official,,matched
+c8b82bc0be0f,2223,2023-01-02,Brentford,Liverpool,3,1,H,football_data_official,,matched
+53ecadd4d096,2223,2023-01-03,Arsenal,Newcastle,0,0,D,football_data_official,,matched
+8a60528012b4,2223,2023-01-03,Everton,Brighton,1,4,A,football_data_official,,matched
+f27b62a71b25,2223,2023-01-03,Leicester,Fulham,0,1,A,football_data_official,,matched
+e738259ab9b3,2223,2023-01-03,Man United,Bournemouth,3,0,H,football_data_official,,matched
+6c54bf82391d,2223,2023-01-04,Southampton,Nott'm Forest,0,1,A,football_data_official,,matched
+0420fb1bb239,2223,2023-01-04,Leeds,West Ham,2,2,D,football_data_official,,matched
+b7a291d76df9,2223,2023-01-04,Aston Villa,Wolves,1,1,D,football_data_official,,matched
+52ec45df0b6f,2223,2023-01-04,Crystal Palace,Tottenham,0,4,A,football_data_official,,matched
+d04fb0630a8a,2223,2023-01-05,Chelsea,Man City,0,1,A,football_data_official,,matched
+99493ecfe21d,2223,2023-01-12,Fulham,Chelsea,2,1,H,football_data_official,,matched
+0e4ffe9301f8,2223,2023-01-13,Aston Villa,Leeds,2,1,H,football_data_official,,matched
+684282bf18e1,2223,2023-01-14,Man United,Man City,2,1,H,football_data_official,,matched
+f76875d80b3e,2223,2023-01-14,Brighton,Liverpool,3,0,H,football_data_official,,matched
+3c029c32b7a5,2223,2023-01-14,Everton,Southampton,1,2,A,football_data_official,,matched
+4ffd6cacd5d2,2223,2023-01-14,Nott'm Forest,Leicester,2,0,H,football_data_official,,matched
+d52a0e5bec7e,2223,2023-01-14,Wolves,West Ham,1,0,H,football_data_official,,matched
+151412bd9b03,2223,2023-01-14,Brentford,Bournemouth,2,0,H,football_data_official,,matched
+bfbcf87d5edd,2223,2023-01-15,Chelsea,Crystal Palace,1,0,H,football_data_official,,matched
+174db2d131cc,2223,2023-01-15,Newcastle,Fulham,1,0,H,football_data_official,,matched
+336f2ee50ad0,2223,2023-01-15,Tottenham,Arsenal,0,2,A,football_data_official,,matched
+90dd2898a85c,2223,2023-01-18,Crystal Palace,Man United,1,1,D,football_data_official,,matched
+69b0855975a8,2223,2023-01-19,Man City,Tottenham,4,2,H,football_data_official,,matched
+3a984df69ac2,2223,2023-01-21,Liverpool,Chelsea,0,0,D,football_data_official,,matched
+a963d31de709,2223,2023-01-21,Bournemouth,Nott'm Forest,1,1,D,football_data_official,,matched
+b6bf2a6993ec,2223,2023-01-21,Leicester,Brighton,2,2,D,football_data_official,,matched
+2d9fc5c13d38,2223,2023-01-21,Southampton,Aston Villa,0,1,A,football_data_official,,matched
+f6b8260cc80a,2223,2023-01-21,West Ham,Everton,2,0,H,football_data_official,,matched
+e7041fa20c74,2223,2023-01-21,Crystal Palace,Newcastle,0,0,D,football_data_official,,matched
+e98ac523069e,2223,2023-01-22,Leeds,Brentford,0,0,D,football_data_official,,matched
+2b72b0159423,2223,2023-01-22,Man City,Wolves,3,0,H,football_data_official,,matched
+994b18641d92,2223,2023-01-22,Arsenal,Man United,3,2,H,football_data_official,,matched
+7f6aa5a132b4,2223,2023-01-23,Fulham,Tottenham,0,1,A,football_data_official,,matched
+b0af5deb79a3,2223,2023-02-03,Chelsea,Fulham,0,0,D,football_data_official,,matched
+ed040502d980,2223,2023-02-04,Everton,Arsenal,1,0,H,football_data_official,,matched
+374e9c8c4ae9,2223,2023-02-04,Aston Villa,Leicester,2,4,A,football_data_official,,matched
+1f012bd26dc9,2223,2023-02-04,Brentford,Southampton,3,0,H,football_data_official,,matched
+84f374ddbee6,2223,2023-02-04,Brighton,Bournemouth,1,0,H,football_data_official,,matched
+0b4ee2bfe71e,2223,2023-02-04,Man United,Crystal Palace,2,1,H,football_data_official,,matched
+118995c58d84,2223,2023-02-04,Wolves,Liverpool,3,0,H,football_data_official,,matched
+a46284979851,2223,2023-02-04,Newcastle,West Ham,1,1,D,football_data_official,,matched
+6a3d3b496a2d,2223,2023-02-05,Nott'm Forest,Leeds,1,0,H,football_data_official,,matched
+6091a46f2d74,2223,2023-02-05,Tottenham,Man City,1,0,H,football_data_official,,matched
+306f845be453,2223,2023-02-08,Man United,Leeds,2,2,D,football_data_official,,matched
+8097b7e18ac8,2223,2023-02-11,West Ham,Chelsea,1,1,D,football_data_official,,matched
+b40c26184f4c,2223,2023-02-11,Arsenal,Brentford,1,1,D,football_data_official,,matched
+be00c1735d9a,2223,2023-02-11,Crystal Palace,Brighton,1,1,D,football_data_official,,matched
+2eaecc8cf003,2223,2023-02-11,Fulham,Nott'm Forest,2,0,H,football_data_official,,matched
+bdfebd1ff479,2223,2023-02-11,Leicester,Tottenham,4,1,H,football_data_official,,matched
+885fcf37889a,2223,2023-02-11,Southampton,Wolves,1,2,A,football_data_official,,matched
+03179a4ec666,2223,2023-02-11,Bournemouth,Newcastle,1,1,D,football_data_official,,matched
+5aafcaa55925,2223,2023-02-12,Leeds,Man United,0,2,A,football_data_official,,matched
+8807c5e4146b,2223,2023-02-12,Man City,Aston Villa,3,1,H,football_data_official,,matched
+c473d3ef5591,2223,2023-02-13,Liverpool,Everton,2,0,H,football_data_official,,matched
+919bae931b65,2223,2023-02-15,Arsenal,Man City,1,3,A,football_data_official,,matched
+e274b78ef903,2223,2023-02-18,Aston Villa,Arsenal,2,4,A,football_data_official,,matched
+230b60a0ab3f,2223,2023-02-18,Brentford,Crystal Palace,1,1,D,football_data_official,,matched
+26fa0e4c114e,2223,2023-02-18,Brighton,Fulham,0,1,A,football_data_official,,matched
+488c68257cbb,2223,2023-02-18,Chelsea,Southampton,0,1,A,football_data_official,,matched
+b912700e709c,2223,2023-02-18,Everton,Leeds,1,0,H,football_data_official,,matched
+0acbb11d952b,2223,2023-02-18,Nott'm Forest,Man City,1,1,D,football_data_official,,matched
+7d36130e03f0,2223,2023-02-18,Wolves,Bournemouth,0,1,A,football_data_official,,matched
+3528fdd04f06,2223,2023-02-18,Newcastle,Liverpool,0,2,A,football_data_official,,matched
+407617e5ef11,2223,2023-02-19,Man United,Leicester,3,0,H,football_data_official,,matched
+2dd7cacfadc0,2223,2023-02-19,Tottenham,West Ham,2,0,H,football_data_official,,matched
+83338dfcc415,2223,2023-02-24,Fulham,Wolves,1,1,D,football_data_official,,matched
+934b119ecc8f,2223,2023-02-25,Everton,Aston Villa,0,2,A,football_data_official,,matched
+b63ab999e3bb,2223,2023-02-25,Leeds,Southampton,1,0,H,football_data_official,,matched
+51049372ad25,2223,2023-02-25,Leicester,Arsenal,0,1,A,football_data_official,,matched
+225c11be4c0c,2223,2023-02-25,West Ham,Nott'm Forest,4,0,H,football_data_official,,matched
+a0184f8050bb,2223,2023-02-25,Bournemouth,Man City,1,4,A,football_data_official,,matched
+156df89cbeca,2223,2023-02-25,Crystal Palace,Liverpool,0,0,D,football_data_official,,matched
+0c4ff216abe6,2223,2023-02-26,Tottenham,Chelsea,2,0,H,football_data_official,,matched
+c48b6ad27b61,2223,2023-03-01,Arsenal,Everton,4,0,H,football_data_official,,matched
+fdf176f3e57c,2223,2023-03-01,Liverpool,Wolves,2,0,H,football_data_official,,matched
+2a344a386018,2223,2023-03-04,Man City,Newcastle,2,0,H,football_data_official,,matched
+6ef9e5586fd4,2223,2023-03-04,Arsenal,Bournemouth,3,2,H,football_data_official,,matched
+4fbc369defe1,2223,2023-03-04,Aston Villa,Crystal Palace,1,0,H,football_data_official,,matched
+958955128867,2223,2023-03-04,Brighton,West Ham,4,0,H,football_data_official,,matched
+9275ba1a1b73,2223,2023-03-04,Chelsea,Leeds,1,0,H,football_data_official,,matched
+28b89b70c94c,2223,2023-03-04,Wolves,Tottenham,1,0,H,football_data_official,,matched
+8b37175e1f1c,2223,2023-03-04,Southampton,Leicester,1,0,H,football_data_official,,matched
+9f19f5e43ab5,2223,2023-03-05,Nott'm Forest,Everton,2,2,D,football_data_official,,matched
+00c77b2088be,2223,2023-03-05,Liverpool,Man United,7,0,H,football_data_official,,matched
+12d65e215faf,2223,2023-03-06,Brentford,Fulham,3,2,H,football_data_official,,matched
+23a18520b734,2223,2023-03-11,Bournemouth,Liverpool,1,0,H,football_data_official,,matched
+8ff1aac66b2b,2223,2023-03-11,Everton,Brentford,1,0,H,football_data_official,,matched
+367bf6e1c3ef,2223,2023-03-11,Leeds,Brighton,2,2,D,football_data_official,,matched
+7dfeed153fa9,2223,2023-03-11,Leicester,Chelsea,1,3,A,football_data_official,,matched
+c154e7e6cbab,2223,2023-03-11,Tottenham,Nott'm Forest,3,1,H,football_data_official,,matched
+283bf53b8236,2223,2023-03-11,Crystal Palace,Man City,0,1,A,football_data_official,,matched
+93e428889373,2223,2023-03-12,Fulham,Arsenal,0,3,A,football_data_official,,matched
+1a7956436945,2223,2023-03-12,Man United,Southampton,0,0,D,football_data_official,,matched
+8f4cd2c3e6a9,2223,2023-03-12,West Ham,Aston Villa,1,1,D,football_data_official,,matched
+6673a28baa71,2223,2023-03-12,Newcastle,Wolves,2,1,H,football_data_official,,matched
+3448c2f56e0f,2223,2023-03-15,Brighton,Crystal Palace,1,0,H,football_data_official,,matched
+1a887cf7fb1f,2223,2023-03-15,Southampton,Brentford,0,2,A,football_data_official,,matched
+77fe012f1e0d,2223,2023-03-17,Nott'm Forest,Newcastle,1,2,A,football_data_official,,matched
+c2f8902f72fa,2223,2023-03-18,Aston Villa,Bournemouth,3,0,H,football_data_official,,matched
+2036aaa635dd,2223,2023-03-18,Brentford,Leicester,1,1,D,football_data_official,,matched
+02f5550108e4,2223,2023-03-18,Southampton,Tottenham,3,3,D,football_data_official,,matched
+7acefda0b188,2223,2023-03-18,Wolves,Leeds,2,4,A,football_data_official,,matched
+cae39e759193,2223,2023-03-18,Chelsea,Everton,2,2,D,football_data_official,,matched
+63324e4c8a09,2223,2023-03-19,Arsenal,Crystal Palace,4,1,H,football_data_official,,matched
+b2138d799d10,2223,2023-04-01,Man City,Liverpool,4,1,H,football_data_official,,matched
+5ebfee47ac67,2223,2023-04-01,Arsenal,Leeds,4,1,H,football_data_official,,matched
+15eb26d76b7c,2223,2023-04-01,Bournemouth,Fulham,2,1,H,football_data_official,,matched
+5bf38feddd0c,2223,2023-04-01,Brighton,Brentford,3,3,D,football_data_official,,matched
+762bcec038d2,2223,2023-04-01,Crystal Palace,Leicester,2,1,H,football_data_official,,matched
+e0255b0a8d4a,2223,2023-04-01,Nott'm Forest,Wolves,1,1,D,football_data_official,,matched
+9084d2adeea9,2223,2023-04-01,Chelsea,Aston Villa,0,2,A,football_data_official,,matched
+323da6b22321,2223,2023-04-02,West Ham,Southampton,1,0,H,football_data_official,,matched
+a81dc7ae5d80,2223,2023-04-02,Newcastle,Man United,2,0,H,football_data_official,,matched
+f6185a7f7e02,2223,2023-04-03,Everton,Tottenham,1,1,D,football_data_official,,matched
+5e624147a08c,2223,2023-04-04,Bournemouth,Brighton,0,2,A,football_data_official,,matched
+07ca33f6d5c5,2223,2023-04-04,Leeds,Nott'm Forest,2,1,H,football_data_official,,matched
+c68cf6a00977,2223,2023-04-04,Leicester,Aston Villa,1,2,A,football_data_official,,matched
+c5da9db3120e,2223,2023-04-04,Chelsea,Liverpool,0,0,D,football_data_official,,matched
+266895eb3b2f,2223,2023-04-05,Man United,Brentford,1,0,H,football_data_official,,matched
+7e8941726117,2223,2023-04-05,West Ham,Newcastle,1,5,A,football_data_official,,matched
+5f35e33c84a3,2223,2023-04-08,Man United,Everton,2,0,H,football_data_official,,matched
+25e055c2caf8,2223,2023-04-08,Aston Villa,Nott'm Forest,2,0,H,football_data_official,,matched
+e23649d1b7fd,2223,2023-04-08,Brentford,Newcastle,1,2,A,football_data_official,,matched
+17f3cbd72708,2223,2023-04-08,Fulham,West Ham,0,1,A,football_data_official,,matched
+aa915419a685,2223,2023-04-08,Leicester,Bournemouth,0,1,A,football_data_official,,matched
+c171664e443b,2223,2023-04-08,Tottenham,Brighton,2,1,H,football_data_official,,matched
+67efb4813217,2223,2023-04-08,Wolves,Chelsea,1,0,H,football_data_official,,matched
+f088537ac696,2223,2023-04-08,Southampton,Man City,1,4,A,football_data_official,,matched
+f4fbfd31cd72,2223,2023-04-09,Leeds,Crystal Palace,1,5,A,football_data_official,,matched
+4ddbfd26048f,2223,2023-04-09,Liverpool,Arsenal,2,2,D,football_data_official,,matched
+a722f23a960d,2223,2023-04-15,Aston Villa,Newcastle,3,0,H,football_data_official,,matched
+457645941f2d,2223,2023-04-15,Chelsea,Brighton,1,2,A,football_data_official,,matched
+205df586e126,2223,2023-04-15,Everton,Fulham,1,3,A,football_data_official,,matched
+3d305331dcb8,2223,2023-04-15,Southampton,Crystal Palace,0,2,A,football_data_official,,matched
+85fde06d84dd,2223,2023-04-15,Tottenham,Bournemouth,2,3,A,football_data_official,,matched
+51faaf09eaa5,2223,2023-04-15,Wolves,Brentford,2,0,H,football_data_official,,matched
+0eb9a4377bb0,2223,2023-04-15,Man City,Leicester,3,1,H,football_data_official,,matched
+038dbd597b9a,2223,2023-04-16,West Ham,Arsenal,2,2,D,football_data_official,,matched
+8f65aede23fa,2223,2023-04-16,Nott'm Forest,Man United,0,2,A,football_data_official,,matched
+0f58e91eb302,2223,2023-04-17,Leeds,Liverpool,1,6,A,football_data_official,,matched
+6b111c11148f,2223,2023-04-21,Arsenal,Southampton,3,3,D,football_data_official,,matched
+bebc7b41ace0,2223,2023-04-22,Fulham,Leeds,2,1,H,football_data_official,,matched
+d6e63b1ff45d,2223,2023-04-22,Brentford,Aston Villa,1,1,D,football_data_official,,matched
+851302f4c005,2223,2023-04-22,Crystal Palace,Everton,0,0,D,football_data_official,,matched
+7adda3056113,2223,2023-04-22,Leicester,Wolves,2,1,H,football_data_official,,matched
+262325367c76,2223,2023-04-22,Liverpool,Nott'm Forest,3,2,H,football_data_official,,matched
+0708b6c194f5,2223,2023-04-23,Bournemouth,West Ham,0,4,A,football_data_official,,matched
+db7addd53ec9,2223,2023-04-23,Newcastle,Tottenham,6,1,H,football_data_official,,matched
+593c058777ce,2223,2023-04-25,Wolves,Crystal Palace,2,0,H,football_data_official,,matched
+2157570a38a4,2223,2023-04-25,Aston Villa,Fulham,1,0,H,football_data_official,,matched
+9d5cb97555a9,2223,2023-04-25,Leeds,Leicester,1,1,D,football_data_official,,matched
+e6c837e0ade0,2223,2023-04-26,Nott'm Forest,Brighton,3,1,H,football_data_official,,matched
+fba445755e0b,2223,2023-04-26,Chelsea,Brentford,0,2,A,football_data_official,,matched
+64de9f27df91,2223,2023-04-26,West Ham,Liverpool,1,2,A,football_data_official,,matched
+b5c0f205f6f1,2223,2023-04-26,Man City,Arsenal,4,1,H,football_data_official,,matched
+94c0a9331937,2223,2023-04-27,Everton,Newcastle,1,4,A,football_data_official,,matched
+ae29de61d048,2223,2023-04-27,Southampton,Bournemouth,0,1,A,football_data_official,,matched
+f33ff83e26f8,2223,2023-04-27,Tottenham,Man United,2,2,D,football_data_official,,matched
+5159aab8fbc3,2223,2023-04-29,Crystal Palace,West Ham,4,3,H,football_data_official,,matched
+3d5fee8ee399,2223,2023-04-29,Brentford,Nott'm Forest,2,1,H,football_data_official,,matched
+0fb395bcc43d,2223,2023-04-29,Brighton,Wolves,6,0,H,football_data_official,,matched
+13455b576032,2223,2023-04-30,Bournemouth,Leeds,4,1,H,football_data_official,,matched
+d413978ccc95,2223,2023-04-30,Fulham,Man City,1,2,A,football_data_official,,matched
+0d878e9a9114,2223,2023-04-30,Man United,Aston Villa,1,0,H,football_data_official,,matched
+9b642065682d,2223,2023-04-30,Newcastle,Southampton,3,1,H,football_data_official,,matched
+cc6e9dc00fb5,2223,2023-04-30,Liverpool,Tottenham,4,3,H,football_data_official,,matched
+c34eccd02875,2223,2023-05-01,Leicester,Everton,2,2,D,football_data_official,,matched
+e8621d5342b0,2223,2023-05-02,Arsenal,Chelsea,3,1,H,football_data_official,,matched
+cf44a31f469a,2223,2023-05-03,Liverpool,Fulham,1,0,H,football_data_official,,matched
+8a8b16635cf2,2223,2023-05-03,Man City,West Ham,3,0,H,football_data_official,,matched
+383ad16425f5,2223,2023-05-04,Brighton,Man United,1,0,H,football_data_official,,matched
+7879d9c7573c,2223,2023-05-06,Bournemouth,Chelsea,1,3,A,football_data_official,,matched
+642d688c0a72,2223,2023-05-06,Man City,Leeds,2,1,H,football_data_official,,matched
+c3eb692fb0d9,2223,2023-05-06,Tottenham,Crystal Palace,1,0,H,football_data_official,,matched
+d9b13e9bf7e5,2223,2023-05-06,Wolves,Aston Villa,1,0,H,football_data_official,,matched
+67af3bd33c88,2223,2023-05-06,Liverpool,Brentford,1,0,H,football_data_official,,matched
+89eb40e6ded3,2223,2023-05-07,Newcastle,Arsenal,0,2,A,football_data_official,,matched
+cb4d869b206a,2223,2023-05-07,West Ham,Man United,1,0,H,football_data_official,,matched
+9104f8ba8d3a,2223,2023-05-08,Fulham,Leicester,5,3,H,football_data_official,,matched
+73fe581a1691,2223,2023-05-08,Brighton,Everton,1,5,A,football_data_official,,matched
+cdb45158b7a7,2223,2023-05-08,Nott'm Forest,Southampton,4,3,H,football_data_official,,matched
+5550e0cf9f80,2223,2023-05-13,Leeds,Newcastle,2,2,D,football_data_official,,matched
+7383674adcb8,2223,2023-05-13,Aston Villa,Tottenham,2,1,H,football_data_official,,matched
+7e7da1103ac7,2223,2023-05-13,Chelsea,Nott'm Forest,2,2,D,football_data_official,,matched
+e61554c97da8,2223,2023-05-13,Crystal Palace,Bournemouth,2,0,H,football_data_official,,matched
+f0432a38aad2,2223,2023-05-13,Man United,Wolves,2,0,H,football_data_official,,matched
+0a166599e9c4,2223,2023-05-13,Southampton,Fulham,0,2,A,football_data_official,,matched
+8d52d29af621,2223,2023-05-14,Brentford,West Ham,2,0,H,football_data_official,,matched
+0e0df08a06b4,2223,2023-05-14,Everton,Man City,0,3,A,football_data_official,,matched
+8d3c7718aa59,2223,2023-05-14,Arsenal,Brighton,0,3,A,football_data_official,,matched
+d0d32b969879,2223,2023-05-15,Leicester,Liverpool,0,3,A,football_data_official,,matched
+43871f07fb55,2223,2023-05-18,Newcastle,Brighton,4,1,H,football_data_official,,matched
+29123cfa4d58,2223,2023-05-20,Tottenham,Brentford,1,3,A,football_data_official,,matched
+eb963002e096,2223,2023-05-20,Bournemouth,Man United,0,1,A,football_data_official,,matched
+9f7637b57342,2223,2023-05-20,Fulham,Crystal Palace,2,2,D,football_data_official,,matched
+6bc51451bb2e,2223,2023-05-20,Liverpool,Aston Villa,1,1,D,football_data_official,,matched
+d09c2037cca1,2223,2023-05-20,Wolves,Everton,1,1,D,football_data_official,,matched
+846b0fe9b568,2223,2023-05-20,Nott'm Forest,Arsenal,1,0,H,football_data_official,,matched
+3f1eb1edceac,2223,2023-05-21,West Ham,Leeds,3,1,H,football_data_official,,matched
+968232970ca7,2223,2023-05-21,Brighton,Southampton,3,1,H,football_data_official,,matched
+7959443f292f,2223,2023-05-21,Man City,Chelsea,1,0,H,football_data_official,,matched
+ddc17a0f8b71,2223,2023-05-22,Newcastle,Leicester,0,0,D,football_data_official,,matched
+566db9c00c0b,2223,2023-05-24,Brighton,Man City,1,1,D,football_data_official,,matched
+e1342c3fbe8a,2223,2023-05-25,Man United,Chelsea,4,1,H,football_data_official,,matched
+ab8b974f6fea,2223,2023-05-28,Arsenal,Wolves,5,0,H,football_data_official,,matched
+4db3a3a92a1d,2223,2023-05-28,Aston Villa,Brighton,2,1,H,football_data_official,,matched
+908638c913e2,2223,2023-05-28,Brentford,Man City,1,0,H,football_data_official,,matched
+a16d7c04b7b4,2223,2023-05-28,Chelsea,Newcastle,1,1,D,football_data_official,,matched
+c4efc893a7f3,2223,2023-05-28,Crystal Palace,Nott'm Forest,1,1,D,football_data_official,,matched
+c66c6b7f02d2,2223,2023-05-28,Everton,Bournemouth,1,0,H,football_data_official,,matched
+b4c014c87051,2223,2023-05-28,Leeds,Tottenham,1,4,A,football_data_official,,matched
+bdd0936a19bc,2223,2023-05-28,Leicester,West Ham,2,1,H,football_data_official,,matched
+122affdd3417,2223,2023-05-28,Man United,Fulham,2,1,H,football_data_official,,matched
+cd53afde5233,2223,2023-05-28,Southampton,Liverpool,4,4,D,football_data_official,,matched
+5a61bc4384d9,2324,2023-08-11,Burnley,Man City,0,3,A,football_data_official,,matched
+a2b23539cd67,2324,2023-08-12,Arsenal,Nott'm Forest,2,1,H,football_data_official,,matched
+277649c8c4f9,2324,2023-08-12,Bournemouth,West Ham,1,1,D,football_data_official,,matched
+fdd44c32f9ec,2324,2023-08-12,Brighton,Luton,4,1,H,football_data_official,,matched
+c42491dc1780,2324,2023-08-12,Everton,Fulham,0,1,A,football_data_official,,matched
+7256ba9fda4c,2324,2023-08-12,Sheffield United,Crystal Palace,0,1,A,football_data_official,,matched
+99dd8aee5554,2324,2023-08-12,Newcastle,Aston Villa,5,1,H,football_data_official,,matched
+5c580f603eff,2324,2023-08-13,Brentford,Tottenham,2,2,D,football_data_official,,matched
+b5f02c2d3f81,2324,2023-08-13,Chelsea,Liverpool,1,1,D,football_data_official,,matched
+e8e372f29024,2324,2023-08-14,Man United,Wolves,1,0,H,football_data_official,,matched
+1ba0a1b4b4aa,2324,2023-08-18,Nott'm Forest,Sheffield United,2,1,H,football_data_official,,matched
+805d6395beb1,2324,2023-08-19,Fulham,Brentford,0,3,A,football_data_official,,matched
+8186f67989be,2324,2023-08-19,Liverpool,Bournemouth,3,1,H,football_data_official,,matched
+527aa66dbec1,2324,2023-08-19,Wolves,Brighton,1,4,A,football_data_official,,matched
+9386379ffa9d,2324,2023-08-19,Tottenham,Man United,2,0,H,football_data_official,,matched
+9237d6b12d9a,2324,2023-08-19,Man City,Newcastle,1,0,H,football_data_official,,matched
+3633d38a0182,2324,2023-08-20,Aston Villa,Everton,4,0,H,football_data_official,,matched
+14357f3db0d3,2324,2023-08-20,West Ham,Chelsea,3,1,H,football_data_official,,matched
+ca5496f3c4b6,2324,2023-08-21,Crystal Palace,Arsenal,0,1,A,football_data_official,,matched
+b66b297630f0,2324,2023-08-25,Chelsea,Luton,3,0,H,football_data_official,,matched
+f8fead843051,2324,2023-08-26,Bournemouth,Tottenham,0,2,A,football_data_official,,matched
+4a1fe894f344,2324,2023-08-26,Arsenal,Fulham,2,2,D,football_data_official,,matched
+338e5bc6b89d,2324,2023-08-26,Brentford,Crystal Palace,1,1,D,football_data_official,,matched
+eb91e3a49454,2324,2023-08-26,Everton,Wolves,0,1,A,football_data_official,,matched
+aefa07a682a5,2324,2023-08-26,Man United,Nott'm Forest,3,2,H,football_data_official,,matched
+fd63bf4fc934,2324,2023-08-26,Brighton,West Ham,1,3,A,football_data_official,,matched
+11cb62e30ef5,2324,2023-08-27,Burnley,Aston Villa,1,3,A,football_data_official,,matched
+5ea6243dbf19,2324,2023-08-27,Sheffield United,Man City,1,2,A,football_data_official,,matched
+ee597f987a81,2324,2023-08-27,Newcastle,Liverpool,1,2,A,football_data_official,,matched
+33b523c358f3,2324,2023-09-01,Luton,West Ham,1,2,A,football_data_official,,matched
+51f196a6bd4a,2324,2023-09-02,Sheffield United,Everton,2,2,D,football_data_official,,matched
+6f612552dc59,2324,2023-09-02,Brentford,Bournemouth,2,2,D,football_data_official,,matched
+ed74e127db1a,2324,2023-09-02,Burnley,Tottenham,2,5,A,football_data_official,,matched
+cd612e86287f,2324,2023-09-02,Chelsea,Nott'm Forest,0,1,A,football_data_official,,matched
+aab57506406d,2324,2023-09-02,Man City,Fulham,5,1,H,football_data_official,,matched
+0497cad00b0e,2324,2023-09-02,Brighton,Newcastle,3,1,H,football_data_official,,matched
+fff19e466197,2324,2023-09-03,Crystal Palace,Wolves,3,2,H,football_data_official,,matched
+4245899ae158,2324,2023-09-03,Liverpool,Aston Villa,3,0,H,football_data_official,,matched
+89f0fc421b01,2324,2023-09-03,Arsenal,Man United,3,1,H,football_data_official,,matched
+b3dd924d9f37,2324,2023-09-16,Wolves,Liverpool,1,3,A,football_data_official,,matched
+46dfbaae6df9,2324,2023-09-16,Aston Villa,Crystal Palace,3,1,H,football_data_official,,matched
+03270863c4ca,2324,2023-09-16,Fulham,Luton,1,0,H,football_data_official,,matched
+48b6910c6248,2324,2023-09-16,Man United,Brighton,1,3,A,football_data_official,,matched
+3b43c813a866,2324,2023-09-16,Tottenham,Sheffield United,2,1,H,football_data_official,,matched
+55cc0fe4a370,2324,2023-09-16,West Ham,Man City,1,3,A,football_data_official,,matched
+541bd419860f,2324,2023-09-16,Newcastle,Brentford,1,0,H,football_data_official,,matched
+30c0dabc026a,2324,2023-09-17,Bournemouth,Chelsea,0,0,D,football_data_official,,matched
+4e4e0906a8d0,2324,2023-09-17,Everton,Arsenal,0,1,A,football_data_official,,matched
+0f191da3ea64,2324,2023-09-18,Nott'm Forest,Burnley,1,1,D,football_data_official,,matched
+8dd039aba6a3,2324,2023-09-23,Crystal Palace,Fulham,0,0,D,football_data_official,,matched
+417627f74b0f,2324,2023-09-23,Luton,Wolves,1,1,D,football_data_official,,matched
+690876e98d47,2324,2023-09-23,Man City,Nott'm Forest,2,0,H,football_data_official,,matched
+f9a020e86df3,2324,2023-09-23,Brentford,Everton,1,3,A,football_data_official,,matched
+c9cd2ed8d58d,2324,2023-09-23,Burnley,Man United,0,1,A,football_data_official,,matched
+30c425e18af8,2324,2023-09-24,Arsenal,Tottenham,2,2,D,football_data_official,,matched
+8d0eda63d164,2324,2023-09-24,Brighton,Bournemouth,3,1,H,football_data_official,,matched
+0a4cf75e1a0e,2324,2023-09-24,Chelsea,Aston Villa,0,1,A,football_data_official,,matched
+e86974aab6e4,2324,2023-09-24,Liverpool,West Ham,3,1,H,football_data_official,,matched
+3b9622d66e0d,2324,2023-09-24,Sheffield United,Newcastle,0,8,A,football_data_official,,matched
+0fffb41eaf92,2324,2023-09-30,Aston Villa,Brighton,6,1,H,football_data_official,,matched
+60a08c860c2d,2324,2023-09-30,Bournemouth,Arsenal,0,4,A,football_data_official,,matched
+13cccab28112,2324,2023-09-30,Everton,Luton,1,2,A,football_data_official,,matched
+afc3c2ce714a,2324,2023-09-30,Man United,Crystal Palace,0,1,A,football_data_official,,matched
+bea26d83e14e,2324,2023-09-30,Newcastle,Burnley,2,0,H,football_data_official,,matched
+7cdb4c84dd83,2324,2023-09-30,West Ham,Sheffield United,2,0,H,football_data_official,,matched
+52981c09501b,2324,2023-09-30,Wolves,Man City,2,1,H,football_data_official,,matched
+37953c6ec56f,2324,2023-09-30,Tottenham,Liverpool,2,1,H,football_data_official,,matched
+86313a97e29f,2324,2023-10-01,Nott'm Forest,Brentford,1,1,D,football_data_official,,matched
+f9654a843c21,2324,2023-10-02,Fulham,Chelsea,0,2,A,football_data_official,,matched
+f0fab4905304,2324,2023-10-03,Luton,Burnley,1,2,A,football_data_official,,matched
+4d982c9bae65,2324,2023-10-07,Luton,Tottenham,0,1,A,football_data_official,,matched
+fe6acda23bd1,2324,2023-10-07,Burnley,Chelsea,1,4,A,football_data_official,,matched
+bc4bde275f29,2324,2023-10-07,Everton,Bournemouth,3,0,H,football_data_official,,matched
+a5bb29fec6dd,2324,2023-10-07,Fulham,Sheffield United,3,1,H,football_data_official,,matched
+6e1cb3ee5026,2324,2023-10-07,Man United,Brentford,2,1,H,football_data_official,,matched
+d2e261123370,2324,2023-10-07,Crystal Palace,Nott'm Forest,0,0,D,football_data_official,,matched
+d8e7abc3b17d,2324,2023-10-08,Brighton,Liverpool,2,2,D,football_data_official,,matched
+31ce52caab6c,2324,2023-10-08,West Ham,Newcastle,2,2,D,football_data_official,,matched
+652914297fbb,2324,2023-10-08,Wolves,Aston Villa,1,1,D,football_data_official,,matched
+bea0e69e0192,2324,2023-10-08,Arsenal,Man City,1,0,H,football_data_official,,matched
+99a23e1e0e36,2324,2023-10-21,Liverpool,Everton,2,0,H,football_data_official,,matched
+d96868fe7746,2324,2023-10-21,Bournemouth,Wolves,1,2,A,football_data_official,,matched
+cb67baaeb171,2324,2023-10-21,Brentford,Burnley,3,0,H,football_data_official,,matched
+bfc13b90c716,2324,2023-10-21,Man City,Brighton,2,1,H,football_data_official,,matched
+8d0beb0a9705,2324,2023-10-21,Newcastle,Crystal Palace,4,0,H,football_data_official,,matched
+21bfb9a62fa1,2324,2023-10-21,Nott'm Forest,Luton,2,2,D,football_data_official,,matched
+523525a97920,2324,2023-10-21,Chelsea,Arsenal,2,2,D,football_data_official,,matched
+b74414c74bb0,2324,2023-10-21,Sheffield United,Man United,1,2,A,football_data_official,,matched
+a0d46bac5212,2324,2023-10-22,Aston Villa,West Ham,4,1,H,football_data_official,,matched
+63da7fe5591a,2324,2023-10-23,Tottenham,Fulham,2,0,H,football_data_official,,matched
+159957cb7cf0,2324,2023-10-27,Crystal Palace,Tottenham,1,2,A,football_data_official,,matched
+f079cf0edde6,2324,2023-10-28,Chelsea,Brentford,0,2,A,football_data_official,,matched
+bfdc605b4404,2324,2023-10-28,Arsenal,Sheffield United,5,0,H,football_data_official,,matched
+5d2b31c60208,2324,2023-10-28,Bournemouth,Burnley,2,1,H,football_data_official,,matched
+18c337d00399,2324,2023-10-28,Wolves,Newcastle,2,2,D,football_data_official,,matched
+bbccc13c9af8,2324,2023-10-29,West Ham,Everton,0,1,A,football_data_official,,matched
+3c32b56496a5,2324,2023-10-29,Aston Villa,Luton,3,1,H,football_data_official,,matched
+6c89c1a0aeab,2324,2023-10-29,Brighton,Fulham,1,1,D,football_data_official,,matched
+359d5c246b6c,2324,2023-10-29,Liverpool,Nott'm Forest,3,0,H,football_data_official,,matched
+0f6e51f36326,2324,2023-10-29,Man United,Man City,0,3,A,football_data_official,,matched
+dcf5ccb84b06,2324,2023-11-04,Fulham,Man United,0,1,A,football_data_official,,matched
+c6644de32cd2,2324,2023-11-04,Brentford,West Ham,3,2,H,football_data_official,,matched
+cfab45961b64,2324,2023-11-04,Burnley,Crystal Palace,0,2,A,football_data_official,,matched
+860b40521020,2324,2023-11-04,Everton,Brighton,1,1,D,football_data_official,,matched
+35c5365a9dd5,2324,2023-11-04,Man City,Bournemouth,6,1,H,football_data_official,,matched
+c0075aa353dc,2324,2023-11-04,Sheffield United,Wolves,2,1,H,football_data_official,,matched
+34ad7728fb1a,2324,2023-11-04,Newcastle,Arsenal,1,0,H,football_data_official,,matched
+ff61c2cc4d65,2324,2023-11-05,Nott'm Forest,Aston Villa,2,0,H,football_data_official,,matched
+4f3cdce9aa0d,2324,2023-11-05,Luton,Liverpool,1,1,D,football_data_official,,matched
+166dcd5e85dc,2324,2023-11-06,Tottenham,Chelsea,1,4,A,football_data_official,,matched
+ab937b9d3046,2324,2023-11-11,Wolves,Tottenham,2,1,H,football_data_official,,matched
+60b042561ca0,2324,2023-11-11,Arsenal,Burnley,3,1,H,football_data_official,,matched
+2025565b8a66,2324,2023-11-11,Crystal Palace,Everton,2,3,A,football_data_official,,matched
+c68312a1ff45,2324,2023-11-11,Man United,Luton,1,0,H,football_data_official,,matched
+0e27f2bbb731,2324,2023-11-11,Bournemouth,Newcastle,2,0,H,football_data_official,,matched
+f8e116ceabf7,2324,2023-11-12,Aston Villa,Fulham,3,1,H,football_data_official,,matched
+a64c66bbcabe,2324,2023-11-12,Brighton,Sheffield United,1,1,D,football_data_official,,matched
+88af9a4ca8ad,2324,2023-11-12,Liverpool,Brentford,3,0,H,football_data_official,,matched
+ef8582bbcdb0,2324,2023-11-12,West Ham,Nott'm Forest,3,2,H,football_data_official,,matched
+afae732a72a1,2324,2023-11-12,Chelsea,Man City,4,4,D,football_data_official,,matched
+3774feee56d6,2324,2023-11-25,Man City,Liverpool,1,1,D,football_data_official,,matched
+5824c7b86e52,2324,2023-11-25,Burnley,West Ham,1,2,A,football_data_official,,matched
+9eb5fea11bd2,2324,2023-11-25,Luton,Crystal Palace,2,1,H,football_data_official,,matched
+8abac48bbc83,2324,2023-11-25,Newcastle,Chelsea,4,1,H,football_data_official,,matched
+9a0d674ae02d,2324,2023-11-25,Nott'm Forest,Brighton,2,3,A,football_data_official,,matched
+98e304fd31fb,2324,2023-11-25,Sheffield United,Bournemouth,1,3,A,football_data_official,,matched
+462c33fc7e0d,2324,2023-11-25,Brentford,Arsenal,0,1,A,football_data_official,,matched
+f18c0b52ced7,2324,2023-11-26,Tottenham,Aston Villa,1,2,A,football_data_official,,matched
+e183b3c95c43,2324,2023-11-26,Everton,Man United,0,3,A,football_data_official,,matched
+923cabc79d9d,2324,2023-11-27,Fulham,Wolves,3,2,H,football_data_official,,matched
+d27c45af82c9,2324,2023-12-02,Arsenal,Wolves,2,1,H,football_data_official,,matched
+cab36fbafd1b,2324,2023-12-02,Brentford,Luton,3,1,H,football_data_official,,matched
+aa9be8715b75,2324,2023-12-02,Burnley,Sheffield United,5,0,H,football_data_official,,matched
+ce47c9e83cd3,2324,2023-12-02,Nott'm Forest,Everton,0,1,A,football_data_official,,matched
+0d552ac9a2d5,2324,2023-12-02,Newcastle,Man United,1,0,H,football_data_official,,matched
+1ee53164cb7e,2324,2023-12-03,Bournemouth,Aston Villa,2,2,D,football_data_official,,matched
+ba44c346381b,2324,2023-12-03,Chelsea,Brighton,3,2,H,football_data_official,,matched
+2b9610cfe59b,2324,2023-12-03,Liverpool,Fulham,4,3,H,football_data_official,,matched
+e32ca02491ed,2324,2023-12-03,West Ham,Crystal Palace,1,1,D,football_data_official,,matched
+16252a154a5a,2324,2023-12-03,Man City,Tottenham,3,3,D,football_data_official,,matched
+6e102e6f1c3c,2324,2023-12-05,Wolves,Burnley,1,0,H,football_data_official,,matched
+fd3210623f14,2324,2023-12-05,Luton,Arsenal,3,4,A,football_data_official,,matched
+a93642e8a9c8,2324,2023-12-06,Brighton,Brentford,2,1,H,football_data_official,,matched
+4863855a3bac,2324,2023-12-06,Crystal Palace,Bournemouth,0,2,A,football_data_official,,matched
+1c2e001a69d8,2324,2023-12-06,Fulham,Nott'm Forest,5,0,H,football_data_official,,matched
+fd83b959e898,2324,2023-12-06,Sheffield United,Liverpool,0,2,A,football_data_official,,matched
+bce747e5f245,2324,2023-12-06,Aston Villa,Man City,1,0,H,football_data_official,,matched
+99970017a597,2324,2023-12-06,Man United,Chelsea,2,1,H,football_data_official,,matched
+2ffcca0680e5,2324,2023-12-07,Everton,Newcastle,3,0,H,football_data_official,,matched
+6de0bd8bd5e9,2324,2023-12-07,Tottenham,West Ham,1,2,A,football_data_official,,matched
+eb7cd4531f2c,2324,2023-12-09,Crystal Palace,Liverpool,1,2,A,football_data_official,,matched
+4d8839b08a21,2324,2023-12-09,Brighton,Burnley,1,1,D,football_data_official,,matched
+36d5a88833b4,2324,2023-12-09,Man United,Bournemouth,0,3,A,football_data_official,,matched
+bceb17194898,2324,2023-12-09,Sheffield United,Brentford,1,0,H,football_data_official,,matched
+6c558259fd02,2324,2023-12-09,Wolves,Nott'm Forest,1,1,D,football_data_official,,matched
+135075d46c1d,2324,2023-12-09,Aston Villa,Arsenal,1,0,H,football_data_official,,matched
+217cb56d5574,2324,2023-12-10,Everton,Chelsea,2,0,H,football_data_official,,matched
+0079910a413d,2324,2023-12-10,Fulham,West Ham,5,0,H,football_data_official,,matched
+8d511b74870f,2324,2023-12-10,Luton,Man City,1,2,A,football_data_official,,matched
+ec90c1d89289,2324,2023-12-10,Tottenham,Newcastle,4,1,H,football_data_official,,matched
+e3f8c19999f4,2324,2023-12-15,Nott'm Forest,Tottenham,0,2,A,football_data_official,,matched
+1c5ac00fde15,2324,2023-12-16,Chelsea,Sheffield United,2,0,H,football_data_official,,matched
+e34d07802243,2324,2023-12-16,Man City,Crystal Palace,2,2,D,football_data_official,,matched
+7a675d438831,2324,2023-12-16,Newcastle,Fulham,3,0,H,football_data_official,,matched
+2c6c892d8270,2324,2023-12-16,Burnley,Everton,0,2,A,football_data_official,,matched
+ea4c9ef63e5a,2324,2023-12-17,Arsenal,Brighton,2,0,H,football_data_official,,matched
+f434c6a2e36e,2324,2023-12-17,Brentford,Aston Villa,1,2,A,football_data_official,,matched
+106e5b14d4dc,2324,2023-12-17,West Ham,Wolves,3,0,H,football_data_official,,matched
+1388a772033b,2324,2023-12-17,Liverpool,Man United,0,0,D,football_data_official,,matched
+fbbf9d0615c6,2324,2023-12-21,Crystal Palace,Brighton,1,1,D,football_data_official,,matched
+1f6e1b23d504,2324,2023-12-22,Aston Villa,Sheffield United,1,1,D,football_data_official,,matched
+92dd5e8cc05c,2324,2023-12-23,West Ham,Man United,2,0,H,football_data_official,,matched
+3420c6e8bc68,2324,2023-12-23,Fulham,Burnley,0,2,A,football_data_official,,matched
+3f9e07b1be45,2324,2023-12-23,Luton,Newcastle,1,0,H,football_data_official,,matched
+3a82de203db8,2324,2023-12-23,Nott'm Forest,Bournemouth,2,3,A,football_data_official,,matched
+fe38cdc9a2f7,2324,2023-12-23,Tottenham,Everton,2,1,H,football_data_official,,matched
+d5029e151bc9,2324,2023-12-23,Liverpool,Arsenal,1,1,D,football_data_official,,matched
+c49ab8b89e38,2324,2023-12-24,Wolves,Chelsea,2,1,H,football_data_official,,matched
+c1b3d6f0b55d,2324,2023-12-26,Newcastle,Nott'm Forest,1,3,A,football_data_official,,matched
+7b1c3697461c,2324,2023-12-26,Bournemouth,Fulham,3,0,H,football_data_official,,matched
+1bb8ac5ed36b,2324,2023-12-26,Sheffield United,Luton,2,3,A,football_data_official,,matched
+7148f49828fd,2324,2023-12-26,Burnley,Liverpool,0,2,A,football_data_official,,matched
+4466a484208e,2324,2023-12-26,Man United,Aston Villa,3,2,H,football_data_official,,matched
+fce283f44ec4,2324,2023-12-27,Brentford,Wolves,1,4,A,football_data_official,,matched
+3f13317e8454,2324,2023-12-27,Chelsea,Crystal Palace,2,1,H,football_data_official,,matched
+85c5fec392ef,2324,2023-12-27,Everton,Man City,1,3,A,football_data_official,,matched
+19e4bc00e7db,2324,2023-12-28,Brighton,Tottenham,4,2,H,football_data_official,,matched
+318ddfa505a8,2324,2023-12-28,Arsenal,West Ham,0,2,A,football_data_official,,matched
+822e0ce0a501,2324,2023-12-30,Luton,Chelsea,2,3,A,football_data_official,,matched
+ac5b93a66d23,2324,2023-12-30,Aston Villa,Burnley,3,2,H,football_data_official,,matched
+90eb3cfd56ce,2324,2023-12-30,Crystal Palace,Brentford,3,1,H,football_data_official,,matched
+b32e6aaff600,2324,2023-12-30,Man City,Sheffield United,2,0,H,football_data_official,,matched
+043a619b3008,2324,2023-12-30,Wolves,Everton,3,0,H,football_data_official,,matched
+6f53b0e4018d,2324,2023-12-30,Nott'm Forest,Man United,2,1,H,football_data_official,,matched
+25fc47d141a0,2324,2023-12-31,Fulham,Arsenal,2,1,H,football_data_official,,matched
+62d1f2593792,2324,2023-12-31,Tottenham,Bournemouth,3,1,H,football_data_official,,matched
+c418bf2ab847,2324,2024-01-01,Liverpool,Newcastle,4,2,H,football_data_official,,matched
+77efdbf0dd0c,2324,2024-01-02,West Ham,Brighton,0,0,D,football_data_official,,matched
+4b704e28c528,2324,2024-01-12,Burnley,Luton,1,1,D,football_data_official,,matched
+0fb75969ea37,2324,2024-01-13,Chelsea,Fulham,1,0,H,football_data_official,,matched
+63d03717bfae,2324,2024-01-13,Newcastle,Man City,2,3,A,football_data_official,,matched
+e2c73bc1b6d6,2324,2024-01-14,Everton,Aston Villa,0,0,D,football_data_official,,matched
+452b8d70b39a,2324,2024-01-14,Man United,Tottenham,2,2,D,football_data_official,,matched
+5aaa9006fb51,2324,2024-01-20,Arsenal,Crystal Palace,5,0,H,football_data_official,,matched
+3bcc1bdc597a,2324,2024-01-20,Brentford,Nott'm Forest,3,2,H,football_data_official,,matched
+d0d6e0fe4e0a,2324,2024-01-21,Sheffield United,West Ham,2,2,D,football_data_official,,matched
+33037779ca50,2324,2024-01-21,Bournemouth,Liverpool,0,4,A,football_data_official,,matched
+2daea902fff5,2324,2024-01-22,Brighton,Wolves,0,0,D,football_data_official,,matched
+b98144bb4745,2324,2024-01-30,Nott'm Forest,Arsenal,1,2,A,football_data_official,,matched
+3dc31de3a950,2324,2024-01-30,Fulham,Everton,0,0,D,football_data_official,,matched
+127ad19ff04f,2324,2024-01-30,Luton,Brighton,4,0,H,football_data_official,,matched
+28f708a228d5,2324,2024-01-30,Crystal Palace,Sheffield United,3,2,H,football_data_official,,matched
+f2098372c3e7,2324,2024-01-30,Aston Villa,Newcastle,1,3,A,football_data_official,,matched
+57cc95a21e47,2324,2024-01-31,Man City,Burnley,3,1,H,football_data_official,,matched
+abe1c08578b2,2324,2024-01-31,Tottenham,Brentford,3,2,H,football_data_official,,matched
+1d1a91277399,2324,2024-01-31,Liverpool,Chelsea,4,1,H,football_data_official,,matched
+3b85f751f783,2324,2024-02-01,West Ham,Bournemouth,1,1,D,football_data_official,,matched
+be5040307cf9,2324,2024-02-01,Wolves,Man United,3,4,A,football_data_official,,matched
+aca8b2bf1232,2324,2024-02-03,Everton,Tottenham,2,2,D,football_data_official,,matched
+ad0ec70a3b47,2324,2024-02-03,Brighton,Crystal Palace,4,1,H,football_data_official,,matched
+666922e7b1f9,2324,2024-02-03,Burnley,Fulham,2,2,D,football_data_official,,matched
+11779332e560,2324,2024-02-03,Newcastle,Luton,4,4,D,football_data_official,,matched
+3774315acfa7,2324,2024-02-03,Sheffield United,Aston Villa,0,5,A,football_data_official,,matched
+57755d495283,2324,2024-02-04,Bournemouth,Nott'm Forest,1,1,D,football_data_official,,matched
+9d88d211f37a,2324,2024-02-04,Chelsea,Wolves,2,4,A,football_data_official,,matched
+17e0298e4d26,2324,2024-02-04,Man United,West Ham,3,0,H,football_data_official,,matched
+c355d561c5e5,2324,2024-02-04,Arsenal,Liverpool,3,1,H,football_data_official,,matched
+8a0cf457dbc1,2324,2024-02-05,Brentford,Man City,1,3,A,football_data_official,,matched
+2d145c20fb7b,2324,2024-02-10,Man City,Everton,2,0,H,football_data_official,,matched
+de4f2aeb1cf7,2324,2024-02-10,Fulham,Bournemouth,3,1,H,football_data_official,,matched
+e5eca43127a8,2324,2024-02-10,Liverpool,Burnley,3,1,H,football_data_official,,matched
+c5940d8ffa7a,2324,2024-02-10,Luton,Sheffield United,1,3,A,football_data_official,,matched
+cef93d5eac8c,2324,2024-02-10,Tottenham,Brighton,2,1,H,football_data_official,,matched
+9b19d57a8ed0,2324,2024-02-10,Wolves,Brentford,0,2,A,football_data_official,,matched
+9e7380d648cf,2324,2024-02-10,Nott'm Forest,Newcastle,2,3,A,football_data_official,,matched
+050061fdeeb1,2324,2024-02-11,West Ham,Arsenal,0,6,A,football_data_official,,matched
+ea95095dc9a9,2324,2024-02-11,Aston Villa,Man United,1,2,A,football_data_official,,matched
+93b33f3e9093,2324,2024-02-12,Crystal Palace,Chelsea,1,3,A,football_data_official,,matched
+a0d150a6e2e0,2324,2024-02-17,Brentford,Liverpool,1,4,A,football_data_official,,matched
+f48eea82b440,2324,2024-02-17,Burnley,Arsenal,0,5,A,football_data_official,,matched
+0b3bafb9902a,2324,2024-02-17,Fulham,Aston Villa,1,2,A,football_data_official,,matched
+f8276aa99c47,2324,2024-02-17,Newcastle,Bournemouth,2,2,D,football_data_official,,matched
+34379bcc8c06,2324,2024-02-17,Nott'm Forest,West Ham,2,0,H,football_data_official,,matched
+9168ba4a799f,2324,2024-02-17,Tottenham,Wolves,1,2,A,football_data_official,,matched
+07a1c21d6a39,2324,2024-02-17,Man City,Chelsea,1,1,D,football_data_official,,matched
+badc89a9d4c2,2324,2024-02-18,Sheffield United,Brighton,0,5,A,football_data_official,,matched
+068504306f57,2324,2024-02-18,Luton,Man United,1,2,A,football_data_official,,matched
+66ab73e961d4,2324,2024-02-19,Everton,Crystal Palace,1,1,D,football_data_official,,matched
+3955cb61d596,2324,2024-02-20,Man City,Brentford,1,0,H,football_data_official,,matched
+85d112c8f7d1,2324,2024-02-21,Liverpool,Luton,4,1,H,football_data_official,,matched
+cd2463730b0f,2324,2024-02-24,Aston Villa,Nott'm Forest,4,2,H,football_data_official,,matched
+9a5518d2b8e8,2324,2024-02-24,Brighton,Everton,1,1,D,football_data_official,,matched
+b0ad781abc83,2324,2024-02-24,Crystal Palace,Burnley,3,0,H,football_data_official,,matched
+ea8584c598b6,2324,2024-02-24,Man United,Fulham,1,2,A,football_data_official,,matched
+8bd6026b7fe7,2324,2024-02-24,Bournemouth,Man City,0,1,A,football_data_official,,matched
+b2bc452837f3,2324,2024-02-24,Arsenal,Newcastle,4,1,H,football_data_official,,matched
+f46e258077e2,2324,2024-02-25,Wolves,Sheffield United,1,0,H,football_data_official,,matched
+719b09b147c8,2324,2024-02-26,West Ham,Brentford,4,2,H,football_data_official,,matched
+410baced84bf,2324,2024-03-02,Brentford,Chelsea,2,2,D,football_data_official,,matched
+ae42bda754f1,2324,2024-03-02,Everton,West Ham,1,3,A,football_data_official,,matched
+76cd4084b63f,2324,2024-03-02,Fulham,Brighton,3,0,H,football_data_official,,matched
+cb02cd9e938b,2324,2024-03-02,Newcastle,Wolves,3,0,H,football_data_official,,matched
+6783f03da449,2324,2024-03-02,Nott'm Forest,Liverpool,0,1,A,football_data_official,,matched
+2ede7423ffed,2324,2024-03-02,Tottenham,Crystal Palace,3,1,H,football_data_official,,matched
+a19cf24fc700,2324,2024-03-02,Luton,Aston Villa,2,3,A,football_data_official,,matched
+887ff09b4b82,2324,2024-03-03,Burnley,Bournemouth,0,2,A,football_data_official,,matched
+1bd22bc0fdcc,2324,2024-03-03,Man City,Man United,3,1,H,football_data_official,,matched
+9de90f69a554,2324,2024-03-04,Sheffield United,Arsenal,0,6,A,football_data_official,,matched
+929e0dfd3056,2324,2024-03-09,Man United,Everton,2,0,H,football_data_official,,matched
+7b4835f29d8d,2324,2024-03-09,Bournemouth,Sheffield United,2,2,D,football_data_official,,matched
+43bf4f6b004d,2324,2024-03-09,Crystal Palace,Luton,1,1,D,football_data_official,,matched
+ecf9d31ba498,2324,2024-03-09,Wolves,Fulham,2,1,H,football_data_official,,matched
+6f9b4cc50a94,2324,2024-03-09,Arsenal,Brentford,2,1,H,football_data_official,,matched
+baefcea9622a,2324,2024-03-10,Aston Villa,Tottenham,0,4,A,football_data_official,,matched
+f5b15d224921,2324,2024-03-10,Brighton,Nott'm Forest,1,0,H,football_data_official,,matched
+f527aeddf9f7,2324,2024-03-10,West Ham,Burnley,2,2,D,football_data_official,,matched
+566903db476b,2324,2024-03-10,Liverpool,Man City,1,1,D,football_data_official,,matched
+a55d77182b3c,2324,2024-03-11,Chelsea,Newcastle,3,2,H,football_data_official,,matched
+a31996344d8e,2324,2024-03-13,Bournemouth,Luton,4,3,H,football_data_official,,matched
+8334d4fd44e2,2324,2024-03-16,Burnley,Brentford,2,1,H,football_data_official,,matched
+63ee7478be58,2324,2024-03-16,Luton,Nott'm Forest,1,1,D,football_data_official,,matched
+e11305b15f41,2324,2024-03-16,Fulham,Tottenham,3,0,H,football_data_official,,matched
+6d9ca61d37d2,2324,2024-03-17,West Ham,Aston Villa,1,1,D,football_data_official,,matched
+2b14949e3a5d,2324,2024-03-30,Newcastle,West Ham,4,3,H,football_data_official,,matched
+d898c68a85ca,2324,2024-03-30,Bournemouth,Everton,2,1,H,football_data_official,,matched
+4a495ccde876,2324,2024-03-30,Chelsea,Burnley,2,2,D,football_data_official,,matched
+3de863c1776c,2324,2024-03-30,Nott'm Forest,Crystal Palace,1,1,D,football_data_official,,matched
+3de5c15cd6d1,2324,2024-03-30,Sheffield United,Fulham,3,3,D,football_data_official,,matched
+e630b0504f13,2324,2024-03-30,Tottenham,Luton,2,1,H,football_data_official,,matched
+5fefc4f775a1,2324,2024-03-30,Aston Villa,Wolves,2,0,H,football_data_official,,matched
+c88737752cc4,2324,2024-03-30,Brentford,Man United,1,1,D,football_data_official,,matched
+b7b67162b202,2324,2024-03-31,Liverpool,Brighton,2,1,H,football_data_official,,matched
+34bf2fb7e266,2324,2024-03-31,Man City,Arsenal,0,0,D,football_data_official,,matched
+605be11381ea,2324,2024-04-02,Newcastle,Everton,1,1,D,football_data_official,,matched
+ff7ce1dc31f9,2324,2024-04-02,Nott'm Forest,Fulham,3,1,H,football_data_official,,matched
+d824bb97e685,2324,2024-04-02,Bournemouth,Crystal Palace,1,0,H,football_data_official,,matched
+fbc11bffcf79,2324,2024-04-02,Burnley,Wolves,1,1,D,football_data_official,,matched
+0ad24e92a8a9,2324,2024-04-02,West Ham,Tottenham,1,1,D,football_data_official,,matched
+cca24b950397,2324,2024-04-03,Arsenal,Luton,2,0,H,football_data_official,,matched
+ae67752339a4,2324,2024-04-03,Brentford,Brighton,0,0,D,football_data_official,,matched
+83b3c12e16a3,2324,2024-04-03,Man City,Aston Villa,4,1,H,football_data_official,,matched
+5e8f6886134f,2324,2024-04-04,Liverpool,Sheffield United,3,1,H,football_data_official,,matched
+e238586a39dd,2324,2024-04-04,Chelsea,Man United,4,3,H,football_data_official,,matched
+c80b1584bcb8,2324,2024-04-06,Crystal Palace,Man City,2,4,A,football_data_official,,matched
+e6369feb7920,2324,2024-04-06,Aston Villa,Brentford,3,3,D,football_data_official,,matched
+8b09e4a91200,2324,2024-04-06,Everton,Burnley,1,0,H,football_data_official,,matched
+7abdb7a6399a,2324,2024-04-06,Fulham,Newcastle,0,1,A,football_data_official,,matched
+c44a883bae2c,2324,2024-04-06,Luton,Bournemouth,2,1,H,football_data_official,,matched
+1165b092fe2b,2324,2024-04-06,Wolves,West Ham,1,2,A,football_data_official,,matched
+40cafd2bdff9,2324,2024-04-06,Brighton,Arsenal,0,3,A,football_data_official,,matched
+cf994d0343ff,2324,2024-04-07,Man United,Liverpool,2,2,D,football_data_official,,matched
+f677191923c6,2324,2024-04-07,Sheffield United,Chelsea,2,2,D,football_data_official,,matched
+d96860cf19fb,2324,2024-04-07,Tottenham,Nott'm Forest,3,1,H,football_data_official,,matched
+3cbd81f1990e,2324,2024-04-13,Newcastle,Tottenham,4,0,H,football_data_official,,matched
+2c5654634987,2324,2024-04-13,Brentford,Sheffield United,2,0,H,football_data_official,,matched
+b2ab06e1af6c,2324,2024-04-13,Burnley,Brighton,1,1,D,football_data_official,,matched
+b3e05aa83ba6,2324,2024-04-13,Man City,Luton,5,1,H,football_data_official,,matched
+533ac077565b,2324,2024-04-13,Nott'm Forest,Wolves,2,2,D,football_data_official,,matched
+06af20a5a7f2,2324,2024-04-13,Bournemouth,Man United,2,2,D,football_data_official,,matched
+35b1a8abbedb,2324,2024-04-14,Liverpool,Crystal Palace,0,1,A,football_data_official,,matched
+d19923a3406d,2324,2024-04-14,West Ham,Fulham,0,2,A,football_data_official,,matched
+d11f32405801,2324,2024-04-14,Arsenal,Aston Villa,0,2,A,football_data_official,,matched
+10eeb585a9c5,2324,2024-04-15,Chelsea,Everton,6,0,H,football_data_official,,matched
+01ac50d37e7b,2324,2024-04-20,Luton,Brentford,1,5,A,football_data_official,,matched
+b359f6eb1176,2324,2024-04-20,Sheffield United,Burnley,1,4,A,football_data_official,,matched
+afd01cba262c,2324,2024-04-20,Wolves,Arsenal,0,2,A,football_data_official,,matched
+bdae4541f2e9,2324,2024-04-21,Everton,Nott'm Forest,2,0,H,football_data_official,,matched
+b149a38a852e,2324,2024-04-21,Aston Villa,Bournemouth,3,1,H,football_data_official,,matched
+af9ba6b95feb,2324,2024-04-21,Crystal Palace,West Ham,5,2,H,football_data_official,,matched
+21e2d343d6f5,2324,2024-04-21,Fulham,Liverpool,1,3,A,football_data_official,,matched
+963f73759628,2324,2024-04-23,Arsenal,Chelsea,5,0,H,football_data_official,,matched
+48ce0cbf4777,2324,2024-04-24,Wolves,Bournemouth,0,1,A,football_data_official,,matched
+f5e62ab6a4f2,2324,2024-04-24,Crystal Palace,Newcastle,2,0,H,football_data_official,,matched
+bffee63b65e0,2324,2024-04-24,Everton,Liverpool,2,0,H,football_data_official,,matched
+38bbdf040932,2324,2024-04-24,Man United,Sheffield United,4,2,H,football_data_official,,matched
+d5097a60d788,2324,2024-04-25,Brighton,Man City,0,4,A,football_data_official,,matched
+bd12c1ff3358,2324,2024-04-27,West Ham,Liverpool,2,2,D,football_data_official,,matched
+b20fdf2d3eea,2324,2024-04-27,Fulham,Crystal Palace,1,1,D,football_data_official,,matched
+b76d769d0f02,2324,2024-04-27,Man United,Burnley,1,1,D,football_data_official,,matched
+e652fae82498,2324,2024-04-27,Newcastle,Sheffield United,5,1,H,football_data_official,,matched
+5403ef15f22b,2324,2024-04-27,Wolves,Luton,2,1,H,football_data_official,,matched
+eb9498fb09b8,2324,2024-04-27,Everton,Brentford,1,0,H,football_data_official,,matched
+c48ea1ef4638,2324,2024-04-27,Aston Villa,Chelsea,2,2,D,football_data_official,,matched
+d354b5f0338a,2324,2024-04-28,Bournemouth,Brighton,3,0,H,football_data_official,,matched
+7353743eb11a,2324,2024-04-28,Tottenham,Arsenal,2,3,A,football_data_official,,matched
+54f45a9118d7,2324,2024-04-28,Nott'm Forest,Man City,0,2,A,football_data_official,,matched
+33a05db1d12f,2324,2024-05-02,Chelsea,Tottenham,2,0,H,football_data_official,,matched
+d2c42d1f83e4,2324,2024-05-03,Luton,Everton,1,1,D,football_data_official,,matched
+a0df47d51a93,2324,2024-05-04,Arsenal,Bournemouth,3,0,H,football_data_official,,matched
+2c8d93bf4e26,2324,2024-05-04,Brentford,Fulham,0,0,D,football_data_official,,matched
+92fd9a7a525e,2324,2024-05-04,Burnley,Newcastle,1,4,A,football_data_official,,matched
+f0f7f6f39fb4,2324,2024-05-04,Sheffield United,Nott'm Forest,1,3,A,football_data_official,,matched
+66a8e4753520,2324,2024-05-04,Man City,Wolves,5,1,H,football_data_official,,matched
+8f56b9b116e9,2324,2024-05-05,Brighton,Aston Villa,1,0,H,football_data_official,,matched
+8d348eac2ec9,2324,2024-05-05,Chelsea,West Ham,5,0,H,football_data_official,,matched
+595845c8ce8e,2324,2024-05-05,Liverpool,Tottenham,4,2,H,football_data_official,,matched
+c4d4ad033bf0,2324,2024-05-06,Crystal Palace,Man United,4,0,H,football_data_official,,matched
+d5c081de23be,2324,2024-05-11,Fulham,Man City,0,4,A,football_data_official,,matched
+bb4db7a3ff82,2324,2024-05-11,Bournemouth,Brentford,1,2,A,football_data_official,,matched
+b0d98e04948c,2324,2024-05-11,Everton,Sheffield United,1,0,H,football_data_official,,matched
+3e5582ddf9b9,2324,2024-05-11,Newcastle,Brighton,1,1,D,football_data_official,,matched
+e534da81d3f2,2324,2024-05-11,Tottenham,Burnley,2,1,H,football_data_official,,matched
+bc6aafa267cd,2324,2024-05-11,West Ham,Luton,3,1,H,football_data_official,,matched
+4f40a73cd988,2324,2024-05-11,Wolves,Crystal Palace,1,3,A,football_data_official,,matched
+529767f41f2f,2324,2024-05-11,Nott'm Forest,Chelsea,2,3,A,football_data_official,,matched
+e7abe5889b72,2324,2024-05-12,Man United,Arsenal,0,1,A,football_data_official,,matched
+1d1b456f1225,2324,2024-05-13,Aston Villa,Liverpool,3,3,D,football_data_official,,matched
+bccf51b762c0,2324,2024-05-14,Tottenham,Man City,0,2,A,football_data_official,,matched
+8002fce449d7,2324,2024-05-15,Brighton,Chelsea,1,2,A,football_data_official,,matched
+8d49e53c758a,2324,2024-05-15,Man United,Newcastle,3,2,H,football_data_official,,matched
+158a73e59413,2324,2024-05-19,Arsenal,Everton,2,1,H,football_data_official,,matched
+590e62dfe0db,2324,2024-05-19,Brentford,Newcastle,2,4,A,football_data_official,,matched
+282b7686e3c5,2324,2024-05-19,Brighton,Man United,0,2,A,football_data_official,,matched
+b1bdb323e1e5,2324,2024-05-19,Burnley,Nott'm Forest,1,2,A,football_data_official,,matched
+fd4b1f8c5397,2324,2024-05-19,Chelsea,Bournemouth,2,1,H,football_data_official,,matched
+85285a09c97a,2324,2024-05-19,Crystal Palace,Aston Villa,5,0,H,football_data_official,,matched
+9d481832e424,2324,2024-05-19,Liverpool,Wolves,2,0,H,football_data_official,,matched
+ca39b6b2cdee,2324,2024-05-19,Luton,Fulham,2,4,A,football_data_official,,matched
+af9491d8bb29,2324,2024-05-19,Man City,West Ham,3,1,H,football_data_official,,matched
+137f2161cb04,2324,2024-05-19,Sheffield United,Tottenham,0,3,A,football_data_official,,matched
+bcfb50eb8908,2425,2024-08-16,Man United,Fulham,1,0,H,football_data_official,,matched
+bd1d732e2c5a,2425,2024-08-17,Ipswich,Liverpool,0,2,A,football_data_official,,matched
+039e19d3fe0a,2425,2024-08-17,Arsenal,Wolves,2,0,H,football_data_official,,matched
+c39a3033fe4b,2425,2024-08-17,Everton,Brighton,0,3,A,football_data_official,,matched
+8284a8287c75,2425,2024-08-17,Newcastle,Southampton,1,0,H,football_data_official,,matched
+8ccd3ad98c3f,2425,2024-08-17,Nott'm Forest,Bournemouth,1,1,D,football_data_official,,matched
+8e298db877f5,2425,2024-08-17,West Ham,Aston Villa,1,2,A,football_data_official,,matched
+90553fc60302,2425,2024-08-18,Brentford,Crystal Palace,2,1,H,football_data_official,,matched
+ceb6517c772a,2425,2024-08-18,Chelsea,Man City,0,2,A,football_data_official,,matched
+d0a2b4b3a092,2425,2024-08-19,Leicester,Tottenham,1,1,D,football_data_official,,matched
+8d144cd258af,2425,2024-08-24,Brighton,Man United,2,1,H,football_data_official,,matched
+3d327f37c608,2425,2024-08-24,Crystal Palace,West Ham,0,2,A,football_data_official,,matched
+41f440b5e103,2425,2024-08-24,Fulham,Leicester,2,1,H,football_data_official,,matched
+7ab6ff0de22d,2425,2024-08-24,Man City,Ipswich,4,1,H,football_data_official,,matched
+186cb91e22f3,2425,2024-08-24,Southampton,Nott'm Forest,0,1,A,football_data_official,,matched
+3f271e968443,2425,2024-08-24,Tottenham,Everton,4,0,H,football_data_official,,matched
+dbbb74885479,2425,2024-08-24,Aston Villa,Arsenal,0,2,A,football_data_official,,matched
+ca51ea10ce5e,2425,2024-08-25,Bournemouth,Newcastle,1,1,D,football_data_official,,matched
+3cf6c5c6ab81,2425,2024-08-25,Wolves,Chelsea,2,6,A,football_data_official,,matched
+76a7134add60,2425,2024-08-25,Liverpool,Brentford,2,0,H,football_data_official,,matched
+2f8a2a00202d,2425,2024-08-31,Arsenal,Brighton,1,1,D,football_data_official,,matched
+ecd1dfaa9589,2425,2024-08-31,Brentford,Southampton,3,1,H,football_data_official,,matched
+090db70c5623,2425,2024-08-31,Everton,Bournemouth,2,3,A,football_data_official,,matched
+4643e69c726e,2425,2024-08-31,Ipswich,Fulham,1,1,D,football_data_official,,matched
+2f590f248f54,2425,2024-08-31,Leicester,Aston Villa,1,2,A,football_data_official,,matched
+1e0921d471bd,2425,2024-08-31,Nott'm Forest,Wolves,1,1,D,football_data_official,,matched
+2692f81bdef1,2425,2024-08-31,West Ham,Man City,1,3,A,football_data_official,,matched
+717fb891d0a2,2425,2024-09-01,Chelsea,Crystal Palace,1,1,D,football_data_official,,matched
+2ffe906307cf,2425,2024-09-01,Newcastle,Tottenham,2,1,H,football_data_official,,matched
+38b32ae06b78,2425,2024-09-01,Man United,Liverpool,0,3,A,football_data_official,,matched
+8eb564ccee8e,2425,2024-09-14,Southampton,Man United,0,3,A,football_data_official,,matched
+b1dd172f84dc,2425,2024-09-14,Brighton,Ipswich,0,0,D,football_data_official,,matched
+55c6e26506bf,2425,2024-09-14,Crystal Palace,Leicester,2,2,D,football_data_official,,matched
+6865dafea474,2425,2024-09-14,Fulham,West Ham,1,1,D,football_data_official,,matched
+b32394ed7de8,2425,2024-09-14,Liverpool,Nott'm Forest,0,1,A,football_data_official,,matched
+16fdd00769ee,2425,2024-09-14,Man City,Brentford,2,1,H,football_data_official,,matched
+59ede8cbc894,2425,2024-09-14,Aston Villa,Everton,3,2,H,football_data_official,,matched
+714b564be4d6,2425,2024-09-14,Bournemouth,Chelsea,0,1,A,football_data_official,,matched
+49b39978ebb7,2425,2024-09-15,Tottenham,Arsenal,0,1,A,football_data_official,,matched
+90f68e2af576,2425,2024-09-15,Wolves,Newcastle,1,2,A,football_data_official,,matched
+29b036f9af8f,2425,2024-09-21,West Ham,Chelsea,0,3,A,football_data_official,,matched
+c92b6396d76e,2425,2024-09-21,Aston Villa,Wolves,3,1,H,football_data_official,,matched
+b6495c37c887,2425,2024-09-21,Fulham,Newcastle,3,1,H,football_data_official,,matched
+5a1827964196,2425,2024-09-21,Leicester,Everton,1,1,D,football_data_official,,matched
+3cc99faf1160,2425,2024-09-21,Liverpool,Bournemouth,3,0,H,football_data_official,,matched
+dc0f9543f26b,2425,2024-09-21,Southampton,Ipswich,1,1,D,football_data_official,,matched
+e5e7b5173824,2425,2024-09-21,Tottenham,Brentford,3,1,H,football_data_official,,matched
+7d5ee30a53d7,2425,2024-09-21,Crystal Palace,Man United,0,0,D,football_data_official,,matched
+f77fc902fd2a,2425,2024-09-22,Brighton,Nott'm Forest,2,2,D,football_data_official,,matched
+65488150f556,2425,2024-09-22,Man City,Arsenal,2,2,D,football_data_official,,matched
+b4b5e1b262bd,2425,2024-09-28,Newcastle,Man City,1,1,D,football_data_official,,matched
+3022203f325e,2425,2024-09-28,Arsenal,Leicester,4,2,H,football_data_official,,matched
+b2c22af32867,2425,2024-09-28,Brentford,West Ham,1,1,D,football_data_official,,matched
+4ae6e7f322fb,2425,2024-09-28,Chelsea,Brighton,4,2,H,football_data_official,,matched
+e0822aefbfef,2425,2024-09-28,Everton,Crystal Palace,2,1,H,football_data_official,,matched
+ebfe14a9f9be,2425,2024-09-28,Nott'm Forest,Fulham,0,1,A,football_data_official,,matched
+f0548be854fc,2425,2024-09-28,Wolves,Liverpool,1,2,A,football_data_official,,matched
+1747310dab65,2425,2024-09-29,Ipswich,Aston Villa,2,2,D,football_data_official,,matched
+228451cdfc5a,2425,2024-09-29,Man United,Tottenham,0,3,A,football_data_official,,matched
+898ae0395d9b,2425,2024-09-30,Bournemouth,Southampton,3,1,H,football_data_official,,matched
+a64847ad4384,2425,2024-10-05,Crystal Palace,Liverpool,0,1,A,football_data_official,,matched
+a8ff3311b677,2425,2024-10-05,Arsenal,Southampton,3,1,H,football_data_official,,matched
+368fbe1542bb,2425,2024-10-05,Brentford,Wolves,5,3,H,football_data_official,,matched
+3683e9d31f05,2425,2024-10-05,Leicester,Bournemouth,1,0,H,football_data_official,,matched
+e6e927970962,2425,2024-10-05,Man City,Fulham,3,2,H,football_data_official,,matched
+3fdf9ec93458,2425,2024-10-05,West Ham,Ipswich,4,1,H,football_data_official,,matched
+62968a263220,2425,2024-10-05,Everton,Newcastle,0,0,D,football_data_official,,matched
+fbf722aaf190,2425,2024-10-06,Aston Villa,Man United,0,0,D,football_data_official,,matched
+de44cfb4beb6,2425,2024-10-06,Chelsea,Nott'm Forest,1,1,D,football_data_official,,matched
+4919a143705a,2425,2024-10-06,Brighton,Tottenham,3,2,H,football_data_official,,matched
+b0a60156e749,2425,2024-10-19,Tottenham,West Ham,4,1,H,football_data_official,,matched
+786fe96f2648,2425,2024-10-19,Fulham,Aston Villa,1,3,A,football_data_official,,matched
+783e783a8a72,2425,2024-10-19,Ipswich,Everton,0,2,A,football_data_official,,matched
+68f68e9fcc1e,2425,2024-10-19,Man United,Brentford,2,1,H,football_data_official,,matched
+c7e1d8fa57cb,2425,2024-10-19,Newcastle,Brighton,0,1,A,football_data_official,,matched
+e199b1d79ebb,2425,2024-10-19,Southampton,Leicester,2,3,A,football_data_official,,matched
+73f625fbfb21,2425,2024-10-19,Bournemouth,Arsenal,2,0,H,football_data_official,,matched
+d4124142a9ff,2425,2024-10-20,Wolves,Man City,1,2,A,football_data_official,,matched
+2b6d60068712,2425,2024-10-20,Liverpool,Chelsea,2,1,H,football_data_official,,matched
+8675c9d05c47,2425,2024-10-21,Nott'm Forest,Crystal Palace,1,0,H,football_data_official,,matched
+224bf1ee8bea,2425,2024-10-25,Leicester,Nott'm Forest,1,3,A,football_data_official,,matched
+017a0986f7c2,2425,2024-10-26,Aston Villa,Bournemouth,1,1,D,football_data_official,,matched
+878b6e855e96,2425,2024-10-26,Brentford,Ipswich,4,3,H,football_data_official,,matched
+6b8ac3f30f5e,2425,2024-10-26,Brighton,Wolves,2,2,D,football_data_official,,matched
+8ea3fb9e7907,2425,2024-10-26,Man City,Southampton,1,0,H,football_data_official,,matched
+bfc30c6d75f4,2425,2024-10-26,Everton,Fulham,1,1,D,football_data_official,,matched
+b5791048d56b,2425,2024-10-27,Chelsea,Newcastle,2,1,H,football_data_official,,matched
+6d9ed5f84b22,2425,2024-10-27,Crystal Palace,Tottenham,1,0,H,football_data_official,,matched
+ba7abb05d170,2425,2024-10-27,West Ham,Man United,2,1,H,football_data_official,,matched
+dad83b2b3a4b,2425,2024-10-27,Arsenal,Liverpool,2,2,D,football_data_official,,matched
+ace0a26c6560,2425,2024-11-02,Newcastle,Arsenal,1,0,H,football_data_official,,matched
+357c3cd1f9fd,2425,2024-11-02,Bournemouth,Man City,2,1,H,football_data_official,,matched
+991fd145c9e1,2425,2024-11-02,Ipswich,Leicester,1,1,D,football_data_official,,matched
+8716e97b71ee,2425,2024-11-02,Liverpool,Brighton,2,1,H,football_data_official,,matched
+810fad82a5dc,2425,2024-11-02,Nott'm Forest,West Ham,3,0,H,football_data_official,,matched
+9d2dd30c7641,2425,2024-11-02,Southampton,Everton,1,0,H,football_data_official,,matched
+850a4a6ee2fc,2425,2024-11-02,Wolves,Crystal Palace,2,2,D,football_data_official,,matched
+3a5886e18e68,2425,2024-11-03,Tottenham,Aston Villa,4,1,H,football_data_official,,matched
+4f40a955e9b1,2425,2024-11-03,Man United,Chelsea,1,1,D,football_data_official,,matched
+3ad5f879f94f,2425,2024-11-04,Fulham,Brentford,2,1,H,football_data_official,,matched
+19862f4e9bc9,2425,2024-11-09,Brentford,Bournemouth,3,2,H,football_data_official,,matched
+2c4c2322f036,2425,2024-11-09,Crystal Palace,Fulham,0,2,A,football_data_official,,matched
+fb4e407ea04a,2425,2024-11-09,West Ham,Everton,0,0,D,football_data_official,,matched
+82da7c8fb008,2425,2024-11-09,Wolves,Southampton,2,0,H,football_data_official,,matched
+dfe0f3bf1efa,2425,2024-11-09,Brighton,Man City,2,1,H,football_data_official,,matched
+3a19bd505943,2425,2024-11-09,Liverpool,Aston Villa,2,0,H,football_data_official,,matched
+0dda38934e1e,2425,2024-11-10,Man United,Leicester,3,0,H,football_data_official,,matched
+d2720e3582a2,2425,2024-11-10,Nott'm Forest,Newcastle,1,3,A,football_data_official,,matched
+6cf6e77cc9bd,2425,2024-11-10,Tottenham,Ipswich,1,2,A,football_data_official,,matched
+a97fe5f78990,2425,2024-11-10,Chelsea,Arsenal,1,1,D,football_data_official,,matched
+da105a17e9ca,2425,2024-11-23,Leicester,Chelsea,1,2,A,football_data_official,,matched
+ecab9d5cc745,2425,2024-11-23,Arsenal,Nott'm Forest,3,0,H,football_data_official,,matched
+581ba8d01cdc,2425,2024-11-23,Aston Villa,Crystal Palace,2,2,D,football_data_official,,matched
+bc96c9e7afad,2425,2024-11-23,Bournemouth,Brighton,1,2,A,football_data_official,,matched
+180c716be363,2425,2024-11-23,Everton,Brentford,0,0,D,football_data_official,,matched
+4ed00c0bd843,2425,2024-11-23,Fulham,Wolves,1,4,A,football_data_official,,matched
+146979b29d1f,2425,2024-11-23,Man City,Tottenham,0,4,A,football_data_official,,matched
+7c4741b82e3a,2425,2024-11-24,Southampton,Liverpool,2,3,A,football_data_official,,matched
+56bc3c129db6,2425,2024-11-24,Ipswich,Man United,1,1,D,football_data_official,,matched
+11e0df387345,2425,2024-11-25,Newcastle,West Ham,0,2,A,football_data_official,,matched
+ddf5ebfbde13,2425,2024-11-29,Brighton,Southampton,1,1,D,football_data_official,,matched
+dba36b32dd6a,2425,2024-11-30,Brentford,Leicester,4,1,H,football_data_official,,matched
+814b8549fd3d,2425,2024-11-30,Crystal Palace,Newcastle,1,1,D,football_data_official,,matched
+3ee87ea26fee,2425,2024-11-30,Nott'm Forest,Ipswich,1,0,H,football_data_official,,matched
+efbf0c2227b4,2425,2024-11-30,Wolves,Bournemouth,2,4,A,football_data_official,,matched
+7e343f9890d4,2425,2024-11-30,West Ham,Arsenal,2,5,A,football_data_official,,matched
+bc91de6e001a,2425,2024-12-01,Chelsea,Aston Villa,3,0,H,football_data_official,,matched
+5798388b2147,2425,2024-12-01,Man United,Everton,4,0,H,football_data_official,,matched
+cc87b0c662b8,2425,2024-12-01,Tottenham,Fulham,1,1,D,football_data_official,,matched
+ce4e0566958b,2425,2024-12-01,Liverpool,Man City,2,0,H,football_data_official,,matched
+577fbb493476,2425,2024-12-03,Ipswich,Crystal Palace,0,1,A,football_data_official,,matched
+b51aa0f6f7e2,2425,2024-12-03,Leicester,West Ham,3,1,H,football_data_official,,matched
+7a5bfa3ba577,2425,2024-12-04,Everton,Wolves,4,0,H,football_data_official,,matched
+c610d6044f01,2425,2024-12-04,Man City,Nott'm Forest,3,0,H,football_data_official,,matched
+a9a2d9f031f1,2425,2024-12-04,Newcastle,Liverpool,3,3,D,football_data_official,,matched
+73e15dcab1c1,2425,2024-12-04,Southampton,Chelsea,1,5,A,football_data_official,,matched
+29c9f8a88097,2425,2024-12-04,Arsenal,Man United,2,0,H,football_data_official,,matched
+3bda16abf789,2425,2024-12-04,Aston Villa,Brentford,3,1,H,football_data_official,,matched
+a266489d11a3,2425,2024-12-05,Fulham,Brighton,3,1,H,football_data_official,,matched
+d72321a081e8,2425,2024-12-05,Bournemouth,Tottenham,1,0,H,football_data_official,,matched
+26e74ae65cda,2425,2024-12-07,Aston Villa,Southampton,1,0,H,football_data_official,,matched
+ae35c9d011e4,2425,2024-12-07,Brentford,Newcastle,4,2,H,football_data_official,,matched
+e9e9ca38620c,2425,2024-12-07,Crystal Palace,Man City,2,2,D,football_data_official,,matched
+1ee7677157a8,2425,2024-12-07,Man United,Nott'm Forest,2,3,A,football_data_official,,matched
+cf07f30eee92,2425,2024-12-08,Fulham,Arsenal,1,1,D,football_data_official,,matched
+7cba4d528880,2425,2024-12-08,Ipswich,Bournemouth,1,2,A,football_data_official,,matched
+0d2aa6fa4706,2425,2024-12-08,Leicester,Brighton,2,2,D,football_data_official,,matched
+bf23680a1d91,2425,2024-12-08,Tottenham,Chelsea,3,4,A,football_data_official,,matched
+f74f07d45633,2425,2024-12-09,West Ham,Wolves,2,1,H,football_data_official,,matched
+a37e6ed20b37,2425,2024-12-14,Arsenal,Everton,0,0,D,football_data_official,,matched
+83c638771986,2425,2024-12-14,Liverpool,Fulham,2,2,D,football_data_official,,matched
+a30ad3f886a3,2425,2024-12-14,Newcastle,Leicester,4,0,H,football_data_official,,matched
+ced7fc910ce2,2425,2024-12-14,Wolves,Ipswich,1,2,A,football_data_official,,matched
+ce4881f072ea,2425,2024-12-14,Nott'm Forest,Aston Villa,2,1,H,football_data_official,,matched
+27b4b9b49429,2425,2024-12-15,Brighton,Crystal Palace,1,3,A,football_data_official,,matched
+06f86193a5db,2425,2024-12-15,Man City,Man United,1,2,A,football_data_official,,matched
+ac85ff4c8c93,2425,2024-12-15,Chelsea,Brentford,2,1,H,football_data_official,,matched
+21ce2ad9d14b,2425,2024-12-15,Southampton,Tottenham,0,5,A,football_data_official,,matched
+155aed1d575e,2425,2024-12-16,Bournemouth,West Ham,1,1,D,football_data_official,,matched
+b842ab20ad94,2425,2024-12-21,Aston Villa,Man City,2,1,H,football_data_official,,matched
+ab695a6ed4dc,2425,2024-12-21,Brentford,Nott'm Forest,0,2,A,football_data_official,,matched
+3e06fb162eb3,2425,2024-12-21,Ipswich,Newcastle,0,4,A,football_data_official,,matched
+58d13a106011,2425,2024-12-21,West Ham,Brighton,1,1,D,football_data_official,,matched
+16d5caa7e493,2425,2024-12-21,Crystal Palace,Arsenal,1,5,A,football_data_official,,matched
+fec89db80e59,2425,2024-12-22,Everton,Chelsea,0,0,D,football_data_official,,matched
+497e1aa82924,2425,2024-12-22,Fulham,Southampton,0,0,D,football_data_official,,matched
+d9b9caeccfca,2425,2024-12-22,Leicester,Wolves,0,3,A,football_data_official,,matched
+c65b312659ae,2425,2024-12-22,Man United,Bournemouth,0,3,A,football_data_official,,matched
+270c3089ea6c,2425,2024-12-22,Tottenham,Liverpool,3,6,A,football_data_official,,matched
+18eaa9e56455,2425,2024-12-26,Man City,Everton,1,1,D,football_data_official,,matched
+3cbdac5b07c7,2425,2024-12-26,Bournemouth,Crystal Palace,0,0,D,football_data_official,,matched
+8109d9af3bec,2425,2024-12-26,Chelsea,Fulham,1,2,A,football_data_official,,matched
+b7aed7deced5,2425,2024-12-26,Newcastle,Aston Villa,3,0,H,football_data_official,,matched
+7168da378840,2425,2024-12-26,Nott'm Forest,Tottenham,1,0,H,football_data_official,,matched
+c40bb0ea748a,2425,2024-12-26,Southampton,West Ham,0,1,A,football_data_official,,matched
+5775b8321c68,2425,2024-12-26,Wolves,Man United,2,0,H,football_data_official,,matched
+5c27c43fcecd,2425,2024-12-26,Liverpool,Leicester,3,1,H,football_data_official,,matched
+ecf92a91956b,2425,2024-12-27,Brighton,Brentford,0,0,D,football_data_official,,matched
+c8e1b1432c7b,2425,2024-12-27,Arsenal,Ipswich,1,0,H,football_data_official,,matched
+6c58dea6933a,2425,2024-12-29,Leicester,Man City,0,2,A,football_data_official,,matched
+f9feebab8052,2425,2024-12-29,Crystal Palace,Southampton,2,1,H,football_data_official,,matched
+8770eb26bff9,2425,2024-12-29,Everton,Nott'm Forest,0,2,A,football_data_official,,matched
+8872ac58e9da,2425,2024-12-29,Fulham,Bournemouth,2,2,D,football_data_official,,matched
+c47c51f409c1,2425,2024-12-29,Tottenham,Wolves,2,2,D,football_data_official,,matched
+0649d5c08c10,2425,2024-12-29,West Ham,Liverpool,0,5,A,football_data_official,,matched
+f7a40ca31d0a,2425,2024-12-30,Aston Villa,Brighton,2,2,D,football_data_official,,matched
+471b5ccbe1b7,2425,2024-12-30,Ipswich,Chelsea,2,0,H,football_data_official,,matched
+84b3cb7a95b7,2425,2024-12-30,Man United,Newcastle,0,2,A,football_data_official,,matched
+94ab220e29d9,2425,2025-01-01,Brentford,Arsenal,1,3,A,football_data_official,,matched
+0c0fe467225f,2425,2025-01-04,Tottenham,Newcastle,1,2,A,football_data_official,,matched
+e4b6c37fce7a,2425,2025-01-04,Aston Villa,Leicester,2,1,H,football_data_official,,matched
+a9983366efe3,2425,2025-01-04,Bournemouth,Everton,1,0,H,football_data_official,,matched
+c51729940b7a,2425,2025-01-04,Crystal Palace,Chelsea,1,1,D,football_data_official,,matched
+4b35d1c572d7,2425,2025-01-04,Man City,West Ham,4,1,H,football_data_official,,matched
+218518155df5,2425,2025-01-04,Southampton,Brentford,0,5,A,football_data_official,,matched
+84c16d7cb2a5,2425,2025-01-04,Brighton,Arsenal,1,1,D,football_data_official,,matched
+824388820c94,2425,2025-01-05,Fulham,Ipswich,2,2,D,football_data_official,,matched
+b6168109adc2,2425,2025-01-05,Liverpool,Man United,2,2,D,football_data_official,,matched
+520e4294af1c,2425,2025-01-06,Wolves,Nott'm Forest,0,3,A,football_data_official,,matched
+b5037c364151,2425,2025-01-14,Brentford,Man City,2,2,D,football_data_official,,matched
+bf984331c7d2,2425,2025-01-14,Chelsea,Bournemouth,2,2,D,football_data_official,,matched
+cceb4b60ab6b,2425,2025-01-14,West Ham,Fulham,3,2,H,football_data_official,,matched
+ea2bbec7ed23,2425,2025-01-14,Nott'm Forest,Liverpool,1,1,D,football_data_official,,matched
+9bb9288fd7ca,2425,2025-01-15,Everton,Aston Villa,0,1,A,football_data_official,,matched
+3fc2e381e78d,2425,2025-01-15,Leicester,Crystal Palace,0,2,A,football_data_official,,matched
+65ab665f4a92,2425,2025-01-15,Newcastle,Wolves,3,0,H,football_data_official,,matched
+e3b18184b385,2425,2025-01-15,Arsenal,Tottenham,2,1,H,football_data_official,,matched
+cbfdc1a28bca,2425,2025-01-16,Ipswich,Brighton,0,2,A,football_data_official,,matched
+fbadc37f71b7,2425,2025-01-16,Man United,Southampton,3,1,H,football_data_official,,matched
+b1948a970875,2425,2025-01-18,Newcastle,Bournemouth,1,4,A,football_data_official,,matched
+790d4dc55fbf,2425,2025-01-18,Brentford,Liverpool,0,2,A,football_data_official,,matched
+5101ee88e735,2425,2025-01-18,Leicester,Fulham,0,2,A,football_data_official,,matched
+ec2417bc3a6c,2425,2025-01-18,West Ham,Crystal Palace,0,2,A,football_data_official,,matched
+d87f188d4556,2425,2025-01-18,Arsenal,Aston Villa,2,2,D,football_data_official,,matched
+d7fcb427a877,2425,2025-01-19,Everton,Tottenham,3,2,H,football_data_official,,matched
+4b2ad78a1cb7,2425,2025-01-19,Man United,Brighton,1,3,A,football_data_official,,matched
+39fd8a620a2f,2425,2025-01-19,Nott'm Forest,Southampton,3,2,H,football_data_official,,matched
+16594933e0c2,2425,2025-01-19,Ipswich,Man City,0,6,A,football_data_official,,matched
+505d98938a13,2425,2025-01-20,Chelsea,Wolves,3,1,H,football_data_official,,matched
+59e066bbd7b0,2425,2025-01-25,Bournemouth,Nott'm Forest,5,0,H,football_data_official,,matched
+21672d85fb79,2425,2025-01-25,Brighton,Everton,0,1,A,football_data_official,,matched
+86d62a84571a,2425,2025-01-25,Liverpool,Ipswich,4,1,H,football_data_official,,matched
+61bda6387da4,2425,2025-01-25,Southampton,Newcastle,1,3,A,football_data_official,,matched
+a41b75cb209a,2425,2025-01-25,Wolves,Arsenal,0,1,A,football_data_official,,matched
+e3d97e36186d,2425,2025-01-25,Man City,Chelsea,3,1,H,football_data_official,,matched
+eb0100b1791a,2425,2025-01-26,Crystal Palace,Brentford,1,2,A,football_data_official,,matched
+13f0b37d054d,2425,2025-01-26,Tottenham,Leicester,1,2,A,football_data_official,,matched
+5647fa28e838,2425,2025-01-26,Aston Villa,West Ham,1,1,D,football_data_official,,matched
+74df27d28e84,2425,2025-01-26,Fulham,Man United,0,1,A,football_data_official,,matched
+808637137b52,2425,2025-02-01,Nott'm Forest,Brighton,7,0,H,football_data_official,,matched
+30fe93de3668,2425,2025-02-01,Bournemouth,Liverpool,0,2,A,football_data_official,,matched
+44437f5fb212,2425,2025-02-01,Everton,Leicester,4,0,H,football_data_official,,matched
+a1597d101f1a,2425,2025-02-01,Ipswich,Southampton,1,2,A,football_data_official,,matched
+9f418fcfffd4,2425,2025-02-01,Newcastle,Fulham,1,2,A,football_data_official,,matched
+de289bf72682,2425,2025-02-01,Wolves,Aston Villa,2,0,H,football_data_official,,matched
+84e12ad665e0,2425,2025-02-02,Brentford,Tottenham,0,2,A,football_data_official,,matched
+8969f507ff0f,2425,2025-02-02,Man United,Crystal Palace,0,2,A,football_data_official,,matched
+b739c99f2da6,2425,2025-02-02,Arsenal,Man City,5,1,H,football_data_official,,matched
+faa926c4fe0c,2425,2025-02-03,Chelsea,West Ham,2,1,H,football_data_official,,matched
+b262928deec5,2425,2025-02-12,Everton,Liverpool,2,2,D,football_data_official,,matched
+d031808ddb91,2425,2025-02-14,Brighton,Chelsea,3,0,H,football_data_official,,matched
+333db18a91c1,2425,2025-02-15,Leicester,Arsenal,0,2,A,football_data_official,,matched
+eeaa2a69c30e,2425,2025-02-15,Aston Villa,Ipswich,1,1,D,football_data_official,,matched
+2af38b298397,2425,2025-02-15,Fulham,Nott'm Forest,2,1,H,football_data_official,,matched
+55e6cd1cfb75,2425,2025-02-15,Man City,Newcastle,4,0,H,football_data_official,,matched
+bdcfd84b169d,2425,2025-02-15,Southampton,Bournemouth,1,3,A,football_data_official,,matched
+7c9b3fe4d42d,2425,2025-02-15,West Ham,Brentford,0,1,A,football_data_official,,matched
+57e55b0d2d68,2425,2025-02-15,Crystal Palace,Everton,1,2,A,football_data_official,,matched
+8ba017965792,2425,2025-02-16,Liverpool,Wolves,2,1,H,football_data_official,,matched
+381bd5e48e51,2425,2025-02-16,Tottenham,Man United,1,0,H,football_data_official,,matched
+4f1e3abbdb49,2425,2025-02-19,Aston Villa,Liverpool,2,2,D,football_data_official,,matched
+1f69f38904f3,2425,2025-02-21,Leicester,Brentford,0,4,A,football_data_official,,matched
+17de7f2be536,2425,2025-02-22,Everton,Man United,2,2,D,football_data_official,,matched
+d55796c4c4eb,2425,2025-02-22,Arsenal,West Ham,0,1,A,football_data_official,,matched
+e786aff775b1,2425,2025-02-22,Bournemouth,Wolves,0,1,A,football_data_official,,matched
+c759c4a74619,2425,2025-02-22,Fulham,Crystal Palace,0,2,A,football_data_official,,matched
+c7fcd6cc6ff8,2425,2025-02-22,Ipswich,Tottenham,1,4,A,football_data_official,,matched
+f4aaa2b3c1b4,2425,2025-02-22,Southampton,Brighton,0,4,A,football_data_official,,matched
+d278243ca962,2425,2025-02-22,Aston Villa,Chelsea,2,1,H,football_data_official,,matched
+5e83c7493a24,2425,2025-02-23,Newcastle,Nott'm Forest,4,3,H,football_data_official,,matched
+2eb47135ea08,2425,2025-02-23,Man City,Liverpool,0,2,A,football_data_official,,matched
+8a7ba7224ac6,2425,2025-02-25,Brighton,Bournemouth,2,1,H,football_data_official,,matched
+94f7f5bef6fa,2425,2025-02-25,Crystal Palace,Aston Villa,4,1,H,football_data_official,,matched
+78e7292ca106,2425,2025-02-25,Wolves,Fulham,1,2,A,football_data_official,,matched
+8d270050350e,2425,2025-02-25,Chelsea,Southampton,4,0,H,football_data_official,,matched
+94bc8c21d1b1,2425,2025-02-26,Brentford,Everton,1,1,D,football_data_official,,matched
+3be7a35bee7c,2425,2025-02-26,Man United,Ipswich,3,2,H,football_data_official,,matched
+37bcd29bd598,2425,2025-02-26,Nott'm Forest,Arsenal,0,0,D,football_data_official,,matched
+9697327026a7,2425,2025-02-26,Tottenham,Man City,0,1,A,football_data_official,,matched
+855a0d61b620,2425,2025-02-26,Liverpool,Newcastle,2,0,H,football_data_official,,matched
+685705a4b2d5,2425,2025-02-27,West Ham,Leicester,2,0,H,football_data_official,,matched
+b98e6c865189,2425,2025-03-08,Nott'm Forest,Man City,1,0,H,football_data_official,,matched
+f633c26008a4,2425,2025-03-08,Brighton,Fulham,2,1,H,football_data_official,,matched
+da3725753ace,2425,2025-03-08,Crystal Palace,Ipswich,1,0,H,football_data_official,,matched
+5b4ad2372344,2425,2025-03-08,Liverpool,Southampton,3,1,H,football_data_official,,matched
+423d3b6a14da,2425,2025-03-08,Brentford,Aston Villa,0,1,A,football_data_official,,matched
+848519dcba86,2425,2025-03-08,Wolves,Everton,1,1,D,football_data_official,,matched
+9f9e59b45a9f,2425,2025-03-09,Chelsea,Leicester,1,0,H,football_data_official,,matched
+0c35a7c3d7ba,2425,2025-03-09,Tottenham,Bournemouth,2,2,D,football_data_official,,matched
+fc4f24e41fa0,2425,2025-03-09,Man United,Arsenal,1,1,D,football_data_official,,matched
+0501dd81711e,2425,2025-03-10,West Ham,Newcastle,0,1,A,football_data_official,,matched
+e033259f9da2,2425,2025-03-15,Everton,West Ham,1,1,D,football_data_official,,matched
+5313ebcfd3d1,2425,2025-03-15,Ipswich,Nott'm Forest,2,4,A,football_data_official,,matched
+f60eba978ed2,2425,2025-03-15,Man City,Brighton,2,2,D,football_data_official,,matched
+fea975553a4b,2425,2025-03-15,Southampton,Wolves,1,2,A,football_data_official,,matched
+e8f0d38ff64e,2425,2025-03-15,Bournemouth,Brentford,1,2,A,football_data_official,,matched
+2a850bd49277,2425,2025-03-16,Arsenal,Chelsea,1,0,H,football_data_official,,matched
+1d02538b0653,2425,2025-03-16,Fulham,Tottenham,2,0,H,football_data_official,,matched
+ed2ab3127547,2425,2025-03-16,Leicester,Man United,0,3,A,football_data_official,,matched
+f6a7739b7981,2425,2025-04-01,Arsenal,Fulham,2,1,H,football_data_official,,matched
+9be08ad70d8c,2425,2025-04-01,Wolves,West Ham,1,0,H,football_data_official,,matched
+958db54b9979,2425,2025-04-01,Nott'm Forest,Man United,1,0,H,football_data_official,,matched
+1949897d4957,2425,2025-04-02,Bournemouth,Ipswich,1,2,A,football_data_official,,matched
+51b4a6c382c1,2425,2025-04-02,Brighton,Aston Villa,0,3,A,football_data_official,,matched
+56d831e2c25c,2425,2025-04-02,Man City,Leicester,2,0,H,football_data_official,,matched
+b2a42c71659f,2425,2025-04-02,Newcastle,Brentford,2,1,H,football_data_official,,matched
+62b7f524080c,2425,2025-04-02,Southampton,Crystal Palace,1,1,D,football_data_official,,matched
+811a258ffed8,2425,2025-04-02,Liverpool,Everton,1,0,H,football_data_official,,matched
+330e0fa51a4f,2425,2025-04-03,Chelsea,Tottenham,1,0,H,football_data_official,,matched
+c027fbca252d,2425,2025-04-05,Everton,Arsenal,1,1,D,football_data_official,,matched
+e8a1ccd33b73,2425,2025-04-05,Crystal Palace,Brighton,2,1,H,football_data_official,,matched
+2d8695251420,2425,2025-04-05,Ipswich,Wolves,1,2,A,football_data_official,,matched
+f52f8da9586a,2425,2025-04-05,West Ham,Bournemouth,2,2,D,football_data_official,,matched
+2999c5b65bd7,2425,2025-04-05,Aston Villa,Nott'm Forest,2,1,H,football_data_official,,matched
+e206e76db0b8,2425,2025-04-06,Brentford,Chelsea,0,0,D,football_data_official,,matched
+c9a23afd9280,2425,2025-04-06,Fulham,Liverpool,3,2,H,football_data_official,,matched
+e2193706a3ea,2425,2025-04-06,Tottenham,Southampton,3,1,H,football_data_official,,matched
+e550ebc420bb,2425,2025-04-06,Man United,Man City,0,0,D,football_data_official,,matched
+53eb4b649c6d,2425,2025-04-07,Leicester,Newcastle,0,3,A,football_data_official,,matched
+040658761e5b,2425,2025-04-12,Man City,Crystal Palace,5,2,H,football_data_official,,matched
+bc197c8608cd,2425,2025-04-12,Brighton,Leicester,2,2,D,football_data_official,,matched
+3fb4f02f990e,2425,2025-04-12,Nott'm Forest,Everton,0,1,A,football_data_official,,matched
+4256a7a04c02,2425,2025-04-12,Southampton,Aston Villa,0,3,A,football_data_official,,matched
+5aa978c26216,2425,2025-04-12,Arsenal,Brentford,1,1,D,football_data_official,,matched
+1361a431d77f,2425,2025-04-13,Chelsea,Ipswich,2,2,D,football_data_official,,matched
+6d290469f72a,2425,2025-04-13,Liverpool,West Ham,2,1,H,football_data_official,,matched
+468d3c31b7a7,2425,2025-04-13,Wolves,Tottenham,4,2,H,football_data_official,,matched
+ac818e2349dc,2425,2025-04-13,Newcastle,Man United,4,1,H,football_data_official,,matched
+9085f4f9560f,2425,2025-04-14,Bournemouth,Fulham,1,0,H,football_data_official,,matched
+37a150c39adc,2425,2025-04-16,Newcastle,Crystal Palace,5,0,H,football_data_official,,matched
+0c61184cb37a,2425,2025-04-19,Brentford,Brighton,4,2,H,football_data_official,,matched
+3bcbb5175b55,2425,2025-04-19,Crystal Palace,Bournemouth,0,0,D,football_data_official,,matched
+f86f77b870f8,2425,2025-04-19,Everton,Man City,0,2,A,football_data_official,,matched
+d07c71e1b27c,2425,2025-04-19,West Ham,Southampton,1,1,D,football_data_official,,matched
+868a859e33f3,2425,2025-04-19,Aston Villa,Newcastle,4,1,H,football_data_official,,matched
+5880ee6212f7,2425,2025-04-20,Fulham,Chelsea,1,2,A,football_data_official,,matched
+7b0d2298067b,2425,2025-04-20,Ipswich,Arsenal,0,4,A,football_data_official,,matched
+48599c5fcf7a,2425,2025-04-20,Man United,Wolves,0,1,A,football_data_official,,matched
+363d1fdaa2c9,2425,2025-04-20,Leicester,Liverpool,0,1,A,football_data_official,,matched
+307add6acbec,2425,2025-04-21,Tottenham,Nott'm Forest,1,2,A,football_data_official,,matched
+ce130dd51e54,2425,2025-04-22,Man City,Aston Villa,2,1,H,football_data_official,,matched
+bc44792a7a5a,2425,2025-04-23,Arsenal,Crystal Palace,2,2,D,football_data_official,,matched
+f263568e0810,2425,2025-04-26,Chelsea,Everton,1,0,H,football_data_official,,matched
+ed583dee974f,2425,2025-04-26,Brighton,West Ham,3,2,H,football_data_official,,matched
+eefeda32cad4,2425,2025-04-26,Newcastle,Ipswich,3,0,H,football_data_official,,matched
+1401395ab930,2425,2025-04-26,Southampton,Fulham,1,2,A,football_data_official,,matched
+fbb64c77d285,2425,2025-04-26,Wolves,Leicester,3,0,H,football_data_official,,matched
+031fea28e2cf,2425,2025-04-27,Bournemouth,Man United,1,1,D,football_data_official,,matched
+8514a750e7f6,2425,2025-04-27,Liverpool,Tottenham,5,1,H,football_data_official,,matched
+934cb6424eae,2425,2025-05-01,Nott'm Forest,Brentford,0,2,A,football_data_official,,matched
+8c1e6ace35c2,2425,2025-05-02,Man City,Wolves,1,0,H,football_data_official,,matched
+efdfaf6f6101,2425,2025-05-03,Aston Villa,Fulham,1,0,H,football_data_official,,matched
+c23232cb0774,2425,2025-05-03,Everton,Ipswich,2,2,D,football_data_official,,matched
+e9fc4ef93a96,2425,2025-05-03,Leicester,Southampton,2,0,H,football_data_official,,matched
+6990ea2dd337,2425,2025-05-03,Arsenal,Bournemouth,1,2,A,football_data_official,,matched
+f7d9be82c61f,2425,2025-05-04,Brentford,Man United,4,3,H,football_data_official,,matched
+a95d0c6c5698,2425,2025-05-04,Brighton,Newcastle,1,1,D,football_data_official,,matched
+cbb614cc35b7,2425,2025-05-04,West Ham,Tottenham,1,1,D,football_data_official,,matched
+0d1286198831,2425,2025-05-04,Chelsea,Liverpool,3,1,H,football_data_official,,matched
+2a60d7ceb045,2425,2025-05-05,Crystal Palace,Nott'm Forest,1,1,D,football_data_official,,matched
+a9abdc1ee4a9,2425,2025-05-10,Fulham,Everton,1,3,A,football_data_official,,matched
+61b653dde844,2425,2025-05-10,Ipswich,Brentford,0,1,A,football_data_official,,matched
+e1b1bcc35121,2425,2025-05-10,Southampton,Man City,0,0,D,football_data_official,,matched
+a6c81be432ea,2425,2025-05-10,Wolves,Brighton,0,2,A,football_data_official,,matched
+e1d2c81f2b71,2425,2025-05-10,Bournemouth,Aston Villa,0,1,A,football_data_official,,matched
+ce59c42de723,2425,2025-05-11,Newcastle,Chelsea,2,0,H,football_data_official,,matched
+05c0dc8a3b56,2425,2025-05-11,Man United,West Ham,0,2,A,football_data_official,,matched
+fe00388d7155,2425,2025-05-11,Nott'm Forest,Leicester,2,2,D,football_data_official,,matched
+1f69b9cf71e1,2425,2025-05-11,Tottenham,Crystal Palace,0,2,A,football_data_official,,matched
+b63d66a7f963,2425,2025-05-11,Liverpool,Arsenal,2,2,D,football_data_official,,matched
+317b17e64dad,2425,2025-05-16,Aston Villa,Tottenham,2,0,H,football_data_official,,matched
+a3f026c958aa,2425,2025-05-16,Chelsea,Man United,1,0,H,football_data_official,,matched
+678e10d4443a,2425,2025-05-18,Everton,Southampton,2,0,H,football_data_official,,matched
+407a44996245,2425,2025-05-18,West Ham,Nott'm Forest,1,2,A,football_data_official,,matched
+9debc5443a00,2425,2025-05-18,Brentford,Fulham,2,3,A,football_data_official,,matched
+62c6ffce57be,2425,2025-05-18,Leicester,Ipswich,2,0,H,football_data_official,,matched
+7b06c520b940,2425,2025-05-18,Arsenal,Newcastle,1,0,H,football_data_official,,matched
+36dcd0dd4ac2,2425,2025-05-19,Brighton,Liverpool,3,2,H,football_data_official,,matched
+d356acd14239,2425,2025-05-20,Crystal Palace,Wolves,4,2,H,football_data_official,,matched
+d4c6f58bc755,2425,2025-05-20,Man City,Bournemouth,3,1,H,football_data_official,,matched
+19e9568d38a6,2425,2025-05-25,Bournemouth,Leicester,2,0,H,football_data_official,,matched
+5956ed6d7ca4,2425,2025-05-25,Fulham,Man City,0,2,A,football_data_official,,matched
+727ecbd6e156,2425,2025-05-25,Ipswich,West Ham,1,3,A,football_data_official,,matched
+0d2618f730e2,2425,2025-05-25,Liverpool,Crystal Palace,1,1,D,football_data_official,,matched
+685aca2d3d1c,2425,2025-05-25,Man United,Aston Villa,2,0,H,football_data_official,,matched
+63724af92628,2425,2025-05-25,Newcastle,Everton,0,1,A,football_data_official,,matched
+2b7e5f9d4c7c,2425,2025-05-25,Nott'm Forest,Chelsea,0,1,A,football_data_official,,matched
+c9a02b179b8c,2425,2025-05-25,Southampton,Arsenal,1,2,A,football_data_official,,matched
+d75787643cd5,2425,2025-05-25,Tottenham,Brighton,1,4,A,football_data_official,,matched
+233ab3bf884b,2425,2025-05-25,Wolves,Brentford,1,1,D,football_data_official,,matched
+d47ed933f205,2526,2025-08-15,Liverpool,Bournemouth,4,2,H,football_data_official,,matched
+eb011f2dcb9f,2526,2025-08-16,Aston Villa,Newcastle,0,0,D,football_data_official,,matched
+cb0862a92170,2526,2025-08-16,Brighton,Fulham,1,1,D,football_data_official,,matched
+9d89e4c715e4,2526,2025-08-16,Sunderland,West Ham,3,0,H,football_data_official,,matched
+ff1eb8b2c5fd,2526,2025-08-16,Tottenham,Burnley,3,0,H,football_data_official,,matched
+80ff8abd9683,2526,2025-08-16,Wolves,Man City,0,4,A,football_data_official,,matched
+16e8a914f254,2526,2025-08-17,Chelsea,Crystal Palace,0,0,D,football_data_official,,matched
+eb92f1ed7f17,2526,2025-08-17,Nott'm Forest,Brentford,3,1,H,football_data_official,,matched
+4d5b2745dd7d,2526,2025-08-17,Man United,Arsenal,0,1,A,football_data_official,,matched
+966cfe65b9fc,2526,2025-08-18,Leeds,Everton,1,0,H,football_data_official,,matched
+dfef90f59e7a,2526,2025-08-22,West Ham,Chelsea,1,5,A,football_data_official,,matched
+be536e7e9907,2526,2025-08-23,Man City,Tottenham,0,2,A,football_data_official,,matched
+6d94b629f122,2526,2025-08-23,Bournemouth,Wolves,1,0,H,football_data_official,,matched
+ed0b6aa8729e,2526,2025-08-23,Brentford,Aston Villa,1,0,H,football_data_official,,matched
+45e0513faff7,2526,2025-08-23,Burnley,Sunderland,2,0,H,football_data_official,,matched
+19f1820851ae,2526,2025-08-23,Arsenal,Leeds,5,0,H,football_data_official,,matched
+d7797c1cedbc,2526,2025-08-24,Crystal Palace,Nott'm Forest,1,1,D,football_data_official,,matched
+abd50c29bb06,2526,2025-08-24,Everton,Brighton,2,0,H,football_data_official,,matched
+140b2564e260,2526,2025-08-24,Fulham,Man United,1,1,D,football_data_official,,matched
+4de87ec37e27,2526,2025-08-25,Newcastle,Liverpool,2,3,A,football_data_official,,matched
+62ddce578585,2526,2025-08-30,Chelsea,Fulham,2,0,H,football_data_official,,matched
+94720ad808eb,2526,2025-08-30,Man United,Burnley,3,2,H,football_data_official,,matched
+a395ad2a0f80,2526,2025-08-30,Sunderland,Brentford,2,1,H,football_data_official,,matched
+ade8b106cf64,2526,2025-08-30,Tottenham,Bournemouth,0,1,A,football_data_official,,matched
+4e0bf737166f,2526,2025-08-30,Wolves,Everton,2,3,A,football_data_official,,matched
+1dea7bde0cf5,2526,2025-08-30,Leeds,Newcastle,0,0,D,football_data_official,,matched
+bc9ab15270c3,2526,2025-08-31,Brighton,Man City,2,1,H,football_data_official,,matched
+3c47f9725565,2526,2025-08-31,Nott'm Forest,West Ham,0,3,A,football_data_official,,matched
+577372763879,2526,2025-08-31,Liverpool,Arsenal,1,0,H,football_data_official,,matched
+531648e768cf,2526,2025-08-31,Aston Villa,Crystal Palace,0,3,A,football_data_official,,matched
+e533883a9590,2526,2025-09-13,Arsenal,Nott'm Forest,3,0,H,football_data_official,,matched
+740d34315209,2526,2025-09-13,Bournemouth,Brighton,2,1,H,football_data_official,,matched
+29ac51e0a18e,2526,2025-09-13,Crystal Palace,Sunderland,0,0,D,football_data_official,,matched
+76139496fb21,2526,2025-09-13,Everton,Aston Villa,0,0,D,football_data_official,,matched
+4a528acbfe79,2526,2025-09-13,Fulham,Leeds,1,0,H,football_data_official,,matched
+4ffa88083d4a,2526,2025-09-13,Newcastle,Wolves,1,0,H,football_data_official,,matched
+e33a3785853d,2526,2025-09-13,West Ham,Tottenham,0,3,A,football_data_official,,matched
+de59ce46cf2c,2526,2025-09-13,Brentford,Chelsea,2,2,D,football_data_official,,matched
+fc39db40d99f,2526,2025-09-14,Burnley,Liverpool,0,1,A,football_data_official,,matched
+946f34baa4dd,2526,2025-09-14,Man City,Man United,3,0,H,football_data_official,,matched
+a9658f97c1aa,2526,2025-09-20,Liverpool,Everton,2,1,H,football_data_official,,matched
+4ddc296401a1,2526,2025-09-20,Brighton,Tottenham,2,2,D,football_data_official,,matched
+816c03ee62f6,2526,2025-09-20,Burnley,Nott'm Forest,1,1,D,football_data_official,,matched
+f54e65a82e59,2526,2025-09-20,West Ham,Crystal Palace,1,2,A,football_data_official,,matched
+1fb2b8d9311c,2526,2025-09-20,Wolves,Leeds,1,3,A,football_data_official,,matched
+8dc5ec9b2700,2526,2025-09-20,Man United,Chelsea,2,1,H,football_data_official,,matched
+89ee7ad26827,2526,2025-09-20,Fulham,Brentford,3,1,H,football_data_official,,matched
+f21728e9fc14,2526,2025-09-21,Bournemouth,Newcastle,0,0,D,football_data_official,,matched
+37b3396e9cba,2526,2025-09-21,Sunderland,Aston Villa,1,1,D,football_data_official,,matched
+681a49002201,2526,2025-09-21,Arsenal,Man City,1,1,D,football_data_official,,matched
+5e080bc685d6,2526,2025-09-27,Brentford,Man United,3,1,H,football_data_official,,matched
+85fdb3846652,2526,2025-09-27,Chelsea,Brighton,1,3,A,football_data_official,,matched
+47aafaedd2ed,2526,2025-09-27,Crystal Palace,Liverpool,2,1,H,football_data_official,,matched
+8bc6067daadb,2526,2025-09-27,Leeds,Bournemouth,2,2,D,football_data_official,,matched
+c7f624147e1a,2526,2025-09-27,Man City,Burnley,5,1,H,football_data_official,,matched
+6aae52add568,2526,2025-09-27,Nott'm Forest,Sunderland,0,1,A,football_data_official,,matched
+098f5105aa01,2526,2025-09-27,Tottenham,Wolves,1,1,D,football_data_official,,matched
+3d880e15db7b,2526,2025-09-28,Aston Villa,Fulham,3,1,H,football_data_official,,matched
+98b23ca24a24,2526,2025-09-28,Newcastle,Arsenal,1,2,A,football_data_official,,matched
+db5cc9202629,2526,2025-09-29,Everton,West Ham,1,1,D,football_data_official,,matched
+54d86eaf734e,2526,2025-10-03,Bournemouth,Fulham,3,1,H,football_data_official,,matched
+04897e7e4520,2526,2025-10-04,Leeds,Tottenham,1,2,A,football_data_official,,matched
+81c2c5b8b126,2526,2025-10-04,Arsenal,West Ham,2,0,H,football_data_official,,matched
+ba4af4008905,2526,2025-10-04,Man United,Sunderland,2,0,H,football_data_official,,matched
+23ea9afa5b9d,2526,2025-10-04,Chelsea,Liverpool,2,1,H,football_data_official,,matched
+6f10021407b1,2526,2025-10-05,Aston Villa,Burnley,2,1,H,football_data_official,,matched
+fe97d8b4de47,2526,2025-10-05,Everton,Crystal Palace,2,1,H,football_data_official,,matched
+998c99d15621,2526,2025-10-05,Newcastle,Nott'm Forest,2,0,H,football_data_official,,matched
+0973c10e8b0f,2526,2025-10-05,Wolves,Brighton,1,1,D,football_data_official,,matched
+7e85d311be80,2526,2025-10-05,Brentford,Man City,0,1,A,football_data_official,,matched
+d7abeb7df411,2526,2025-10-18,Nott'm Forest,Chelsea,0,3,A,football_data_official,,matched
+bad54d1b3af2,2526,2025-10-18,Brighton,Newcastle,2,1,H,football_data_official,,matched
+c1c06bec3323,2526,2025-10-18,Burnley,Leeds,2,0,H,football_data_official,,matched
+64ce8a43f15c,2526,2025-10-18,Crystal Palace,Bournemouth,3,3,D,football_data_official,,matched
+c5f8e8999e0a,2526,2025-10-18,Man City,Everton,2,0,H,football_data_official,,matched
+59e2f19318b1,2526,2025-10-18,Sunderland,Wolves,2,0,H,football_data_official,,matched
+2010e8de81e7,2526,2025-10-18,Fulham,Arsenal,0,1,A,football_data_official,,matched
+80be0ddf6669,2526,2025-10-19,Tottenham,Aston Villa,1,2,A,football_data_official,,matched
+8a64ba18ab93,2526,2025-10-19,Liverpool,Man United,1,2,A,football_data_official,,matched
+61cbe7e735e8,2526,2025-10-20,West Ham,Brentford,0,2,A,football_data_official,,matched
+5e74d1d97365,2526,2025-10-24,Leeds,West Ham,2,1,H,football_data_official,,matched
+69b259e5b052,2526,2025-10-25,Chelsea,Sunderland,1,2,A,football_data_official,,matched
+587e2e10f5c9,2526,2025-10-25,Newcastle,Fulham,2,1,H,football_data_official,,matched
+d384f17163c0,2526,2025-10-25,Man United,Brighton,4,2,H,football_data_official,,matched
+27a4e97c9d1b,2526,2025-10-25,Brentford,Liverpool,3,2,H,football_data_official,,matched
+35d1f451df84,2526,2025-10-26,Arsenal,Crystal Palace,1,0,H,football_data_official,,matched
+62510026b749,2526,2025-10-26,Aston Villa,Man City,1,0,H,football_data_official,,matched
+060d4250065b,2526,2025-10-26,Bournemouth,Nott'm Forest,2,0,H,football_data_official,,matched
+4be1d4d3ff7c,2526,2025-10-26,Wolves,Burnley,2,3,A,football_data_official,,matched
+93961346d5c4,2526,2025-10-26,Everton,Tottenham,0,3,A,football_data_official,,matched
+b07fcfca96ad,2526,2025-11-01,Brighton,Leeds,3,0,H,football_data_official,,matched
+7b4d6e140960,2526,2025-11-01,Burnley,Arsenal,0,2,A,football_data_official,,matched
+45570cfc0069,2526,2025-11-01,Crystal Palace,Brentford,2,0,H,football_data_official,,matched
+9342ffdd7d0e,2526,2025-11-01,Fulham,Wolves,3,0,H,football_data_official,,matched
+a8b962d6dc2d,2526,2025-11-01,Nott'm Forest,Man United,2,2,D,football_data_official,,matched
+65929e37b8d1,2526,2025-11-01,Tottenham,Chelsea,0,1,A,football_data_official,,matched
+5056dc67bdaf,2526,2025-11-01,Liverpool,Aston Villa,2,0,H,football_data_official,,matched
+1d60550e4ee2,2526,2025-11-02,West Ham,Newcastle,3,1,H,football_data_official,,matched
+09f592e44075,2526,2025-11-02,Man City,Bournemouth,3,1,H,football_data_official,,matched
+fa9f8299be10,2526,2025-11-03,Sunderland,Everton,1,1,D,football_data_official,,matched
+14e5b9e9b147,2526,2025-11-08,Tottenham,Man United,2,2,D,football_data_official,,matched
+46e3b3507938,2526,2025-11-08,Everton,Fulham,2,0,H,football_data_official,,matched
+6d71dd178b71,2526,2025-11-08,West Ham,Burnley,3,2,H,football_data_official,,matched
+1ba78aa4967c,2526,2025-11-08,Sunderland,Arsenal,2,2,D,football_data_official,,matched
+c0ad953bd86f,2526,2025-11-08,Chelsea,Wolves,3,0,H,football_data_official,,matched
+a4c28f675934,2526,2025-11-09,Aston Villa,Bournemouth,4,0,H,football_data_official,,matched
+006e96fb743e,2526,2025-11-09,Brentford,Newcastle,3,1,H,football_data_official,,matched
+6e37a579e38b,2526,2025-11-09,Crystal Palace,Brighton,0,0,D,football_data_official,,matched
+9165104c87b4,2526,2025-11-09,Nott'm Forest,Leeds,3,1,H,football_data_official,,matched
+07303c28c53d,2526,2025-11-09,Man City,Liverpool,3,0,H,football_data_official,,matched
+b779eff56c8d,2526,2025-11-22,Burnley,Chelsea,0,2,A,football_data_official,,matched
+6ec87bdeb76e,2526,2025-11-22,Bournemouth,West Ham,2,2,D,football_data_official,,matched
+b08c89107df4,2526,2025-11-22,Brighton,Brentford,2,1,H,football_data_official,,matched
+a096bd9e40fa,2526,2025-11-22,Fulham,Sunderland,1,0,H,football_data_official,,matched
+e77abb503590,2526,2025-11-22,Liverpool,Nott'm Forest,0,3,A,football_data_official,,matched
+4d3c46dea718,2526,2025-11-22,Wolves,Crystal Palace,0,2,A,football_data_official,,matched
+f361964e2b38,2526,2025-11-22,Newcastle,Man City,2,1,H,football_data_official,,matched
+44f62a5b42d1,2526,2025-11-23,Leeds,Aston Villa,1,2,A,football_data_official,,matched
+29ff3d717e34,2526,2025-11-23,Arsenal,Tottenham,4,1,H,football_data_official,,matched
+3a1d9e70841a,2526,2025-11-24,Man United,Everton,0,1,A,football_data_official,,matched
+06fd87f7d303,2526,2025-11-29,Brentford,Burnley,3,1,H,football_data_official,,matched
+db7a29b43531,2526,2025-11-29,Man City,Leeds,3,2,H,football_data_official,,matched
+f51af876f26c,2526,2025-11-29,Sunderland,Bournemouth,3,2,H,football_data_official,,matched
+21a423d37400,2526,2025-11-29,Everton,Newcastle,1,4,A,football_data_official,,matched
+07186f665856,2526,2025-11-29,Tottenham,Fulham,1,2,A,football_data_official,,matched
+18bd742e483c,2526,2025-11-30,Crystal Palace,Man United,1,2,A,football_data_official,,matched
+2359453cc070,2526,2025-11-30,Aston Villa,Wolves,1,0,H,football_data_official,,matched
+f5690cac5b0e,2526,2025-11-30,Nott'm Forest,Brighton,0,2,A,football_data_official,,matched
+cd74736d7731,2526,2025-11-30,West Ham,Liverpool,0,2,A,football_data_official,,matched
+56aa636ec04b,2526,2025-11-30,Chelsea,Arsenal,1,1,D,football_data_official,,matched
+58516916a2a4,2526,2025-12-02,Bournemouth,Everton,0,1,A,football_data_official,,matched
+bc9baaafd2ab,2526,2025-12-02,Fulham,Man City,4,5,A,football_data_official,,matched
+1c1b11459310,2526,2025-12-02,Newcastle,Tottenham,2,2,D,football_data_official,,matched
+ea7b8bbe24c2,2526,2025-12-03,Arsenal,Brentford,2,0,H,football_data_official,,matched
+304dba4ed2c4,2526,2025-12-03,Brighton,Aston Villa,3,4,A,football_data_official,,matched
+a88e4b909d02,2526,2025-12-03,Burnley,Crystal Palace,0,1,A,football_data_official,,matched
+09c4ea468eb1,2526,2025-12-03,Wolves,Nott'm Forest,0,1,A,football_data_official,,matched
+e2904ab03a8e,2526,2025-12-03,Leeds,Chelsea,3,1,H,football_data_official,,matched
+25049411f2ce,2526,2025-12-03,Liverpool,Sunderland,1,1,D,football_data_official,,matched
+b8a76bd61325,2526,2025-12-04,Man United,West Ham,1,1,D,football_data_official,,matched
+46d49f6ca415,2526,2025-12-06,Aston Villa,Arsenal,2,1,H,football_data_official,,matched
+fe513b083e1b,2526,2025-12-06,Bournemouth,Chelsea,0,0,D,football_data_official,,matched
+e3e674ae041f,2526,2025-12-06,Everton,Nott'm Forest,3,0,H,football_data_official,,matched
+f85c49fd1297,2526,2025-12-06,Man City,Sunderland,3,0,H,football_data_official,,matched
+c3af340e2988,2526,2025-12-06,Newcastle,Burnley,2,1,H,football_data_official,,matched
+c34150626bf5,2526,2025-12-06,Tottenham,Brentford,2,0,H,football_data_official,,matched
+4b34cb01325c,2526,2025-12-06,Leeds,Liverpool,3,3,D,football_data_official,,matched
+c06aca4014f3,2526,2025-12-07,Brighton,West Ham,1,1,D,football_data_official,,matched
+40345b8afa5e,2526,2025-12-07,Fulham,Crystal Palace,1,2,A,football_data_official,,matched
+1bd9e05e3b17,2526,2025-12-08,Wolves,Man United,1,4,A,football_data_official,,matched
+1e114c681f07,2526,2025-12-13,Chelsea,Everton,2,0,H,football_data_official,,matched
+7afe34cdebc5,2526,2025-12-13,Liverpool,Brighton,2,0,H,football_data_official,,matched
+72b79b0d6e19,2526,2025-12-13,Burnley,Fulham,2,3,A,football_data_official,,matched
+3097244caccb,2526,2025-12-13,Arsenal,Wolves,2,1,H,football_data_official,,matched
+02daa51d0a24,2526,2025-12-14,Crystal Palace,Man City,0,3,A,football_data_official,,matched
+22bbe02b7c6b,2526,2025-12-14,Nott'm Forest,Tottenham,3,0,H,football_data_official,,matched
+cd049348ff85,2526,2025-12-14,Sunderland,Newcastle,1,0,H,football_data_official,,matched
+8c1bcba6f7a5,2526,2025-12-14,West Ham,Aston Villa,2,3,A,football_data_official,,matched
+c99a15982080,2526,2025-12-14,Brentford,Leeds,1,1,D,football_data_official,,matched
+605415d688f2,2526,2025-12-15,Man United,Bournemouth,4,4,D,football_data_official,,matched
+597196c655a1,2526,2025-12-20,Newcastle,Chelsea,2,2,D,football_data_official,,matched
+1d1afd3e642f,2526,2025-12-20,Bournemouth,Burnley,1,1,D,football_data_official,,matched
+a1aca8a1b161,2526,2025-12-20,Brighton,Sunderland,0,0,D,football_data_official,,matched
+e67ec62ab9d6,2526,2025-12-20,Man City,West Ham,3,0,H,football_data_official,,matched
+3b06811aa33f,2526,2025-12-20,Wolves,Brentford,0,2,A,football_data_official,,matched
+2b20e1c6d617,2526,2025-12-20,Tottenham,Liverpool,1,2,A,football_data_official,,matched
+4b6cf8593a34,2526,2025-12-20,Everton,Arsenal,0,1,A,football_data_official,,matched
+fd1dd3a4adf8,2526,2025-12-20,Leeds,Crystal Palace,4,1,H,football_data_official,,matched
+5c73a26482e1,2526,2025-12-21,Aston Villa,Man United,2,1,H,football_data_official,,matched
+67e56fa85ab7,2526,2025-12-22,Fulham,Nott'm Forest,1,0,H,football_data_official,,matched
+6f2004ea6173,2526,2025-12-26,Man United,Newcastle,1,0,H,football_data_official,,matched
+18ead6af984c,2526,2025-12-27,Nott'm Forest,Man City,1,2,A,football_data_official,,matched
+35b1b355421e,2526,2025-12-27,Arsenal,Brighton,2,1,H,football_data_official,,matched
+a2a5c625de3c,2526,2025-12-27,Brentford,Bournemouth,4,1,H,football_data_official,,matched
+fdb142c0bc84,2526,2025-12-27,Burnley,Everton,0,0,D,football_data_official,,matched
+6656480fc576,2526,2025-12-27,Liverpool,Wolves,2,1,H,football_data_official,,matched
+fb16c6dbc595,2526,2025-12-27,West Ham,Fulham,0,1,A,football_data_official,,matched
+39a185c4501f,2526,2025-12-27,Chelsea,Aston Villa,1,2,A,football_data_official,,matched
+3f1b5a383f80,2526,2025-12-28,Sunderland,Leeds,1,1,D,football_data_official,,matched
+dd713fc9f3ac,2526,2025-12-28,Crystal Palace,Tottenham,0,1,A,football_data_official,,matched
+370eeb9b3213,2526,2025-12-30,Burnley,Newcastle,1,3,A,football_data_official,,matched
+c65ba88373f7,2526,2025-12-30,Chelsea,Bournemouth,2,2,D,football_data_official,,matched
+e85922d25436,2526,2025-12-30,Nott'm Forest,Everton,0,2,A,football_data_official,,matched
+2597f9db92df,2526,2025-12-30,West Ham,Brighton,2,2,D,football_data_official,,matched
+832cc3e6ce31,2526,2025-12-30,Arsenal,Aston Villa,4,1,H,football_data_official,,matched
+d1f053db97cf,2526,2025-12-30,Man United,Wolves,1,1,D,football_data_official,,matched
+fd5f22c095cb,2526,2026-01-01,Crystal Palace,Fulham,1,1,D,football_data_official,,matched
+84e416dd7428,2526,2026-01-01,Liverpool,Leeds,0,0,D,football_data_official,,matched
+a7db551c5481,2526,2026-01-01,Brentford,Tottenham,0,0,D,football_data_official,,matched
+2ae1c80c70fc,2526,2026-01-01,Sunderland,Man City,0,0,D,football_data_official,,matched
+f327e13b1a5a,2526,2026-01-03,Aston Villa,Nott'm Forest,3,1,H,football_data_official,,matched
+863793234c8b,2526,2026-01-03,Brighton,Burnley,2,0,H,football_data_official,,matched
+12849efd07a0,2526,2026-01-03,Wolves,West Ham,3,0,H,football_data_official,,matched
+64e42682c282,2526,2026-01-03,Bournemouth,Arsenal,2,3,A,football_data_official,,matched
+edea639b7e65,2526,2026-01-04,Leeds,Man United,1,1,D,football_data_official,,matched
+c58f325931a1,2526,2026-01-04,Everton,Brentford,2,4,A,football_data_official,,matched
+24bc921eff03,2526,2026-01-04,Newcastle,Crystal Palace,2,0,H,football_data_official,,matched
+cb575dcc3236,2526,2026-01-04,Tottenham,Sunderland,1,1,D,football_data_official,,matched
+0efc7acefa1a,2526,2026-01-04,Fulham,Liverpool,2,2,D,football_data_official,,matched
+5a61544c259d,2526,2026-01-04,Man City,Chelsea,1,1,D,football_data_official,,matched
+aa6fb50a00e7,2526,2026-01-06,West Ham,Nott'm Forest,1,2,A,football_data_official,,matched
+a2e7bac1b2bf,2526,2026-01-07,Bournemouth,Tottenham,3,2,H,football_data_official,,matched
+b5ed5ac093a0,2526,2026-01-07,Brentford,Sunderland,3,0,H,football_data_official,,matched
+d88d18b1ce13,2526,2026-01-07,Crystal Palace,Aston Villa,0,0,D,football_data_official,,matched
+a4d924576834,2526,2026-01-07,Everton,Wolves,1,1,D,football_data_official,,matched
+91f09df5c105,2526,2026-01-07,Fulham,Chelsea,2,1,H,football_data_official,,matched
+0b8ea3fc3e48,2526,2026-01-07,Man City,Brighton,1,1,D,football_data_official,,matched
+fa85173e58f3,2526,2026-01-07,Burnley,Man United,2,2,D,football_data_official,,matched
+bd03beaf88e7,2526,2026-01-07,Newcastle,Leeds,4,3,H,football_data_official,,matched
+86b93c316925,2526,2026-01-08,Arsenal,Liverpool,0,0,D,football_data_official,,matched
+16de66888dbe,2526,2026-01-17,Man United,Man City,2,0,H,football_data_official,,matched
+0252a6535e82,2526,2026-01-17,Chelsea,Brentford,2,0,H,football_data_official,,matched
+e729611000a8,2526,2026-01-17,Leeds,Fulham,1,0,H,football_data_official,,matched
+40d51d518bf5,2526,2026-01-17,Liverpool,Burnley,1,1,D,football_data_official,,matched
+48f8d4159b33,2526,2026-01-17,Sunderland,Crystal Palace,2,1,H,football_data_official,,matched
+ae205a5b97e0,2526,2026-01-17,Tottenham,West Ham,1,2,A,football_data_official,,matched
+f917bee31922,2526,2026-01-17,Nott'm Forest,Arsenal,0,0,D,football_data_official,,matched
+6a08b6190f0a,2526,2026-01-18,Wolves,Newcastle,0,0,D,football_data_official,,matched
+36a458cce1c9,2526,2026-01-18,Aston Villa,Everton,0,1,A,football_data_official,,matched
+bd875b69433a,2526,2026-01-19,Brighton,Bournemouth,1,1,D,football_data_official,,matched
+73dff7f04fa4,2526,2026-01-24,West Ham,Sunderland,3,1,H,football_data_official,,matched
+f304c40a5184,2526,2026-01-24,Burnley,Tottenham,2,2,D,football_data_official,,matched
+2b1edb1e4ca6,2526,2026-01-24,Fulham,Brighton,2,1,H,football_data_official,,matched
+bacde5b242e4,2526,2026-01-24,Man City,Wolves,2,0,H,football_data_official,,matched
+4b26fd6d5ba4,2526,2026-01-24,Bournemouth,Liverpool,3,2,H,football_data_official,,matched
+03fd0f8674dc,2526,2026-01-25,Brentford,Nott'm Forest,0,2,A,football_data_official,,matched
+afa3f6ef3822,2526,2026-01-25,Crystal Palace,Chelsea,1,3,A,football_data_official,,matched
+00c53984eca2,2526,2026-01-25,Newcastle,Aston Villa,0,2,A,football_data_official,,matched
+40af5597d311,2526,2026-01-25,Arsenal,Man United,2,3,A,football_data_official,,matched
+d7be8e67e576,2526,2026-01-26,Everton,Leeds,1,1,D,football_data_official,,matched
+329df687df7f,2526,2026-01-31,Brighton,Everton,1,1,D,football_data_official,,matched
+211ffb95969e,2526,2026-01-31,Leeds,Arsenal,0,4,A,football_data_official,,matched
+038fe6ef8452,2526,2026-01-31,Wolves,Bournemouth,0,2,A,football_data_official,,matched
+04a5cb5dff5b,2526,2026-01-31,Chelsea,West Ham,3,2,H,football_data_official,,matched
+b5fd41d7f047,2526,2026-01-31,Liverpool,Newcastle,4,1,H,football_data_official,,matched
+6f2c40b13e45,2526,2026-02-01,Aston Villa,Brentford,0,1,A,football_data_official,,matched
+ec22f6fff7d3,2526,2026-02-01,Man United,Fulham,3,2,H,football_data_official,,matched
+8a0e5ac172ed,2526,2026-02-01,Nott'm Forest,Crystal Palace,1,1,D,football_data_official,,matched
+9cd26517b9b3,2526,2026-02-01,Tottenham,Man City,2,2,D,football_data_official,,matched
+657b64d8bd02,2526,2026-02-02,Sunderland,Burnley,3,0,H,football_data_official,,matched
+8fcce9fa478f,2526,2026-02-06,Leeds,Nott'm Forest,3,1,H,football_data_official,,matched
+65de89c9268d,2526,2026-02-07,Man United,Tottenham,2,0,H,football_data_official,,matched
+5e8de03d72f9,2526,2026-02-07,Arsenal,Sunderland,3,0,H,football_data_official,,matched
+f79e7ad75cb2,2526,2026-02-07,Bournemouth,Aston Villa,1,1,D,football_data_official,,matched
+5ae41323db8d,2526,2026-02-07,Burnley,West Ham,0,2,A,football_data_official,,matched
+b63e26eda33d,2526,2026-02-07,Fulham,Everton,1,2,A,football_data_official,,matched
+28e2069705b1,2526,2026-02-07,Wolves,Chelsea,1,3,A,football_data_official,,matched
+4d7dd08374c5,2526,2026-02-07,Newcastle,Brentford,2,3,A,football_data_official,,matched
+9c7bfca02c18,2526,2026-02-08,Brighton,Crystal Palace,0,1,A,football_data_official,,matched
+37af52b6c7c8,2526,2026-02-08,Liverpool,Man City,1,2,A,football_data_official,,matched
+b9a0bb410e8f,2526,2026-02-10,Chelsea,Leeds,2,2,D,football_data_official,,matched
+1d11f1f569cc,2526,2026-02-10,Everton,Bournemouth,1,2,A,football_data_official,,matched
+45bd99e3f46e,2526,2026-02-10,Tottenham,Newcastle,1,2,A,football_data_official,,matched
+61908e8e4412,2526,2026-02-10,West Ham,Man United,1,1,D,football_data_official,,matched
+e3d0f4825af6,2526,2026-02-11,Aston Villa,Brighton,1,0,H,football_data_official,,matched
+313cabfcbbe2,2526,2026-02-11,Crystal Palace,Burnley,2,3,A,football_data_official,,matched
+8b5ba9efac24,2526,2026-02-11,Man City,Fulham,3,0,H,football_data_official,,matched
+931f3d1308a9,2526,2026-02-11,Nott'm Forest,Wolves,0,0,D,football_data_official,,matched
+c24647a98c9b,2526,2026-02-11,Sunderland,Liverpool,0,1,A,football_data_official,,matched
+22ca733933c9,2526,2026-02-12,Brentford,Arsenal,1,1,D,football_data_official,,matched
+20caf54905fe,2526,2026-02-18,Wolves,Arsenal,2,2,D,football_data_official,,matched
+7422bb5476f3,2526,2026-02-21,Aston Villa,Leeds,1,1,D,football_data_official,,matched
+1420df9f3744,2526,2026-02-21,Brentford,Brighton,0,2,A,football_data_official,,matched
+df00b8443def,2526,2026-02-21,Chelsea,Burnley,1,1,D,football_data_official,,matched
+62f9a05a4dc8,2526,2026-02-21,West Ham,Bournemouth,0,0,D,football_data_official,,matched
+d774011b44d8,2526,2026-02-21,Man City,Newcastle,2,1,H,football_data_official,,matched
+331773e2f86f,2526,2026-02-22,Crystal Palace,Wolves,1,0,H,football_data_official,,matched
+393a0ae4d699,2526,2026-02-22,Nott'm Forest,Liverpool,0,1,A,football_data_official,,matched
+2c6646c2a028,2526,2026-02-22,Sunderland,Fulham,1,3,A,football_data_official,,matched
+8485038a1bcf,2526,2026-02-22,Tottenham,Arsenal,1,4,A,football_data_official,,matched
+b30723e16216,2526,2026-02-23,Everton,Man United,0,1,A,football_data_official,,matched
+9bf34ef88f73,2526,2026-02-27,Wolves,Aston Villa,2,0,H,football_data_official,,matched
+435dc6c5d6a9,2526,2026-02-28,Bournemouth,Sunderland,1,1,D,football_data_official,,matched
+bb1a5736d9fc,2526,2026-02-28,Burnley,Brentford,3,4,A,football_data_official,,matched
+8c1d6b3af8ed,2526,2026-02-28,Liverpool,West Ham,5,2,H,football_data_official,,matched
+d79e25edeafa,2526,2026-02-28,Newcastle,Everton,2,3,A,football_data_official,,matched
+eebd56c88e4b,2526,2026-02-28,Leeds,Man City,0,1,A,football_data_official,,matched
+cbf67b7e21ea,2526,2026-03-01,Brighton,Nott'm Forest,2,1,H,football_data_official,,matched
+5dcd409ef209,2526,2026-03-01,Fulham,Tottenham,2,1,H,football_data_official,,matched
+4523312b26e7,2526,2026-03-01,Man United,Crystal Palace,2,1,H,football_data_official,,matched
+d9447677d957,2526,2026-03-01,Arsenal,Chelsea,2,1,H,football_data_official,,matched
+e8761ce08a93,2526,2026-03-03,Bournemouth,Brentford,0,0,D,football_data_official,,matched
+2817c6dd9f48,2526,2026-03-03,Everton,Burnley,2,0,H,football_data_official,,matched
+07aeaf7442a7,2526,2026-03-03,Leeds,Sunderland,0,1,A,football_data_official,,matched
+0d137ead9bfc,2526,2026-03-03,Wolves,Liverpool,2,1,H,football_data_official,,matched
+b86a95c2c99f,2526,2026-03-04,Aston Villa,Chelsea,1,4,A,football_data_official,,matched
+f402db5504ba,2526,2026-03-04,Brighton,Arsenal,0,1,A,football_data_official,,matched
+1ca30181a8a3,2526,2026-03-04,Fulham,West Ham,0,1,A,football_data_official,,matched
+32d2d18b3ea2,2526,2026-03-04,Man City,Nott'm Forest,2,2,D,football_data_official,,matched
+db733f69cc35,2526,2026-03-04,Newcastle,Man United,2,1,H,football_data_official,,matched
+23602eafa24c,2526,2026-03-05,Tottenham,Crystal Palace,1,3,A,football_data_official,,matched
+8610e0b2bd90,2526,2026-03-14,Burnley,Bournemouth,0,0,D,football_data_official,,matched
+a657556544ba,2526,2026-03-14,Sunderland,Brighton,0,1,A,football_data_official,,matched
+e3279608b23a,2526,2026-03-14,Arsenal,Everton,2,0,H,football_data_official,,matched
+9958c03b27b8,2526,2026-03-14,Chelsea,Newcastle,0,1,A,football_data_official,,matched
+6392a683ac6f,2526,2026-03-14,West Ham,Man City,1,1,D,football_data_official,,matched
+24dd359f75ac,2526,2026-03-15,Crystal Palace,Leeds,0,0,D,football_data_official,,matched
+25fbdcfade88,2526,2026-03-15,Man United,Aston Villa,3,1,H,football_data_official,,matched
+adddfbe28f1a,2526,2026-03-15,Nott'm Forest,Fulham,0,0,D,football_data_official,,matched
+5ec36249fa1e,2526,2026-03-15,Liverpool,Tottenham,1,1,D,football_data_official,,matched
+4814604f6df1,2526,2026-03-16,Brentford,Wolves,2,2,D,football_data_official,,matched
+40927f20c021,2526,2026-03-20,Bournemouth,Man United,2,2,D,football_data_official,,matched
+79898e9da81e,2526,2026-03-21,Brighton,Liverpool,2,1,H,football_data_official,,matched
+00a2ad100161,2526,2026-03-21,Fulham,Burnley,3,1,H,football_data_official,,matched
+d92dda682141,2526,2026-03-21,Everton,Chelsea,3,0,H,football_data_official,,matched
+b9dbe72bad32,2526,2026-03-21,Leeds,Brentford,0,0,D,football_data_official,,matched
+10198dba483b,2526,2026-03-22,Newcastle,Sunderland,1,2,A,football_data_official,,matched
+b753f192fe3d,2526,2026-03-22,Aston Villa,West Ham,2,0,H,football_data_official,,matched
+2d2a0cb968cb,2526,2026-03-22,Tottenham,Nott'm Forest,0,3,A,football_data_official,,matched
+5ed3e8b7908d,2526,2026-04-10,West Ham,Wolves,4,0,H,football_data_official,,matched
+ed3b8254b482,2526,2026-04-11,Arsenal,Bournemouth,1,2,A,football_data_official,,matched
+d9f560ebdde1,2526,2026-04-11,Brentford,Everton,2,2,D,football_data_official,,matched
+a8c28474b8dd,2526,2026-04-11,Burnley,Brighton,0,2,A,football_data_official,,matched
+fd40ca10c038,2526,2026-04-11,Liverpool,Fulham,2,0,H,football_data_official,,matched
+4e7158645e0f,2526,2026-04-12,Crystal Palace,Newcastle,2,1,H,football_data_official,,matched
+e7fc0fb9ea0b,2526,2026-04-12,Nott'm Forest,Aston Villa,1,1,D,football_data_official,,matched
+2b98ded0974e,2526,2026-04-12,Sunderland,Tottenham,1,0,H,football_data_official,,matched
+29d26762e7a4,2526,2026-04-12,Chelsea,Man City,0,3,A,football_data_official,,matched
+acea3deadbdc,2526,2026-04-13,Man United,Leeds,1,2,A,football_data_official,,matched
+60834a682baf,2526,2026-04-18,Brentford,Fulham,0,0,D,football_data_official,,matched
+6cf0987676ad,2526,2026-04-18,Leeds,Wolves,3,0,H,football_data_official,,matched
+262a7babe927,2526,2026-04-18,Newcastle,Bournemouth,1,2,A,football_data_official,,matched
+ead3309b6e74,2526,2026-04-18,Tottenham,Brighton,2,2,D,football_data_official,,matched
+c7bace27ae92,2526,2026-04-18,Chelsea,Man United,0,1,A,football_data_official,,matched
+c9412b428515,2526,2026-04-19,Aston Villa,Sunderland,4,3,H,football_data_official,,matched
+b6c390f51a8c,2526,2026-04-19,Everton,Liverpool,1,2,A,football_data_official,,matched
+f2b38482e4f8,2526,2026-04-19,Nott'm Forest,Burnley,4,1,H,football_data_official,,matched
+930df86abdb8,2526,2026-04-19,Man City,Arsenal,2,1,H,football_data_official,,matched
+2eddb817d473,2526,2026-04-20,Crystal Palace,West Ham,0,0,D,football_data_official,,matched
+d2f35633df6c,2526,2026-04-21,Brighton,Chelsea,3,0,H,football_data_official,,matched
+3739d0a3acf8,2526,2026-04-22,Bournemouth,Leeds,2,2,D,football_data_official,,matched
+679c87c78821,2526,2026-04-22,Burnley,Man City,0,1,A,football_data_official,,matched
+c51d6fdac80e,2526,2026-04-24,Sunderland,Nott'm Forest,0,5,A,football_data_official,,matched
+c90f566f9a5e,2526,2026-04-25,Fulham,Aston Villa,1,0,H,football_data_official,,matched
+9ed3565b8ace,2526,2026-04-25,Liverpool,Crystal Palace,3,1,H,football_data_official,,matched
+a64c74a8a558,2526,2026-04-25,West Ham,Everton,2,1,H,football_data_official,,matched
+614797603f0c,2526,2026-04-25,Wolves,Tottenham,0,1,A,football_data_official,,matched
+f959ede3ed73,2526,2026-04-25,Arsenal,Newcastle,1,0,H,football_data_official,,matched
+67fb86876004,2526,2026-04-27,Man United,Brentford,2,1,H,football_data_official,,matched
+dc16190b9a4f,2526,2026-05-01,Leeds,Burnley,3,1,H,football_data_official,,matched
+78daf27f2af6,2526,2026-05-02,Brentford,West Ham,3,0,H,football_data_official,,matched
+5944a8edffbe,2526,2026-05-02,Newcastle,Brighton,3,1,H,football_data_official,,matched
+0ccef167a394,2526,2026-05-02,Wolves,Sunderland,1,1,D,football_data_official,,matched
+c1581755e32a,2526,2026-05-02,Arsenal,Fulham,3,0,H,football_data_official,,matched
+b9bdd127cfc4,2526,2026-05-03,Bournemouth,Crystal Palace,3,0,H,football_data_official,,matched
+1524431873c4,2526,2026-05-03,Man United,Liverpool,3,2,H,football_data_official,,matched
+adc818f3b707,2526,2026-05-03,Aston Villa,Tottenham,1,2,A,football_data_official,,matched
+6b58bf8afe17,2526,2026-05-04,Chelsea,Nott'm Forest,1,3,A,football_data_official,,matched
+bcc1699ce2d1,2526,2026-05-04,Everton,Man City,3,3,D,football_data_official,,matched
+e0e08d161553,2526,2026-05-09,Liverpool,Chelsea,1,1,D,football_data_official,,matched
+c33b618151c3,2526,2026-05-09,Brighton,Wolves,3,0,H,football_data_official,,matched
+97f863349bd5,2526,2026-05-09,Fulham,Bournemouth,0,1,A,football_data_official,,matched
+517ea9ba316e,2526,2026-05-09,Sunderland,Man United,0,0,D,football_data_official,,matched
+974666c364b4,2526,2026-05-09,Man City,Brentford,3,0,H,football_data_official,,matched
+7e8794e4779f,2526,2026-05-10,Burnley,Aston Villa,2,2,D,football_data_official,,matched
+2ae89c4dcd54,2526,2026-05-10,Crystal Palace,Everton,2,2,D,football_data_official,,matched
+6b7402c6bfe0,2526,2026-05-10,Nott'm Forest,Newcastle,1,1,D,football_data_official,,matched
+a7a2f11a980a,2526,2026-05-10,West Ham,Arsenal,0,1,A,football_data_official,,matched
+fc4ca2a98e58,2526,2026-05-11,Tottenham,Leeds,1,1,D,football_data_official,,matched
+496177162a9a,2526,2026-05-13,Man City,Crystal Palace,3,0,H,football_data_official,,matched
+06ed53debd4e,2526,2026-05-15,Aston Villa,Liverpool,4,2,H,football_data_official,,matched
+4e843e133e3c,2526,2026-05-17,Man United,Nott'm Forest,3,2,H,football_data_official,,matched
+eade5a93e1c3,2526,2026-05-17,Brentford,Crystal Palace,2,2,D,football_data_official,,matched
+e1820f1c30bc,2526,2026-05-17,Everton,Sunderland,1,3,A,football_data_official,,matched
+9c8e3b0fc508,2526,2026-05-17,Leeds,Brighton,1,0,H,football_data_official,,matched
+efa550f9a7bd,2526,2026-05-17,Wolves,Fulham,1,1,D,football_data_official,,matched
+7926bbdc8874,2526,2026-05-17,Newcastle,West Ham,3,1,H,football_data_official,,matched
+1b8b865d66f7,2526,2026-05-18,Arsenal,Burnley,1,0,H,football_data_official,,matched
+b8964af8af8f,2526,2026-05-19,Bournemouth,Man City,1,1,D,football_data_official,,matched
+907dfc1a6f8b,2526,2026-05-19,Chelsea,Tottenham,2,1,H,football_data_official,,matched
+3018bda3a480,2526,2026-05-24,Brighton,Man United,0,3,A,football_data_official,,matched
+e9a53146ed85,2526,2026-05-24,Burnley,Wolves,1,1,D,football_data_official,,matched
+4121069b0943,2526,2026-05-24,Crystal Palace,Arsenal,1,2,A,football_data_official,,matched
+6f0631cee7e5,2526,2026-05-24,Fulham,Newcastle,2,0,H,football_data_official,,matched
+c4714b918c3b,2526,2026-05-24,Liverpool,Brentford,1,1,D,football_data_official,,matched
+7318064403cb,2526,2026-05-24,Man City,Aston Villa,1,2,A,football_data_official,,matched
+ae204e442075,2526,2026-05-24,Nott'm Forest,Bournemouth,1,1,D,football_data_official,,matched
+09d300e38fbc,2526,2026-05-24,Sunderland,Chelsea,2,1,H,football_data_official,,matched
+93682252b1ef,2526,2026-05-24,Tottenham,Everton,1,0,H,football_data_official,,matched
+3c731899d134,2526,2026-05-24,West Ham,Leeds,3,0,H,football_data_official,,matched
+029edf758c20,2627,2026-08-21,Arsenal,Coventry,3,0,H,football_data_official,,fotmob_only
+698842ef3e92,2627,2026-08-22,Hull,Man United,2,0,H,football_data_official,,fotmob_only
+5f0fb2493e74,2627,2026-08-22,Everton,Crystal Palace,2,0,H,football_data_official,,fotmob_only
+d2d42d58f9ba,2627,2026-08-22,Ipswich,Sunderland,2,1,H,football_data_official,,fotmob_only
+c441006f6795,2627,2026-08-22,Nott'm Forest,Leeds,0,1,A,football_data_official,,fotmob_only
+a7f6947b2937,2627,2026-08-22,Brentford,Tottenham,3,0,H,football_data_official,,fotmob_only
+09a2b01b3cb3,2627,2026-08-23,Brighton,Aston Villa,4,0,H,football_data_official,,fotmob_only
+5f6d3292c5d1,2627,2026-08-23,Man City,Bournemouth,2,1,H,football_data_official,,fotmob_only
+28697352a84d,2627,2026-08-23,Newcastle,Liverpool,2,2,D,football_data_official,,fotmob_only
+66b8c133760b,2627,2026-08-24,Fulham,Chelsea,2,3,A,football_data_official,,fotmob_only
+8dfda2d4c3de,2627,2026-08-28,Crystal Palace,Man City,1,4,A,football_data_official,,fotmob_only
+c1a143d42402,2627,2026-08-29,Liverpool,Nott'm Forest,2,2,D,football_data_official,,fotmob_only
+bc10f1ac5494,2627,2026-08-29,Bournemouth,Everton,1,1,D,football_data_official,,fotmob_only
+2b772967846b,2627,2026-08-29,Coventry,Hull,0,1,A,football_data_official,,fotmob_only
+32eb9809dde4,2627,2026-08-29,Tottenham,Newcastle,0,2,A,football_data_official,,fotmob_only
+cf94701033d5,2627,2026-08-30,Chelsea,Brighton,4,3,H,football_data_official,,fotmob_only
+dc15d4f70298,2627,2026-08-30,Leeds,Brentford,1,1,D,football_data_official,,fotmob_only
+7df478c47cf4,2627,2026-08-30,Sunderland,Fulham,1,0,H,football_data_official,,fotmob_only
+29013df3524d,2627,2026-08-30,Man United,Ipswich,5,2,H,football_data_official,,fotmob_only
+2e30dfde1e6d,2627,2026-08-31,Aston Villa,Arsenal,0,1,A,football_data_official,,fotmob_only
+b9db14283a75,2627,2026-09-04,Ipswich,Liverpool,0,2,A,football_data_official,,fotmob_only
+bd25cbdc0f79,2627,2026-09-05,Newcastle,Bournemouth,2,2,D,football_data_official,,fotmob_only
+ee2c36f4cef8,2627,2026-09-05,Brentford,Sunderland,1,1,D,football_data_official,,fotmob_only
+b6d269b16bb3,2627,2026-09-05,Brighton,Leeds,1,1,D,football_data_official,,fotmob_only
+5670abc639dd,2627,2026-09-05,Fulham,Crystal Palace,2,3,A,football_data_official,,fotmob_only
+c8b12e7a5e18,2627,2026-09-05,Man City,Coventry,1,0,H,football_data_official,,fotmob_only
+4a2ca051302f,2627,2026-09-05,Nott'm Forest,Tottenham,0,0,D,football_data_official,,fotmob_only
+99e7a1214146,2627,2026-09-05,Hull,Aston Villa,0,0,D,football_data_official,,fotmob_only
+c642e1a14fa1,2627,2026-09-06,Everton,Man United,2,2,D,football_data_official,,fotmob_only
+b6bd44eefb07,2627,2026-09-06,Arsenal,Chelsea,2,1,H,football_data_official,,fotmob_only
+462718063017,2627,2026-09-12,Aston Villa,Nott'm Forest,1,2,A,football_data_official,,fotmob_only
+a97683201663,2627,2026-09-12,Bournemouth,Brentford,2,2,D,football_data_official,,fotmob_only
+f2e906921dbe,2627,2026-09-12,Chelsea,Hull,2,2,D,football_data_official,,fotmob_only
+8251af4ba8f9,2627,2026-09-12,Crystal Palace,Ipswich,2,3,A,football_data_official,,fotmob_only
+be77d57f1a38,2627,2026-09-12,Liverpool,Fulham,0,0,D,football_data_official,,fotmob_only
+c8db105ffe89,2627,2026-09-12,Tottenham,Everton,0,0,D,football_data_official,,fotmob_only
+02351c8be269,2627,2026-09-12,Sunderland,Arsenal,0,2,A,football_data_official,,fotmob_only
+a1c3251546f1,2627,2026-09-13,Coventry,Brighton,0,5,A,football_data_official,,fotmob_only
+5651612ba963,2627,2026-09-13,Man United,Man City,0,1,A,football_data_official,,fotmob_only
+79698a50c906,2627,2026-09-14,Leeds,Newcastle,4,1,H,football_data_official,,fotmob_only
+08046cd419ed,2627,2026-09-18,Brentford,Chelsea,3,0,H,football_data_official,,fotmob_only
+6bb5dfc90d9e,2627,2026-09-19,Tottenham,Aston Villa,2,3,A,football_data_official,,fotmob_only
+6dc2707f70ba,2627,2026-09-19,Brighton,Arsenal,3,0,H,football_data_official,,fotmob_only
+1d924cad0dc9,2627,2026-09-19,Everton,Ipswich,1,0,H,football_data_official,,fotmob_only
+a7e12f8177d8,2627,2026-09-19,Newcastle,Hull,2,1,H,football_data_official,,fotmob_only
+f01d464450c3,2627,2026-09-19,Nott'm Forest,Coventry,0,1,A,football_data_official,,fotmob_only
+1355ae407964,2627,2026-09-20,Bournemouth,Liverpool,0,1,A,football_data_official,,fotmob_only
+d3eb434dc89e,2627,2026-09-20,Leeds,Crystal Palace,0,0,D,football_data_official,,fotmob_only
+e3469a91776a,2627,2026-09-20,Man City,Sunderland,5,3,H,football_data_official,,fotmob_only
+60223a4a98eb,2627,2026-09-20,Fulham,Man United,1,1,D,football_data_official,,fotmob_only
+b0470a443eaf,2627,2026-10-10,Arsenal,Leeds,2,1,H,football_data_official,,fotmob_only
+6552e93ec35f,2627,2026-10-10,Aston Villa,Brentford,2,2,D,football_data_official,,fotmob_only
+29fdaad66e9a,2627,2026-10-10,Chelsea,Bournemouth,5,1,H,football_data_official,,fotmob_only
+03530bb188ec,2627,2026-10-10,Ipswich,Fulham,2,1,H,football_data_official,,fotmob_only
+e353f78d956b,2627,2026-10-10,Sunderland,Brighton,0,2,A,football_data_official,,fotmob_only
+459897a12035,2627,2026-10-10,Man United,Tottenham,1,1,D,football_data_official,,fotmob_only
+cc0e8be6c805,2627,2026-10-11,Crystal Palace,Nott'm Forest,3,1,H,football_data_official,,fotmob_only
+f9a1473e49e1,2627,2026-10-11,Hull,Everton,2,2,D,football_data_official,,fotmob_only
+206e299494c9,2627,2026-10-11,Liverpool,Man City,0,3,A,football_data_official,,fotmob_only
+e2d924e0bbf0,2627,2026-10-12,Coventry,Newcastle,4,1,H,football_data_official,,fotmob_only
+f852c52c1b46,2627,2026-10-17,Everton,Chelsea,0,2,A,football_data_official,,fotmob_only
+0972de221fe9,2627,2026-10-17,Brentford,Liverpool,1,2,A,football_data_official,,fotmob_only
+215fb98e776a,2627,2026-10-17,Fulham,Hull,1,0,H,football_data_official,,fotmob_only
+ae3738d429ff,2627,2026-10-17,Man City,Ipswich,3,2,H,football_data_official,,fotmob_only
+913cad24ed57,2627,2026-10-17,Newcastle,Aston Villa,0,1,A,football_data_official,,fotmob_only
+f4497c9c81c6,2627,2026-10-18,Bournemouth,Sunderland,2,0,H,football_data_official,,fotmob_only
+e4abe27bde66,2627,2026-10-18,Brighton,Crystal Palace,5,0,H,football_data_official,,fotmob_only
+b72ff21260d6,2627,2026-10-18,Leeds,Man United,1,1,D,football_data_official,,fotmob_only
+b90aa142b7e8,2627,2026-10-18,Nott'm Forest,Arsenal,0,1,A,football_data_official,,fotmob_only
+aa8844271be4,2627,2026-10-19,Tottenham,Coventry,3,1,H,football_data_official,,fotmob_only

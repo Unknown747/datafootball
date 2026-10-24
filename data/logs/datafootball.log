@@ -1,0 +1,290 @@
+2026-10-22 23:56:16 | INFO     | datafootball.cli | datafootball v0.1.0
+2026-10-22 23:56:16 | INFO     | datafootball.cli | Status: FASE 2 selesai (struktur & konfigurasi)
+2026-10-22 23:58:12 | INFO     | datafootball.loader | Memproses 2122_E0.csv (musim 2122)...
+2026-10-22 23:58:12 | ERROR    | datafootball.loader | 2122_E0.csv: Kolom wajib hilang: ['Div']
+2026-10-22 23:58:12 | INFO     | datafootball.loader |   Selesai: 0 baru, 0 duplikat, 0 gagal.
+2026-10-22 23:58:12 | INFO     | datafootball.loader | Memproses 2223_E0.csv (musim 2223)...
+2026-10-22 23:58:12 | INFO     | datafootball.loader |   Selesai: 380 baru, 0 duplikat, 0 gagal.
+2026-10-22 23:58:12 | INFO     | datafootball.loader | Memproses 2324_E0.csv (musim 2324)...
+2026-10-22 23:58:12 | INFO     | datafootball.loader |   Selesai: 380 baru, 0 duplikat, 0 gagal.
+2026-10-22 23:58:12 | INFO     | datafootball.loader | Memproses 2425_E0.csv (musim 2425)...
+2026-10-22 23:58:12 | ERROR    | datafootball.loader | 2425_E0.csv: Kolom wajib hilang: ['Div']
+2026-10-22 23:58:12 | INFO     | datafootball.loader |   Selesai: 0 baru, 0 duplikat, 0 gagal.
+2026-10-22 23:58:12 | INFO     | datafootball.loader | Memproses 2526_E0.csv (musim 2526)...
+2026-10-22 23:58:12 | ERROR    | datafootball.loader | 2526_E0.csv: Kolom wajib hilang: ['Div']
+2026-10-22 23:58:12 | INFO     | datafootball.loader |   Selesai: 0 baru, 0 duplikat, 0 gagal.
+2026-10-22 23:59:07 | INFO     | datafootball.loader | Memproses 2122_E0.csv (musim 2122)...
+2026-10-22 23:59:07 | INFO     | datafootball.loader |   Selesai: 380 baru, 0 duplikat, 0 gagal.
+2026-10-22 23:59:07 | INFO     | datafootball.loader | Memproses 2223_E0.csv (musim 2223)...
+2026-10-22 23:59:07 | INFO     | datafootball.loader |   Selesai: 380 baru, 0 duplikat, 0 gagal.
+2026-10-22 23:59:07 | INFO     | datafootball.loader | Memproses 2324_E0.csv (musim 2324)...
+2026-10-22 23:59:07 | INFO     | datafootball.loader |   Selesai: 380 baru, 0 duplikat, 0 gagal.
+2026-10-22 23:59:07 | INFO     | datafootball.loader | Memproses 2425_E0.csv (musim 2425)...
+2026-10-22 23:59:07 | INFO     | datafootball.loader |   Selesai: 380 baru, 0 duplikat, 0 gagal.
+2026-10-22 23:59:07 | INFO     | datafootball.loader | Memproses 2526_E0.csv (musim 2526)...
+2026-10-22 23:59:07 | INFO     | datafootball.loader |   Selesai: 380 baru, 0 duplikat, 0 gagal.
+2026-10-23 00:00:35 | INFO     | datafootball.test_fotmob | Mengakses: https://www.fotmob.com/leagues/47/fixtures/premier-league?season=2025-2026&group=by-date
+2026-10-23 00:00:37 | INFO     | datafootball.test_fotmob | HTTP Status: 200
+2026-10-23 00:00:37 | INFO     | datafootball.test_fotmob | Ukuran HTML: 1241056 bytes
+2026-10-23 00:00:37 | INFO     | datafootball.test_fotmob | Tag __NEXT_DATA__ ditemukan. Mencoba parse JSON...
+2026-10-23 00:00:37 | INFO     | datafootball.test_fotmob | JSON berhasil diparse.
+2026-10-23 00:00:37 | INFO     | datafootball.test_fotmob | Keys di pageProps: ['tabs', 'allAvailableSeasons', 'details', 'seostr', 'QAData', 'table', 'transfers', 'overview', 'stats', 'fixtures', 'playoff', 'seasons', 'fallback', 'translations']
+2026-10-23 00:00:37 | WARNING  | datafootball.test_fotmob | Key 'league' tidak ditemukan di pageProps.
+2026-10-23 00:02:01 | INFO     | datafootball.explore | === STRUKTUR 'fixtures' ===
+2026-10-23 00:02:01 | INFO     | datafootball.explore | firstUnplayedMatch: None
+2026-10-23 00:02:01 | INFO     | datafootball.explore | allMatches: list (len=380)
+2026-10-23 00:02:01 | INFO     | datafootball.explore |   [0]:
+2026-10-23 00:02:01 | INFO     | datafootball.explore |     round: '1'
+2026-10-23 00:02:01 | INFO     | datafootball.explore |     roundName: 1
+2026-10-23 00:02:01 | INFO     | datafootball.explore |     pageUrl: '/matches/liverpool-vs-afc-bournemouth/2he69q#4813374'
+2026-10-23 00:02:01 | INFO     | datafootball.explore |     id: '4813374'
+2026-10-23 00:02:01 | INFO     | datafootball.explore |     home: dict (len=3)
+2026-10-23 00:02:01 | INFO     | datafootball.explore |     away: dict (len=3)
+2026-10-23 00:02:01 | INFO     | datafootball.explore |     status: dict (len=8)
+2026-10-23 00:02:01 | INFO     | datafootball.explore | hasOngoingMatch: False
+2026-10-23 00:02:01 | INFO     | datafootball.explore | fixtureInfo: dict (len=4)
+2026-10-23 00:02:01 | INFO     | datafootball.explore |   activeRound: dict (len=2)
+2026-10-23 00:02:01 | INFO     | datafootball.explore |     roundId: '38'
+2026-10-23 00:02:01 | INFO     | datafootball.explore |     localizedKey: 'round_fmt'
+2026-10-23 00:02:01 | INFO     | datafootball.explore |   rounds: list (len=38)
+2026-10-23 00:02:01 | INFO     | datafootball.explore |     [0]:
+2026-10-23 00:02:01 | INFO     | datafootball.explore |   teams: list (len=20)
+2026-10-23 00:02:01 | INFO     | datafootball.explore |     [0]:
+2026-10-23 00:02:01 | INFO     | datafootball.explore |   groups: list (len=0)
+2026-10-23 00:02:01 | INFO     | datafootball.explore | 
+=== MENCARI DAFTAR PERTANDINGAN ===
+2026-10-23 00:02:01 | INFO     | datafootball.explore | Key 'allMatches' ditemukan: list
+2026-10-23 00:02:01 | INFO     | datafootball.explore |   Jumlah item: 380
+2026-10-23 00:02:01 | INFO     | datafootball.explore |   Contoh item[0]: {
+  "round": "1",
+  "roundName": 1,
+  "pageUrl": "/matches/liverpool-vs-afc-bournemouth/2he69q#4813374",
+  "id": "4813374",
+  "home": {
+    "name": "Liverpool",
+    "shortName": "Liverpool",
+    "id": "8650"
+  },
+  "away": {
+    "name": "AFC Bournemouth",
+    "shortName": "Bournemouth",
+    "id": "8678"
+  },
+  "status": {
+    "utcTime": "2025-08-15T19:00:00Z",
+    "timezone": "UTC",
+    "finished": true,
+    "started": true,
+    "cancelled": false,
+    "awarded": false,
+    "scoreStr": "4 - 2",
+    "reason": {
+      "short": "FT",
+      "shortKey": "fulltime_short",
+      "long": "Full-Time",
+      "longKey": "finished"
+    }
+  }
+}
+2026-10-23 00:04:57 | INFO     | datafootball.fotmob_client | GET https://www.fotmob.com/leagues/47/fixtures/premier-league?season=2025-2026&group=by-date (percobaan 1/3)
+2026-10-23 00:04:57 | INFO     | datafootball.fotmob_parser | Berhasil mem-parsing 380 pertandingan.
+2026-10-23 00:04:57 | INFO     | datafootball.test_parser | Contoh pertandingan pertama:
+2026-10-23 00:04:57 | INFO     | datafootball.test_parser | {'fotmob_match_id': '4813374', 'utc_time': '2025-08-15T19:00:00Z', 'home_name': 'Liverpool', 'home_id': '8650', 'away_name': 'AFC Bournemouth', 'away_id': '8678', 'home_goals': 4, 'away_goals': 2, 'status': 'FT', 'finished': True, 'round': '1'}
+2026-10-23 00:05:54 | INFO     | datafootball.fotmob_client | GET https://www.fotmob.com/leagues/47/fixtures/premier-league?season=2025-2026&group=by-date (percobaan 1/3)
+2026-10-23 00:05:54 | INFO     | datafootball.fotmob_parser | Berhasil mem-parsing 380 pertandingan.
+2026-10-23 00:06:32 | INFO     | datafootball.fotmob_client | GET https://www.fotmob.com/leagues/47/fixtures/premier-league?season=2025-2026&group=by-date (percobaan 1/3)
+2026-10-23 00:06:32 | INFO     | datafootball.fotmob_parser | Berhasil mem-parsing 380 pertandingan.
+2026-10-23 00:06:32 | INFO     | datafootball.matcher | Football-Data 2526: 380 pertandingan
+2026-10-23 00:06:32 | INFO     | datafootball.matcher | Selesai: 380 pertandingan kanonis, 0 konflik.
+2026-10-23 00:09:02 | INFO     | datafootball.features | Memproses 1900 pertandingan.
+2026-10-23 00:09:02 | INFO     | datafootball.features | Selesai: 1900 baris fitur ditulis ke /root/datafootball/data/features/features.csv
+2026-10-23 00:13:48 | INFO     | datafootball.poisson | Memproses 1900 pertandingan.
+2026-10-23 00:13:48 | INFO     | datafootball.poisson | Selesai: 1900 prediksi ditulis ke /root/datafootball/data/predictions/poisson_predictions.csv
+2026-10-23 00:17:13 | INFO     | datafootball.baseline | Frekuensi historis: H=0.4416, D=0.2389, A=0.3195 (n=1900)
+2026-10-23 00:17:13 | INFO     | datafootball.baseline | Selesai: 1900 prediksi baseline ditulis.
+2026-10-23 00:17:13 | INFO     | datafootball.elo | Selesai: 1900 prediksi Elo ditulis.
+2026-10-23 00:18:20 | INFO     | datafootball.odds | Memuat odds aktual dari data mentah...
+2026-10-23 00:18:20 | INFO     | datafootball.odds | Total pertandingan dengan odds: 1900
+2026-10-23 00:18:20 | INFO     | datafootball.odds | poisson: 1900 baris, 1900 dengan odds lengkap, value flag: H=435 D=369 A=944 -> value_poisson.csv
+2026-10-23 00:18:20 | INFO     | datafootball.odds | elo: 1900 baris, 1900 dengan odds lengkap, value flag: H=764 D=232 A=774 -> value_elo.csv
+2026-10-23 00:18:20 | INFO     | datafootball.odds | baseline: 1900 baris, 1900 dengan odds lengkap, value flag: H=864 D=495 A=929 -> value_baseline.csv
+2026-10-23 00:20:41 | INFO     | datafootball.backtester | poisson: n=1900, log_loss=1.0565, brier=0.2075, acc=0.4974
+2026-10-23 00:20:41 | INFO     | datafootball.backtester | elo: n=1900, log_loss=0.9962, brier=0.1977, acc=0.5311
+2026-10-23 00:20:41 | INFO     | datafootball.backtester | baseline: n=1900, log_loss=1.0675, brier=0.2153, acc=0.4416
+2026-10-23 00:20:41 | INFO     | datafootball.backtester | Hasil backtest disimpan ke /root/datafootball/data/evaluations/backtest_results.csv
+2026-10-23 00:22:06 | INFO     | datafootball.cli | datafootball v0.1.0
+2026-10-23 00:22:06 | INFO     | datafootball.cli |   matches.csv                    1900 baris
+2026-10-23 00:22:06 | INFO     | datafootball.cli |   features.csv                   1900 baris
+2026-10-23 00:22:06 | INFO     | datafootball.cli |   poisson_predictions.csv        1900 baris
+2026-10-23 00:22:06 | INFO     | datafootball.cli |   elo_predictions.csv            1900 baris
+2026-10-23 00:22:06 | INFO     | datafootball.cli |   baseline_predictions.csv       1900 baris
+2026-10-23 00:22:06 | INFO     | datafootball.cli |   backtest_results.csv           3 baris
+2026-10-23 00:22:43 | INFO     | datafootball.cli | Menjalankan impor data dari mirror lokal...
+2026-10-23 00:22:44 | INFO     | datafootball.loader | Memproses 2122_E0.csv (musim 2122)...
+2026-10-23 00:22:44 | INFO     | datafootball.loader |   Selesai: 0 baru, 380 duplikat, 0 gagal.
+2026-10-23 00:22:44 | INFO     | datafootball.loader | Memproses 2223_E0.csv (musim 2223)...
+2026-10-23 00:22:44 | INFO     | datafootball.loader |   Selesai: 0 baru, 380 duplikat, 0 gagal.
+2026-10-23 00:22:44 | INFO     | datafootball.loader | Memproses 2324_E0.csv (musim 2324)...
+2026-10-23 00:22:44 | INFO     | datafootball.loader |   Selesai: 0 baru, 380 duplikat, 0 gagal.
+2026-10-23 00:22:44 | INFO     | datafootball.loader | Memproses 2425_E0.csv (musim 2425)...
+2026-10-23 00:22:44 | INFO     | datafootball.loader |   Selesai: 0 baru, 380 duplikat, 0 gagal.
+2026-10-23 00:22:44 | INFO     | datafootball.loader | Memproses 2526_E0.csv (musim 2526)...
+2026-10-23 00:22:44 | INFO     | datafootball.loader |   Selesai: 0 baru, 380 duplikat, 0 gagal.
+2026-10-23 20:40:39 | INFO     | datafootball.cli | Menjalankan impor data dari mirror lokal...
+2026-10-23 20:40:39 | INFO     | datafootball.loader | Memproses 2122_E0.csv (musim 2122)...
+2026-10-23 20:40:39 | INFO     | datafootball.loader |   Selesai: 380 baru, 0 duplikat, 0 gagal.
+2026-10-23 20:40:39 | INFO     | datafootball.loader | Memproses 2223_E0.csv (musim 2223)...
+2026-10-23 20:40:39 | INFO     | datafootball.loader |   Selesai: 380 baru, 0 duplikat, 0 gagal.
+2026-10-23 20:40:39 | INFO     | datafootball.loader | Memproses 2324_E0.csv (musim 2324)...
+2026-10-23 20:40:39 | INFO     | datafootball.loader |   Selesai: 380 baru, 0 duplikat, 0 gagal.
+2026-10-23 20:40:39 | INFO     | datafootball.loader | Memproses 2425_E0.csv (musim 2425)...
+2026-10-23 20:40:39 | INFO     | datafootball.loader |   Selesai: 380 baru, 0 duplikat, 0 gagal.
+2026-10-23 20:40:39 | INFO     | datafootball.loader | Memproses 2526_E0.csv (musim 2526)...
+2026-10-23 20:40:39 | INFO     | datafootball.loader |   Selesai: 380 baru, 0 duplikat, 0 gagal.
+2026-10-23 20:40:39 | INFO     | datafootball.cli | Menghitung fitur statistik...
+2026-10-23 20:40:39 | INFO     | datafootball.features | Memproses 1900 pertandingan.
+2026-10-23 20:40:40 | INFO     | datafootball.features | Selesai: 1900 baris fitur ditulis ke /root/datafootball/data/features/features.csv
+2026-10-23 20:40:40 | INFO     | datafootball.cli | Menjalankan prediksi Poisson...
+2026-10-23 20:40:40 | INFO     | datafootball.poisson | Memproses 1900 pertandingan.
+2026-10-23 20:40:40 | INFO     | datafootball.poisson | Selesai: 1900 prediksi ditulis ke /root/datafootball/data/predictions/poisson_predictions.csv
+2026-10-23 20:40:40 | INFO     | datafootball.cli | Menjalankan prediksi Elo...
+2026-10-23 20:40:40 | INFO     | datafootball.elo | Selesai: 1900 prediksi Elo ditulis.
+2026-10-23 20:40:40 | INFO     | datafootball.cli | Menjalankan baseline...
+2026-10-23 20:40:40 | INFO     | datafootball.baseline | Frekuensi historis: H=0.4416, D=0.2389, A=0.3195 (n=1900)
+2026-10-23 20:40:40 | INFO     | datafootball.baseline | Selesai: 1900 prediksi baseline ditulis.
+2026-10-23 20:40:40 | INFO     | datafootball.cli | Menghitung value...
+2026-10-23 20:40:40 | INFO     | datafootball.odds | Memuat odds aktual dari data mentah...
+2026-10-23 20:40:40 | INFO     | datafootball.odds | Total pertandingan dengan odds: 1900
+2026-10-23 20:40:40 | INFO     | datafootball.odds | poisson: 1900 baris, 1900 dengan odds lengkap, value flag: H=435 D=369 A=944 -> value_poisson.csv
+2026-10-23 20:40:40 | INFO     | datafootball.odds | elo: 1900 baris, 1900 dengan odds lengkap, value flag: H=764 D=232 A=774 -> value_elo.csv
+2026-10-23 20:40:40 | INFO     | datafootball.odds | baseline: 1900 baris, 1900 dengan odds lengkap, value flag: H=864 D=495 A=929 -> value_baseline.csv
+2026-10-23 20:40:40 | INFO     | datafootball.cli | Menjalankan backtest...
+2026-10-23 20:40:40 | INFO     | datafootball.backtester | poisson: n=1900, log_loss=1.0565, brier=0.2075, acc=0.4974
+2026-10-23 20:40:40 | INFO     | datafootball.backtester | elo: n=1900, log_loss=0.9962, brier=0.1977, acc=0.5311
+2026-10-23 20:40:40 | INFO     | datafootball.backtester | baseline: n=1900, log_loss=1.0675, brier=0.2153, acc=0.4416
+2026-10-23 20:40:40 | INFO     | datafootball.backtester | Hasil backtest disimpan ke /root/datafootball/data/evaluations/backtest_results.csv
+2026-10-23 20:45:28 | INFO     | datafootball.upcoming | Tidak ada pertandingan mendatang di database.
+2026-10-23 20:45:36 | INFO     | datafootball.cli | Menghitung value...
+2026-10-23 20:45:36 | INFO     | datafootball.odds | Memuat odds aktual dari data mentah...
+2026-10-23 20:45:36 | INFO     | datafootball.odds | Total pertandingan dengan odds: 1900
+2026-10-23 20:45:36 | INFO     | datafootball.odds | poisson: 1900 baris, 1900 dengan odds lengkap, value flag: H=435 D=369 A=944 -> value_poisson.csv
+2026-10-23 20:45:36 | INFO     | datafootball.odds | elo: 1900 baris, 1900 dengan odds lengkap, value flag: H=764 D=232 A=774 -> value_elo.csv
+2026-10-23 20:45:36 | INFO     | datafootball.odds | baseline: 1900 baris, 1900 dengan odds lengkap, value flag: H=864 D=495 A=929 -> value_baseline.csv
+2026-10-23 20:45:36 | INFO     | datafootball.cli | Menjalankan backtest...
+2026-10-23 20:45:36 | INFO     | datafootball.backtester | poisson: n=1900, log_loss=1.0565, brier=0.2075, acc=0.4974
+2026-10-23 20:45:36 | INFO     | datafootball.backtester | elo: n=1900, log_loss=0.9962, brier=0.1977, acc=0.5311
+2026-10-23 20:45:36 | INFO     | datafootball.backtester | baseline: n=1900, log_loss=1.0675, brier=0.2153, acc=0.4416
+2026-10-23 20:45:36 | INFO     | datafootball.backtester | Hasil backtest disimpan ke /root/datafootball/data/evaluations/backtest_results.csv
+2026-10-23 20:47:12 | INFO     | datafootball.test_upcoming | Mencoba musim 2026-2027...
+2026-10-23 20:47:12 | INFO     | datafootball.fotmob_client | GET https://www.fotmob.com/leagues/47/fixtures/premier-league?season=2026-2027&group=by-date (percobaan 1/3)
+2026-10-23 20:47:15 | INFO     | datafootball.fotmob_parser | Berhasil mem-parsing 380 pertandingan.
+2026-10-23 20:47:15 | INFO     | datafootball.test_upcoming | Musim 2026-2027: total 380 pertandingan, 310 belum selesai
+2026-10-23 20:47:15 | INFO     | datafootball.test_upcoming | Contoh pertandingan mendatang:
+2026-10-23 20:47:15 | INFO     | datafootball.test_upcoming |   2026-10-23T19:00:00.000Z | Ipswich Town vs Nottingham Forest | None
+2026-10-23 20:47:15 | INFO     | datafootball.test_upcoming |   2026-10-24T11:30:00Z | Aston Villa vs Manchester City | None
+2026-10-23 20:47:15 | INFO     | datafootball.test_upcoming |   2026-10-24T14:00:00Z | Arsenal vs Everton | None
+2026-10-23 20:47:15 | INFO     | datafootball.test_upcoming |   2026-10-24T14:00:00Z | Coventry City vs Fulham | None
+2026-10-23 20:47:15 | INFO     | datafootball.test_upcoming |   2026-10-24T16:30:00Z | Chelsea vs Tottenham Hotspur | None
+2026-10-23 20:47:15 | INFO     | datafootball.test_upcoming | Mencoba musim 2025-2026...
+2026-10-23 20:47:15 | INFO     | datafootball.fotmob_client | GET https://www.fotmob.com/leagues/47/fixtures/premier-league?season=2025-2026&group=by-date (percobaan 1/3)
+2026-10-23 20:47:19 | INFO     | datafootball.fotmob_parser | Berhasil mem-parsing 380 pertandingan.
+2026-10-23 20:47:19 | INFO     | datafootball.test_upcoming | Musim 2025-2026: total 380 pertandingan, 0 belum selesai
+2026-10-23 20:48:09 | INFO     | datafootball.upcoming | Mengambil jadwal mendatang dari FotMob (2026/27)...
+2026-10-23 20:48:09 | INFO     | datafootball.fotmob_client | GET https://www.fotmob.com/leagues/47/fixtures/premier-league?season=2026-2027&group=by-date (percobaan 1/3)
+2026-10-23 20:48:10 | INFO     | datafootball.fotmob_parser | Berhasil mem-parsing 380 pertandingan.
+2026-10-23 20:48:10 | INFO     | datafootball.upcoming | Ditemukan 310 pertandingan mendatang.
+2026-10-23 20:48:10 | INFO     | datafootball.upcoming | Fitur tersedia untuk 27 tim.
+2026-10-23 20:48:10 | INFO     | datafootball.upcoming | Selesai: 310 prediksi mendatang ditulis ke /root/datafootball/data/predictions/upcoming_predictions.csv
+2026-10-23 20:50:42 | INFO     | datafootball.upcoming | Mengambil jadwal mendatang dari FotMob (2026/27)...
+2026-10-23 20:50:42 | INFO     | datafootball.fotmob_client | GET https://www.fotmob.com/leagues/47/fixtures/premier-league?season=2026-2027&group=by-date (percobaan 1/3)
+2026-10-23 20:50:46 | INFO     | datafootball.fotmob_parser | Berhasil mem-parsing 380 pertandingan.
+2026-10-23 20:50:46 | INFO     | datafootball.upcoming | Ditemukan 310 pertandingan mendatang.
+2026-10-23 20:50:46 | INFO     | datafootball.upcoming | Fitur tersedia untuk 27 tim.
+2026-10-23 20:50:46 | INFO     | datafootball.upcoming | Selesai: 310 prediksi mendatang ditulis ke /root/datafootball/data/predictions/upcoming_predictions.csv
+2026-10-23 20:57:39 | INFO     | datafootball.cli | Menjalankan impor data dari mirror lokal...
+2026-10-23 20:57:39 | INFO     | datafootball.loader | Memproses 2122_E0.csv (musim 2122)...
+2026-10-23 20:57:40 | INFO     | datafootball.loader |   Selesai: 380 baru, 0 duplikat, 0 gagal.
+2026-10-23 20:57:40 | INFO     | datafootball.loader | Memproses 2223_E0.csv (musim 2223)...
+2026-10-23 20:57:40 | INFO     | datafootball.loader |   Selesai: 380 baru, 0 duplikat, 0 gagal.
+2026-10-23 20:57:40 | INFO     | datafootball.loader | Memproses 2324_E0.csv (musim 2324)...
+2026-10-23 20:57:40 | INFO     | datafootball.loader |   Selesai: 380 baru, 0 duplikat, 0 gagal.
+2026-10-23 20:57:40 | INFO     | datafootball.loader | Memproses 2425_E0.csv (musim 2425)...
+2026-10-23 20:57:40 | INFO     | datafootball.loader |   Selesai: 380 baru, 0 duplikat, 0 gagal.
+2026-10-23 20:57:40 | INFO     | datafootball.loader | Memproses 2526_E0.csv (musim 2526)...
+2026-10-23 20:57:40 | INFO     | datafootball.loader |   Selesai: 380 baru, 0 duplikat, 0 gagal.
+2026-10-23 20:57:40 | INFO     | datafootball.loader | Memproses 2627_E0.csv (musim 2627)...
+2026-10-23 20:57:40 | INFO     | datafootball.loader |   Selesai: 70 baru, 0 duplikat, 0 gagal.
+2026-10-23 20:59:10 | INFO     | datafootball.cli | Menghitung fitur statistik...
+2026-10-23 20:59:10 | INFO     | datafootball.features | Memproses 1970 pertandingan.
+2026-10-23 20:59:10 | INFO     | datafootball.features | Selesai: 1970 baris fitur ditulis ke /root/datafootball/data/features/features.csv
+2026-10-23 20:59:10 | INFO     | datafootball.cli | Menjalankan prediksi Poisson...
+2026-10-23 20:59:10 | INFO     | datafootball.poisson | Memproses 1970 pertandingan.
+2026-10-23 20:59:10 | INFO     | datafootball.poisson | Selesai: 1970 prediksi ditulis ke /root/datafootball/data/predictions/poisson_predictions.csv
+2026-10-23 20:59:10 | INFO     | datafootball.cli | Menjalankan prediksi Elo...
+2026-10-23 20:59:10 | INFO     | datafootball.elo | Selesai: 1970 prediksi Elo ditulis.
+2026-10-23 20:59:10 | INFO     | datafootball.cli | Menjalankan baseline...
+2026-10-23 20:59:10 | INFO     | datafootball.baseline | Frekuensi historis: H=0.4401, D=0.2406, A=0.3193 (n=1970)
+2026-10-23 20:59:10 | INFO     | datafootball.baseline | Selesai: 1970 prediksi baseline ditulis.
+2026-10-23 20:59:10 | INFO     | datafootball.cli | Menghitung value...
+2026-10-23 20:59:10 | INFO     | datafootball.odds | Memuat odds aktual dari data mentah...
+2026-10-23 20:59:10 | INFO     | datafootball.odds | Total pertandingan dengan odds: 1970
+2026-10-23 20:59:10 | INFO     | datafootball.odds | poisson: 1970 baris, 1970 dengan odds lengkap, value flag: H=451 D=394 A=967 -> value_poisson.csv
+2026-10-23 20:59:10 | INFO     | datafootball.odds | elo: 1970 baris, 1970 dengan odds lengkap, value flag: H=797 D=237 A=798 -> value_elo.csv
+2026-10-23 20:59:10 | INFO     | datafootball.odds | baseline: 1970 baris, 1970 dengan odds lengkap, value flag: H=872 D=509 A=960 -> value_baseline.csv
+2026-10-23 20:59:10 | INFO     | datafootball.cli | Menjalankan backtest...
+2026-10-23 20:59:10 | INFO     | datafootball.backtester | poisson: n=1970, log_loss=1.0636, brier=0.2087, acc=0.4954
+2026-10-23 20:59:10 | INFO     | datafootball.backtester | elo: n=1970, log_loss=0.9969, brier=0.1979, acc=0.5289
+2026-10-23 20:59:10 | INFO     | datafootball.backtester | baseline: n=1970, log_loss=1.0685, brier=0.2155, acc=0.4401
+2026-10-23 20:59:10 | INFO     | datafootball.backtester | Hasil backtest disimpan ke /root/datafootball/data/evaluations/backtest_results.csv
+2026-10-23 20:59:22 | INFO     | datafootball.upcoming | Mengambil jadwal mendatang dari FotMob (2026/27)...
+2026-10-23 20:59:22 | INFO     | datafootball.fotmob_client | GET https://www.fotmob.com/leagues/47/fixtures/premier-league?season=2026-2027&group=by-date (percobaan 1/3)
+2026-10-23 20:59:23 | INFO     | datafootball.fotmob_parser | Berhasil mem-parsing 380 pertandingan.
+2026-10-23 20:59:23 | INFO     | datafootball.upcoming | Ditemukan 310 pertandingan mendatang.
+2026-10-23 20:59:23 | INFO     | datafootball.upcoming | Fitur tersedia untuk 29 tim.
+2026-10-23 20:59:23 | INFO     | datafootball.upcoming | Selesai: 310 prediksi mendatang ditulis ke /root/datafootball/data/predictions/upcoming_predictions.csv
+2026-10-23 21:03:15 | INFO     | datafootball.cli | Menghitung fitur statistik...
+2026-10-23 21:03:15 | INFO     | datafootball.features | Memproses 1970 pertandingan.
+2026-10-23 21:03:15 | INFO     | datafootball.features | Selesai: 1970 baris fitur ditulis ke /root/datafootball/data/features/features.csv
+2026-10-23 21:03:15 | INFO     | datafootball.cli | Menjalankan prediksi Poisson...
+2026-10-23 21:03:15 | INFO     | datafootball.poisson | Memproses 1970 pertandingan.
+2026-10-23 21:03:16 | INFO     | datafootball.poisson | Selesai: 1970 prediksi ditulis ke /root/datafootball/data/predictions/poisson_predictions.csv
+2026-10-23 21:03:16 | INFO     | datafootball.cli | Menjalankan prediksi Elo...
+2026-10-23 21:03:16 | INFO     | datafootball.elo | Selesai: 1970 prediksi Elo ditulis.
+2026-10-23 21:03:16 | INFO     | datafootball.cli | Menjalankan baseline...
+2026-10-23 21:03:16 | INFO     | datafootball.baseline | Frekuensi historis: H=0.4401, D=0.2406, A=0.3193 (n=1970)
+2026-10-23 21:03:16 | INFO     | datafootball.baseline | Selesai: 1970 prediksi baseline ditulis.
+2026-10-23 21:03:28 | INFO     | datafootball.upcoming | Mengambil jadwal mendatang dari FotMob (2026/27)...
+2026-10-23 21:03:28 | INFO     | datafootball.fotmob_client | GET https://www.fotmob.com/leagues/47/fixtures/premier-league?season=2026-2027&group=by-date (percobaan 1/3)
+2026-10-23 21:03:29 | INFO     | datafootball.fotmob_parser | Berhasil mem-parsing 380 pertandingan.
+2026-10-23 21:03:29 | INFO     | datafootball.upcoming | Ditemukan 310 pertandingan mendatang.
+2026-10-23 21:03:29 | INFO     | datafootball.upcoming | Fitur tersedia untuk 29 tim.
+2026-10-23 21:03:29 | INFO     | datafootball.upcoming | Selesai: 310 prediksi mendatang ditulis ke /root/datafootball/data/predictions/upcoming_predictions.csv
+2026-10-23 21:07:28 | INFO     | datafootball.cli | Menghitung fitur statistik...
+2026-10-23 21:07:28 | INFO     | datafootball.features | Memproses 1970 pertandingan.
+2026-10-23 21:07:29 | INFO     | datafootball.features | Selesai: 1970 baris fitur ditulis ke /root/datafootball/data/features/features.csv
+2026-10-23 21:07:29 | INFO     | datafootball.cli | Menjalankan prediksi Poisson...
+2026-10-23 21:07:29 | INFO     | datafootball.poisson | Memproses 1970 pertandingan.
+2026-10-23 21:07:29 | INFO     | datafootball.poisson | Selesai: 1970 prediksi ditulis. Sumber λ: xg=40, goals=1907, fallback=23
+2026-10-23 21:07:29 | INFO     | datafootball.cli | Menjalankan prediksi Elo...
+2026-10-23 21:07:29 | INFO     | datafootball.elo | Selesai: 1970 prediksi Elo ditulis.
+2026-10-23 21:07:29 | INFO     | datafootball.cli | Menjalankan baseline...
+2026-10-23 21:07:29 | INFO     | datafootball.baseline | Frekuensi historis: H=0.4401, D=0.2406, A=0.3193 (n=1970)
+2026-10-23 21:07:29 | INFO     | datafootball.baseline | Selesai: 1970 prediksi baseline ditulis.
+2026-10-23 21:07:37 | INFO     | datafootball.upcoming | Mengambil jadwal mendatang dari FotMob (2026/27)...
+2026-10-23 21:07:37 | INFO     | datafootball.fotmob_client | GET https://www.fotmob.com/leagues/47/fixtures/premier-league?season=2026-2027&group=by-date (percobaan 1/3)
+2026-10-23 21:07:38 | INFO     | datafootball.fotmob_parser | Berhasil mem-parsing 380 pertandingan.
+2026-10-23 21:07:38 | INFO     | datafootball.upcoming | Ditemukan 310 pertandingan mendatang.
+2026-10-23 21:07:38 | INFO     | datafootball.upcoming | Fitur tersedia untuk 29 tim.
+2026-10-23 21:07:38 | INFO     | datafootball.upcoming | Selesai: 310 prediksi mendatang ditulis ke /root/datafootball/data/predictions/upcoming_predictions.csv
+2026-10-23 21:13:11 | INFO     | datafootball.upcoming | Mengambil jadwal mendatang dari FotMob (2026/27)...
+2026-10-23 21:13:11 | INFO     | datafootball.fotmob_client | GET https://www.fotmob.com/leagues/47/fixtures/premier-league?season=2026-2027&group=by-date (percobaan 1/3)
+2026-10-23 21:13:11 | INFO     | datafootball.fotmob_parser | Berhasil mem-parsing 380 pertandingan.
+2026-10-23 21:13:11 | INFO     | datafootball.upcoming | Ditemukan 310 pertandingan mendatang.
+2026-10-23 21:13:11 | INFO     | datafootball.upcoming | Fitur tersedia untuk 29 tim.
+2026-10-23 21:13:11 | INFO     | datafootball.upcoming | Selesai: 310 prediksi mendatang ditulis ke /root/datafootball/data/predictions/upcoming_predictions.csv
+2026-10-23 21:16:24 | INFO     | datafootball.standings | Klasemen 2627: 20 tim ditulis ke /root/datafootball/data/processed/standings.csv
+2026-10-23 21:16:30 | INFO     | datafootball.team_form | team_form.csv dibuat: 29 tim.
+2026-10-23 21:16:39 | INFO     | datafootball.odds_export | odds.csv dibuat: 1970 baris.
+2026-10-23 21:16:45 | INFO     | datafootball.xg_export | xg.csv dibuat: 70 baris.
+2026-10-23 21:16:51 | INFO     | datafootball.quality | data_quality.csv dibuat: 9 baris.
+2026-10-23 21:16:59 | INFO     | datafootball.canonical | matches_canonical.csv dibuat: 1970 baris.

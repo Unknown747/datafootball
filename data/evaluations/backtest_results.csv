@@ -1,0 +1,4 @@
+model,n_matches,log_loss,brier_score,accuracy
+poisson,1970,1.0636,0.2087,0.4954
+elo,1970,0.9969,0.1979,0.5289
+baseline,1970,1.0685,0.2155,0.4401
